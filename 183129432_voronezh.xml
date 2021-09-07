@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-03 15:19">
+<yml_catalog date="2021-09-07 10:17">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,26 +11,26 @@
 			<category id ="4" parentId="1">General.HomeAndGarden</category>
 		</categories>
 		<offers>
-			<offer id="2230773266" available="true">
-				<url>https://avito.ru/2230773266</url>
-				<price>500</price>
+			<offer id="2230801517" available="true">
+				<url>https://avito.ru/2230801517</url>
+				<price>600</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://51.img.avito.st/640x480/11700790251.jpg</picture>
-				<name>Тарелки Дулево СССР</name>
+				<picture>https://88.img.avito.st/640x480/11783676288.jpg</picture>
+				<name>Кувшин 800 мл</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+					Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230026824" available="true">
-				<url>https://avito.ru/2230026824</url>
-				<price>800</price>
+			<offer id="2229985989" available="true">
+				<url>https://avito.ru/2229985989</url>
+				<price>300</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://46.img.avito.st/640x480/11701131746.jpg</picture>
-				<name>Этажерка для фруктов Дулево</name>
+				<picture>https://64.img.avito.st/640x480/11782622664.jpg</picture>
+				<name>Ножи столовые мельхиор</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					В наличии 10 шт.   Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230743344" available="true">
@@ -44,48 +44,15 @@
 					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230233415" available="true">
-				<url>https://avito.ru/2230233415</url>
-				<price>300</price>
+			<offer id="2230751307" available="true">
+				<url>https://avito.ru/2230751307</url>
+				<price>2500</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://00.img.avito.st/640x480/11700855100.jpg</picture>
-				<name>Графин штоф СССР</name>
+				<picture>https://79.img.avito.st/640x480/11783916579.jpg</picture>
+				<name>Штоф Богемия</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230137532" available="true">
-				<url>https://avito.ru/2230137532</url>
-				<price>150</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://18.img.avito.st/640x480/11700095818.jpg</picture>
-				<name>Сахарница</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230342070" available="true">
-				<url>https://avito.ru/2230342070</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://39.img.avito.st/640x480/11700879939.jpg</picture>
-				<name>Штоф СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230633248" available="true">
-				<url>https://avito.ru/2230633248</url>
-				<price>150</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://36.img.avito.st/640x480/11699516936.jpg</picture>
-				<name>Подсвечники хрустальные</name>
-				<description>
-					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от 500 руб по Воронежу привезу бесплатно. (Развожу 2 раза в неделю)  Бронирую и доставляю после предоплаты двести рублей
+					Цена за штоф и 4 рюмки
 				</description>
 			</offer>
 			<offer id="2230540099" available="true">
@@ -110,6 +77,149 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
+			<offer id="2230026824" available="true">
+				<url>https://avito.ru/2230026824</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://46.img.avito.st/640x480/11701131746.jpg</picture>
+				<name>Этажерка для фруктов Дулево</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230781595" available="true">
+				<url>https://avito.ru/2230781595</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://81.img.avito.st/640x480/11794211281.jpg</picture>
+				<name>Ложки кофейные СССР</name>
+				<description>
+					11 см
+				</description>
+			</offer>
+			<offer id="2230882163" available="true">
+				<url>https://avito.ru/2230882163</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://13.img.avito.st/640x480/11781706013.jpg</picture>
+				<name>Кувшин дымчатое стекло СССР</name>
+				<description>
+					Объём 1,5 л.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230632512" available="true">
+				<url>https://avito.ru/2230632512</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://08.img.avito.st/640x480/11794305908.jpg</picture>
+				<name>Супница Богемия Чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230040433" available="true">
+				<url>https://avito.ru/2230040433</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://75.img.avito.st/640x480/11781831975.jpg</picture>
+				<name>Чашки вербилки</name>
+				<description>
+					Цена за 6 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230233415" available="true">
+				<url>https://avito.ru/2230233415</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11700855100.jpg</picture>
+				<name>Графин штоф СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230486671" available="true">
+				<url>https://avito.ru/2230486671</url>
+				<price>900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://65.img.avito.st/640x480/11781391265.jpg</picture>
+				<name>Хрустальные рюмки с мельхиором СССР</name>
+				<description>
+					ВАСО а 7,3 см, диаметр 4,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230568971" available="true">
+				<url>https://avito.ru/2230568971</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://52.img.avito.st/640x480/11781783752.jpg</picture>
+				<name>Чайник граненый СССР 3,5 л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229924897" available="true">
+				<url>https://avito.ru/2229924897</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11793678700.jpg</picture>
+				<name>Чайная пара дулево</name>
+				<description>
+					Цена за 1 пару. Есть отдельно 2 чашки
+				</description>
+			</offer>
+			<offer id="2230347554" available="true">
+				<url>https://avito.ru/2230347554</url>
+				<price>6000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://81.img.avito.st/640x480/11794006181.jpg</picture>
+				<name>Ваза хрустальная с серебром</name>
+				<description>
+					Высота 29 см.Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230202437" available="true">
+				<url>https://avito.ru/2230202437</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://39.img.avito.st/640x480/11794074739.jpg</picture>
+				<name>Сервиз гдр kahla</name>
+				<description>
+					Нет 1й чашки и скол на блюдце.
+				</description>
+			</offer>
+			<offer id="2230633248" available="true">
+				<url>https://avito.ru/2230633248</url>
+				<price>150</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://36.img.avito.st/640x480/11699516936.jpg</picture>
+				<name>Подсвечники хрустальные</name>
+				<description>
+					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от 500 руб по Воронежу привезу бесплатно. (Развожу 2 раза в неделю)  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230342070" available="true">
+				<url>https://avito.ru/2230342070</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://39.img.avito.st/640x480/11700879939.jpg</picture>
+				<name>Штоф СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
 			<offer id="2230352191" available="true">
 				<url>https://avito.ru/2230352191</url>
 				<price>200</price>
@@ -121,6 +231,17 @@
 					Смотрите много объявлений в моем профиле   При покупке от 500 руб. по Воронежу привезу бесплатно. (Развожу два раза в неделю)  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
+			<offer id="2230182065" available="true">
+				<url>https://avito.ru/2230182065</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://84.img.avito.st/640x480/11784419584.jpg</picture>
+				<name>Чайник 1,3л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
 			<offer id="2230716035" available="true">
 				<url>https://avito.ru/2230716035</url>
 				<price>200</price>
@@ -128,6 +249,72 @@
 				<categoryId>4</categoryId>
 				<picture>https://04.img.avito.st/640x480/11700026504.jpg</picture>
 				<name>Сливочник</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230131707" available="true">
+				<url>https://avito.ru/2230131707</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://77.img.avito.st/640x480/11794485477.jpg</picture>
+				<name>Конфетница ладья</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230476107" available="true">
+				<url>https://avito.ru/2230476107</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://13.img.avito.st/640x480/11781664613.jpg</picture>
+				<name>Штоф хрустальный</name>
+				<description>
+					Объём 700 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229916511" available="true">
+				<url>https://avito.ru/2229916511</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://99.img.avito.st/640x480/11793665299.jpg</picture>
+				<name>Сливочник Дулево</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230556386" available="true">
+				<url>https://avito.ru/2230556386</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://11.img.avito.st/640x480/11781985511.jpg</picture>
+				<name>Хрустальная ваза для цветов СССР</name>
+				<description>
+					Высота 14 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230137532" available="true">
+				<url>https://avito.ru/2230137532</url>
+				<price>150</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://18.img.avito.st/640x480/11700095818.jpg</picture>
+				<name>Сахарница</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230366787" available="true">
+				<url>https://avito.ru/2230366787</url>
+				<price>700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://98.img.avito.st/640x480/11781896398.jpg</picture>
+				<name>Хрустальная ладья с мельхиоровой ручкой</name>
 				<description>
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
@@ -143,6 +330,116 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно.  Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
+			<offer id="2229961171" available="true">
+				<url>https://avito.ru/2229961171</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://04.img.avito.st/640x480/11784399404.jpg</picture>
+				<name>Хрустальные рюмки СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230564359" available="true">
+				<url>https://avito.ru/2230564359</url>
+				<price>700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://42.img.avito.st/640x480/11793990342.jpg</picture>
+				<name>Штоф СССР</name>
+				<description>
+					Высота 21 см
+				</description>
+			</offer>
+			<offer id="2230744695" available="true">
+				<url>https://avito.ru/2230744695</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://65.img.avito.st/640x480/11781497365.jpg</picture>
+				<name>Чайная пара костяной фарфор в японском стиле</name>
+				<description>
+					Чашка 280 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230029813" available="true">
+				<url>https://avito.ru/2230029813</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://09.img.avito.st/640x480/11783705709.jpg</picture>
+				<name>Кувшин 800 мл</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230773266" available="true">
+				<url>https://avito.ru/2230773266</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://51.img.avito.st/640x480/11700790251.jpg</picture>
+				<name>Тарелки Дулево СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230663661" available="true">
+				<url>https://avito.ru/2230663661</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://91.img.avito.st/640x480/11793742291.jpg</picture>
+				<name>Пивной бокал</name>
+				<description>
+					Высота 27 см.
+				</description>
+			</offer>
+			<offer id="2230325563" available="true">
+				<url>https://avito.ru/2230325563</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11794497000.jpg</picture>
+				<name>Сахарница Богемия Чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230212560" available="true">
+				<url>https://avito.ru/2230212560</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://32.img.avito.st/640x480/11701197032.jpg</picture>
+				<name>Блюдо с позолотой ручная работа Кисловодск</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно . Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230240194" available="true">
+				<url>https://avito.ru/2230240194</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://58.img.avito.st/640x480/11781532758.jpg</picture>
+				<name>Сахарница</name>
+				<description>
+					Высота 10 см, объём 100мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230821458" available="true">
+				<url>https://avito.ru/2230821458</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://79.img.avito.st/640x480/11782063679.jpg</picture>
+				<name>Чайный набор СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
 			<offer id="2230187299" available="true">
 				<url>https://avito.ru/2230187299</url>
 				<price>600</price>
@@ -150,6 +447,83 @@
 				<categoryId>4</categoryId>
 				<picture>https://98.img.avito.st/640x480/11700562898.jpg</picture>
 				<name>Хрустальная ваза чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230116072" available="true">
+				<url>https://avito.ru/2230116072</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://02.img.avito.st/640x480/11794259102.jpg</picture>
+				<name>Ложки кофейные СССР</name>
+				<description>
+					12,5 см
+				</description>
+			</offer>
+			<offer id="2230042507" available="true">
+				<url>https://avito.ru/2230042507</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://39.img.avito.st/640x480/11793906339.jpg</picture>
+				<name>Сервиз мельхиоровый</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230760875" available="true">
+				<url>https://avito.ru/2230760875</url>
+				<price>100</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://65.img.avito.st/640x480/11700694965.jpg</picture>
+				<name>Блюдо СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229927396" available="true">
+				<url>https://avito.ru/2229927396</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://90.img.avito.st/640x480/11781343290.jpg</picture>
+				<name>Ваза с крышкой</name>
+				<description>
+					Высота 15 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230593812" available="true">
+				<url>https://avito.ru/2230593812</url>
+				<price>200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://41.img.avito.st/640x480/11706283041.jpg</picture>
+				<name>Ваза на ножке стекло СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230790283" available="true">
+				<url>https://avito.ru/2230790283</url>
+				<price>8000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://01.img.avito.st/640x480/11794328901.jpg</picture>
+				<name>Ваза хрустальная с серебром</name>
+				<description>
+					Бронь. Высота 8 см, диаметр 22 см
+				</description>
+			</offer>
+			<offer id="2230590366" available="true">
+				<url>https://avito.ru/2230590366</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://10.img.avito.st/640x480/11781966310.jpg</picture>
+				<name>Заварочный чайник кольчугино</name>
 				<description>
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
@@ -165,37 +539,26 @@
 					Все новое и запечатанное.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230593812" available="true">
-				<url>https://avito.ru/2230593812</url>
-				<price>200</price>
+			<offer id="2230759286" available="true">
+				<url>https://avito.ru/2230759286</url>
+				<price>400</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://41.img.avito.st/640x480/11706283041.jpg</picture>
-				<name>Ваза на ножке стекло СССР</name>
+				<picture>https://55.img.avito.st/640x480/11794284355.jpg</picture>
+				<name>Тортовница СССР</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Смотрите много объявлений в моем профиле
 				</description>
 			</offer>
-			<offer id="2230760875" available="true">
-				<url>https://avito.ru/2230760875</url>
-				<price>100</price>
+			<offer id="2230871173" available="true">
+				<url>https://avito.ru/2230871173</url>
+				<price>1800</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://65.img.avito.st/640x480/11700694965.jpg</picture>
-				<name>Блюдо СССР</name>
+				<picture>https://35.img.avito.st/640x480/11783789035.jpg</picture>
+				<name>Чайный сервиз</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230212560" available="true">
-				<url>https://avito.ru/2230212560</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://32.img.avito.st/640x480/11701197032.jpg</picture>
-				<name>Блюдо с позолотой ручная работа Кисловодск</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно . Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230305319" available="true">
@@ -205,6 +568,50 @@
 				<categoryId>4</categoryId>
 				<picture>https://05.img.avito.st/640x480/11701239805.jpg</picture>
 				<name>Ваза на ножке стекло СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230698717" available="true">
+				<url>https://avito.ru/2230698717</url>
+				<price>2000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://38.img.avito.st/640x480/11784335138.jpg</picture>
+				<name>Стаканы Богемия</name>
+				<description>
+					Высота 8 см, диаметр 8 см. Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230427909" available="true">
+				<url>https://avito.ru/2230427909</url>
+				<price>250</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://90.img.avito.st/640x480/11793651890.jpg</picture>
+				<name>Хрустальная ваза</name>
+				<description>
+					Высота 8,5 см, диаметр 10 см
+				</description>
+			</offer>
+			<offer id="2230779080" available="true">
+				<url>https://avito.ru/2230779080</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://14.img.avito.st/640x480/11783738514.jpg</picture>
+				<name>Тарелки Чехословакия D23см</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230242056" available="true">
+				<url>https://avito.ru/2230242056</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://64.img.avito.st/640x480/11784351464.jpg</picture>
+				<name>Стаканы новые</name>
 				<description>
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
