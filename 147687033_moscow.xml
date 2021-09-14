@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-07 10:17">
+<yml_catalog date="2021-09-14 11:38">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -12,7 +12,7 @@
 		</categories>
 		<offers>
 			<offer id="2231102780" available="true">
-				<url>https://avito.ru/2231102780</url>
+				<url>https://avito.ru/2231102780?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
 				<price>300</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
@@ -23,7 +23,7 @@
 				</description>
 			</offer>
 			<offer id="2231094631" available="true">
-				<url>https://avito.ru/2231094631</url>
+				<url>https://avito.ru/2231094631?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
 				<price>129</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
