@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-14 11:38">
+<yml_catalog date="2021-09-15 18:17">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,19 +11,8 @@
 			<category id ="4" parentId="1">General.HomeAndGarden</category>
 		</categories>
 		<offers>
-			<offer id="2206696027" available="true">
-				<url>https://avito.ru/2206696027?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://30.img.avito.st/640x480/11761311030.jpg</picture>
-				<name>Пало Санто 0.5кг, по 15-25гр с доставкой</name>
-				<description>
-					Пало Санто 0.5кг, по 15-25гр с доставкой (Palo Santo) привезены нами из Перу!  Пробные 0,5кг стоят 3500р!!!В 1 кг от 95 до 105 палочек.  Также у нас эфирное масло Пало Санто только что из Перу!!! ________________________ Наши преимущества: - У нас железобетонные доказательства что мы привозим Пало Санто из Перу! - Весь товар в наличии, отправляем строго в день заказа! - Смотрите наши отзывы! Корректировать или удалять отзывы на авито НЕВОЗМОЖНО! Круче только звезды) - Работаем с доставкой Boxberry, СДЭК,  и сервисом “наложка рф” - Оплата нал/перевод/безнал (по договору на РС) - Мин. оптовый заказ от 0,5 кг. - От нас вы получите палочки сортированные и фасованные по 1 кг. Если попадется плохая палочка, мы пришлем ей замену! - Мой личный профиль на авито с 2012 г - За 21г продали 530кг Пало Санто - У нас море фото и видео, весь контент делаем лично!  Напишите нам в личку прямо сейчас! ________________________ Цены зависят от объема: Пробные 0,5 кг стоят 3500р. От 1 до 5 - 6000руб/кг. от 5 до 10 - 5500руб/кг. Свыше 10кг стоимость обговаривается отдельно, зависит от частоты заказов и способа оплаты!   Свежая партия забрана с таможни 5 июля!!!  Мы самостоятельно привозим, оформляем все только в белую! Можем предоставить соответствующие документы.   ________________________ Цена указана за 0.5 кг  Артикул товара :e-4666
-				</description>
-			</offer>
 			<offer id="2174088305" available="true">
-				<url>https://avito.ru/2174088305?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2174088305?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=19265056</url>
 				<price>3500</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
@@ -34,7 +23,7 @@
 				</description>
 			</offer>
 			<offer id="2174678752" available="true">
-				<url>https://avito.ru/2174678752?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2174678752?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=19265056</url>
 				<price>3500</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
@@ -42,6 +31,17 @@
 				<name>Пало Санто 8кг, светлые с доставкой</name>
 				<description>
 					Пало Санто 8кг, светлые с доставкой (Palo Santo) привезены нами из Перу!  Пробные 0,5кг стоят 3500р!!!В 1 кг от 95 до 105 палочек.  Также у нас эфирное масло Пало Санто только что из Перу!!! ________________________ Наши преимущества: - У нас железобетонные доказательства что мы привозим Пало Санто из Перу! - Весь товар в наличии, отправляем строго в день заказа! - Смотрите наши отзывы! Корректировать или удалять отзывы на авито НЕВОЗМОЖНО! Круче только звезды) - Работаем с доставкой Boxberry, СДЭК,  и сервисом “наложка рф” - Оплата нал/перевод/безнал (по договору на РС) - Мин. оптовый заказ от 0,5 кг. - От нас вы получите палочки сортированные и фасованные по 1 кг. Если попадется плохая палочка, мы пришлем ей замену! - Мой личный профиль на авито с 2012 г - За 21г продали 530кг Пало Санто - У нас море фото и видео, весь контент делаем лично!  Напишите нам в личку прямо сейчас! ________________________ Цены зависят от объема: Пробные 0,5 кг стоят 3500р. От 1 до 5 - 6000руб/кг. от 5 до 10 - 5500руб/кг. Свыше 10кг стоимость обговаривается отдельно, зависит от частоты заказов и способа оплаты!   Свежая партия забрана с таможни 5 июля!!!  Мы самостоятельно привозим, оформляем все только в белую! Можем предоставить соответствующие документы.   ________________________ Цена указана за 0.5 кг  Артикул товара :v-102210
+				</description>
+			</offer>
+			<offer id="2206696027" available="true">
+				<url>https://avito.ru/2206696027?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=19265056</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://30.img.avito.st/640x480/11761311030.jpg</picture>
+				<name>Пало Санто 0.5кг, по 15-25гр с доставкой</name>
+				<description>
+					Пало Санто 0.5кг, по 15-25гр с доставкой (Palo Santo) привезены нами из Перу!  Пробные 0,5кг стоят 3500р!!!В 1 кг от 95 до 105 палочек.  Также у нас эфирное масло Пало Санто только что из Перу!!! ________________________ Наши преимущества: - У нас железобетонные доказательства что мы привозим Пало Санто из Перу! - Весь товар в наличии, отправляем строго в день заказа! - Смотрите наши отзывы! Корректировать или удалять отзывы на авито НЕВОЗМОЖНО! Круче только звезды) - Работаем с доставкой Boxberry, СДЭК,  и сервисом “наложка рф” - Оплата нал/перевод/безнал (по договору на РС) - Мин. оптовый заказ от 0,5 кг. - От нас вы получите палочки сортированные и фасованные по 1 кг. Если попадется плохая палочка, мы пришлем ей замену! - Мой личный профиль на авито с 2012 г - За 21г продали 530кг Пало Санто - У нас море фото и видео, весь контент делаем лично!  Напишите нам в личку прямо сейчас! ________________________ Цены зависят от объема: Пробные 0,5 кг стоят 3500р. От 1 до 5 - 6000руб/кг. от 5 до 10 - 5500руб/кг. Свыше 10кг стоимость обговаривается отдельно, зависит от частоты заказов и способа оплаты!   Свежая партия забрана с таможни 5 июля!!!  Мы самостоятельно привозим, оформляем все только в белую! Можем предоставить соответствующие документы.   ________________________ Цена указана за 0.5 кг  Артикул товара :e-4666
 				</description>
 			</offer>
 		</offers>

@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-14 11:38">
+<yml_catalog date="2021-09-15 18:17">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -12,7 +12,7 @@
 		</categories>
 		<offers>
 			<offer id="2211612786" available="true">
-				<url>https://avito.ru/2211612786?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2211612786?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=79166661</url>
 				<price>150000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
@@ -23,7 +23,7 @@
 				</description>
 			</offer>
 			<offer id="2211654208" available="true">
-				<url>https://avito.ru/2211654208?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2211654208?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=79166661</url>
 				<price>34000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
@@ -34,7 +34,7 @@
 				</description>
 			</offer>
 			<offer id="2211770809" available="true">
-				<url>https://avito.ru/2211770809?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2211770809?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=79166661</url>
 				<price>38000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
@@ -45,7 +45,7 @@
 				</description>
 			</offer>
 			<offer id="2211471571" available="true">
-				<url>https://avito.ru/2211471571?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230</url>
+				<url>https://avito.ru/2211471571?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=79166661</url>
 				<price>192000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
