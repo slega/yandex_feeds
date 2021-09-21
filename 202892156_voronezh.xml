@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-15 18:17">
+<yml_catalog date="2021-09-21 11:08">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -44,17 +44,6 @@
 					Avon.  Под заказ любая продукция эйвон, при заказе от 1200 руб скидка 30%.   Духи в подарок со 2 заказом!  Оплата при получении.   Доставка 3-5 дней.   Звоните, пишите с радостью проконсультирую.
 				</description>
 			</offer>
-			<offer id="2233890605" available="true">
-				<url>https://avito.ru/2233890605?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
-				<price>60</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://64.img.avito.st/640x480/11830787064.jpg</picture>
-				<name>Avon Эйвон Духи</name>
-				<description>
-					Avon.  Под заказ любая продукция эйвон, при заказе от 1200 руб скидка 30%.   Духи в подарок со 2 заказом!  Оплата при получении.   Доставка 3-5 дней.   Звоните, пишите с радостью проконсультирую.
-				</description>
-			</offer>
 			<offer id="2234046844" available="true">
 				<url>https://avito.ru/2234046844?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
 				<price>60</price>
@@ -75,6 +64,17 @@
 				<name>Avon Эйвон духи</name>
 				<description>
 					Под заказ любая продукция эйвон, при заказе от 1200 руб скидка 30%.   Духи в подарок со 2 заказом!  Оплата при получении.   Доставка 3-5 дней.   Звоните, пишите с радостью проконсультирую.
+				</description>
+			</offer>
+			<offer id="2233890605" available="true">
+				<url>https://avito.ru/2233890605?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
+				<price>60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://64.img.avito.st/640x480/11830787064.jpg</picture>
+				<name>Avon Эйвон Духи</name>
+				<description>
+					Avon.  Под заказ любая продукция эйвон, при заказе от 1200 руб скидка 30%.   Духи в подарок со 2 заказом!  Оплата при получении.   Доставка 3-5 дней.   Звоните, пишите с радостью проконсультирую.
 				</description>
 			</offer>
 		</offers>
