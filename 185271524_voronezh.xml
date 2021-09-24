@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-24 09:54">
+<yml_catalog date="2021-09-24 23:50">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,48 +11,15 @@
 			<category id ="5" parentId="1">General.ConstructionRenovation</category>
 		</categories>
 		<offers>
-			<offer id="2210822495" available="true">
-				<url>https://avito.ru/2210822495?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>921</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://64.img.avito.st/640x480/11750430964.jpg</picture>
-				<name>Щебень</name>
-				<description>
-					Щебень для всех видов абот.    ВЫ НАШЛИ ЧТО ИСКАЛИ    отгузка стого по весам со своей БАЗЫ!  аботаем без выходных   свой автопак   аботаем с ндс   без поседников   В наличии кеамзит ф 10\20.   ЗВОНИТЕ ДОГОВОИМСЯ   Вы искали:   Щебень, щебень ганитный, щебень купить, щебень с доставкой, щебень заказать, щебень подешевле, щебень почный, щебень для дооги, щебень в Воонеже, кеамзит, кеамзит купить в Воонеже, кеамзит заказать, кеамзит с доставкой, кеамзит самовывоз, куб кеамзита
-				</description>
-			</offer>
-			<offer id="2209966236" available="true">
-				<url>https://avito.ru/2209966236?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1588</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://86.img.avito.st/640x480/11691438686.jpg</picture>
-				<name>Кеемзит</name>
-				<description>
-					Кеамзит с доставкой по Воонежу и области.   Доставлю от 1 куба!!!   свой танспот    своя база отгузки    без выходных    ЗВОНИТЕ ПЯМО СЕЙЧАС ДОГОВОИМСЯ    добавляйте в ИЗБАННОЕ чтоб не потеять!  Вы искали:   Кеамзит, кеамзит купить в Воонеже, заказать куб кеамзита, кеамзит с доставкой, кеамзит камаз, зил кеамзита, 20 кубов кеамзита
-				</description>
-			</offer>
-			<offer id="2210594496" available="true">
-				<url>https://avito.ru/2210594496?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1647</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://45.img.avito.st/640x480/11705029945.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит факция 10-20.  Доставка по Воонежу и Воонежской обл.  Так же в наличии щебень азных факций для всех видом абот.    ВЫ НАШЛИ ЧТО ИСКАЛИ    свой танспот и площадка   аботаем без выходных   отгузка стого по весам    З В О Н И Т Е ДОГОВОИМСЯ!  Вы искали:  Кеамзит, кеамзит с доставкой, купить кеамзит, кеамзит в Воонеже, купить с доставкой кеамзит, куб кеамзита, щебень, щебень ганитный, щебенка, щебень с доставкой по Воонежу, щебень заказать в Воонеже
-				</description>
-			</offer>
 			<offer id="2210549128" available="true">
 				<url>https://avito.ru/2210549128?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
 				<price>1682</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
 				<picture>https://94.img.avito.st/640x480/11693904294.jpg</picture>
-				<name>Кеамзит</name>
+				<name>Керамзит</name>
 				<description>
-					Кеамзит с доставкой.   Пивезём от 1 куба.   Свой танспот и отгузочная площадка.   Звоните, получите консультацию !!!  Вы искали:  Кеамзит, кеамзит купить в Воонеже, заказать кеамзит, кеамзит с доставкой, кеамзит куб цена. щебень,
+					Керамзит с доставкой.   Привезём от 1 куба.   Свой транспорт и отгрузочная площадка.   Звоните, получите консультацию !!!  Вы искали:  Керамзит, керамзит купить в Воронеже, заказать керамзит, керамзит с доставкой, керамзит куб цена. щебень,
 				</description>
 			</offer>
 			<offer id="2210714042" available="true">
@@ -61,42 +28,42 @@
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
 				<picture>https://19.img.avito.st/640x480/11736656319.jpg</picture>
-				<name>Кеамзит</name>
+				<name>Керамзит</name>
 				<description>
-					Кеамзит с доставкой.   Факция 10-20.   Доставка от 1 куба    ВЫ НАШЛИ ЧТО ИСКАЛИ    ЛУЧШАЯ ЦЕНА В ВООНЕЖЕ    СВОЙ АВТОПАК    БЕЗ ВЫХОДНЫХ   Так же щебень азных факций в наличии.   ЗВОНИТЕ ДОГОВОИМСЯ   Нас находят:  Кеамзит, купить кеамзит, кеамзит с доставкой, кеамзит заказать, кеамзит в Воонеже, кеамзит куб, щебень, щебень с доставкой, щебень ганитный, щебень купить, щебень заказать, щебень в Воонеже
+					Керамзит с доставкой.   Фракция 10-20.   Доставка от 1 куба    ВЫ НАШЛИ ЧТО ИСКАЛИ    ЛУЧШАЯ ЦЕНА В ВОРОНЕЖЕ    СВОЙ АВТОПАРК    БЕЗ ВЫХОДНЫХ   Так же щебень разных фракций в наличии.   ЗВОНИТЕ ДОГОВОРИМСЯ   Нас находят:  Керамзит, купить керамзит, керамзит с доставкой, керамзит заказать, керамзит в Воронеже, керамзит куб, щебень, щебень с доставкой, щебень гранитный, щебень купить, щебень заказать, щебень в Воронеже
 				</description>
 			</offer>
-			<offer id="2210481920" available="true">
-				<url>https://avito.ru/2210481920?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>785</price>
+			<offer id="2210822495" available="true">
+				<url>https://avito.ru/2210822495?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>921</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://68.img.avito.st/640x480/11684476868.jpg</picture>
+				<picture>https://64.img.avito.st/640x480/11750430964.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень почный для всех видов абот.   Доставка от 1 тонны.  Свой танспот и база отгузки ( тем самым у нас дешевле !)  Знаем что подаём а не посто доставляем.    ЗВОНИТЕ ПЯМО СЕЙЧАС    Нас находят:   Щебень, щебень с доставкой, щебень купить в Воонеже, щебень заказать, кеамзит
+					Щебень для всех видов работ.    ВЫ НАШЛИ ЧТО ИСКАЛИ    отгрузка строго по весам со своей БАЗЫ!  работаем без выходных   свой автопарк   работаем с ндс   без посредников   В наличии керамзит фр 10\20.   ЗВОНИТЕ ДОГОВОРИМСЯ   Вы искали:   Щебень, щебень гранитный, щебень купить, щебень с доставкой, щебень заказать, щебень подешевле, щебень прочный, щебень для дороги, щебень в Воронеже, керамзит, керамзит купить в Воронеже, керамзит заказать, керамзит с доставкой, керамзит самовывоз, куб керамзита
 				</description>
 			</offer>
-			<offer id="2210658145" available="true">
-				<url>https://avito.ru/2210658145?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1211</price>
+			<offer id="2210594496" available="true">
+				<url>https://avito.ru/2210594496?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1647</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://72.img.avito.st/640x480/11685909572.jpg</picture>
-				<name>Щебень с доставкой</name>
+				<picture>https://45.img.avito.st/640x480/11705029945.jpg</picture>
+				<name>Керамзит</name>
 				<description>
-					Щебень с доставкой по Воонежу и области.   Свой пак и своя база сыпучих матеиалов.   Без выходных.  ЗВОНИТЕ ПЯМО СЕЙЧАС   вы искали:   Щебень, щебень с доставкой, щебень заказать, щебень купить в Воонеже, щебенка
+					Керамзит фракция 10-20.  Доставка по Воронежу и Воронежской обл.  Так же в наличии щебень разных фракций для всех видом работ.    ВЫ НАШЛИ ЧТО ИСКАЛИ    свой транспорт и площадка   работаем без выходных   отгрузка строго по весам    З В О Н И Т Е ДОГОВОРИМСЯ!  Вы искали:  Керамзит, керамзит с доставкой, купить керамзит, керамзит в Воронеже, купить с доставкой керамзит, куб керамзита, щебень, щебень гранитный, щебенка, щебень с доставкой по Воронежу, щебень заказать в Воронеже
 				</description>
 			</offer>
-			<offer id="2210558420" available="true">
-				<url>https://avito.ru/2210558420?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>400</price>
+			<offer id="2209966236" available="true">
+				<url>https://avito.ru/2209966236?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1588</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://68.img.avito.st/640x480/11692979568.jpg</picture>
-				<name>Щебень</name>
+				<picture>https://86.img.avito.st/640x480/11691438686.jpg</picture>
+				<name>Керемзит</name>
 				<description>
-					Щебень с доставкой по Воонежу и области.   Пивезём даже 1 тонну!   Лучшая цена в Воонеже   аботаем без выходных    ЗВОНИТЕ ДОГОВОИМСЯ   Добавляйте объявление в избанное чтоб не потеять.  Нас находят:  Щебень, щебень пять на двадцать, щебень для забоа, щебень для бетона, щебень с доставкой.
+					Керамзит с доставкой по Воронежу и области.   Доставлю от 1 куба!!!   свой транспорт    своя база отгрузки    без выходных    ЗВОНИТЕ ПРЯМО СЕЙЧАС ДОГОВОРИМСЯ    добавляйте в ИЗБРАННОЕ чтоб не потерять!  Вы искали:   Керамзит, керамзит купить в Воронеже, заказать куб керамзита, керамзит с доставкой, керамзит камаз, зил керамзита, 20 кубов керамзита
 				</description>
 			</offer>
 			<offer id="2210310109" available="true">
@@ -107,29 +74,18 @@
 				<picture>https://96.img.avito.st/640x480/11718478596.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень факция 10-20, 20-40, 40-70.   ВЫ НАШЛИ ЧТО ИСКАЛИ    Доставка от 1 тонны.   Свой танспот и площадка отгузки. Без поседников!  ЗВОНИТЕ ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять.   Вы искали:   Щебень, щебень с доставкой, щебень ганитный, щебень купить, щебень для бетона, щебень для забоа, щебень для столбов, щебень в Воонеже, щебень в дивице, щебень ямное, щебень новая Усмань, щебень амонь, кеамзит, купить кеамзит, заказать кеамзит, куб кеамзита, кеамзит в Воонеже
+					Щебень фракция 10-20, 20-40, 40-70.   ВЫ НАШЛИ ЧТО ИСКАЛИ    Доставка от 1 тонны.   Свой транспорт и площадка отгрузки. Без посредников!  ЗВОНИТЕ ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять.   Вы искали:   Щебень, щебень с доставкой, щебень гранитный, щебень купить, щебень для бетона, щебень для забора, щебень для столбов, щебень в Воронеже, щебень в дивице, щебень ямное, щебень новая Усмань, щебень рамонь, керамзит, купить керамзит, заказать керамзит, куб керамзита, керамзит в Воронеже
 				</description>
 			</offer>
-			<offer id="2210005025" available="true">
-				<url>https://avito.ru/2210005025?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>733</price>
+			<offer id="2210481920" available="true">
+				<url>https://avito.ru/2210481920?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>785</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://56.img.avito.st/640x480/11748478856.jpg</picture>
+				<picture>https://68.img.avito.st/640x480/11684476868.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень с доставкой и самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ    Свой пак   своя база  аботаем без выходных   лучшая цена в Воонеже   Так же в наличии кеамзит ф 10/20.   ЗВОНИЕ ДОГОВОИМСЯ   Вы искали нас:  Щебень, щебень ганитный, щебень купить, щебень для стяжки, щебень для забоа, щебень для денажа, щебень для бетона, щебень гавий, щебень с доставкой, кеамзит, купить кеамзит, куб кеамзита, кеамзит с доставкой, кеамзит заказать, кеамзит купить в Воонеже
-				</description>
-			</offer>
-			<offer id="2209922409" available="true">
-				<url>https://avito.ru/2209922409?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1212</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://45.img.avito.st/640x480/11695403545.jpg</picture>
-				<name>Щебень</name>
-				<description>
-					Щебень с доставкой или самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ   ЛУЧШИЕ ПЕДЛОЖЕНИЯ НА ЫНКЕ    СВОЙ ТАНСПОТ    СВОЯ ПЛОЩАДКА СЫПУЧИХ    БЕЗ ВЫХОДНЫХ   ЗВОНИТЕ ПЯМО СЕЙЧАС ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять.  Нас искали: щебень, кеамзит, щебень с доставкой, заказать щебень, щебень сегодня, щебень в Воонеже
+					Щебень прочный для всех видов работ.   Доставка от 1 тонны.  Свой транспорт и база отгрузки ( тем самым у нас дешевле !)  Знаем что продаём а не просто доставляем.    ЗВОНИТЕ ПРЯМО СЕЙЧАС    Нас находят:   Щебень, щебень с доставкой, щебень купить в Воронеже, щебень заказать, керамзит
 				</description>
 			</offer>
 			<offer id="2210262878" available="true">
@@ -140,62 +96,18 @@
 				<picture>https://09.img.avito.st/640x480/11680037009.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень от бюджетного до самого почного.    ЗВОНИТЕ ДОГОВОИМСЯ   Доставка от 1 тонны.   Свой танспот и площадка отгузки.   Так же можете заказать кеамзит и песок.  Вы искали:   Щебень, щебень факция 5-20, щебень факция 20-40, купить щебень, заказать щебень, кеамзит купить, кеамзит заказать, камаз кеамзита
+					Щебень от бюджетного до самого прочного.    ЗВОНИТЕ ДОГОВОРИМСЯ   Доставка от 1 тонны.   Свой транспорт и площадка отгрузки.   Так же можете заказать керамзит и песок.  Вы искали:   Щебень, щебень фракция 5-20, щебень фракция 20-40, купить щебень, заказать щебень, керамзит купить, керамзит заказать, камаз керамзита
 				</description>
 			</offer>
-			<offer id="2210390243" available="true">
-				<url>https://avito.ru/2210390243?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1628</price>
+			<offer id="2210558420" available="true">
+				<url>https://avito.ru/2210558420?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>400</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://97.img.avito.st/640x480/11680243297.jpg</picture>
-				<name>Кеамзит с доставкой</name>
+				<picture>https://68.img.avito.st/640x480/11692979568.jpg</picture>
+				<name>Щебень</name>
 				<description>
-					Кеамзит факция 10-20.   Доставляем от 1 м3.    Свой танспот   своя площадка отгузочная   аботаем с ндс   без выходных   лучшие цены    ЗВОНИТЕ ДОГОВОИМСЯ   Нас искали:  Кеамзит, купить кеамзит в Воонеже, заказать кеамзит, щебень, щебень заказать, купить щебень
-				</description>
-			</offer>
-			<offer id="2210016532" available="true">
-				<url>https://avito.ru/2210016532?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1607</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://42.img.avito.st/640x480/11692867142.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой или самовывоз.    ЛУЧШИЕ ЦЕНЫ В ВООНЕЖЕ!!!!   свой пак   без выходных    аботаем с НДС  Так же в подаже щебень азных факций.    ЗВОНИТЕ ДОГОВОИМСЯ    ДОБАВЛЯЙТЕ В ИЗБАННОЕ ЧТОБ НЕ ПОТЕЯТЬ   ВЫ ИСКАЛИ:  щебень, щебень доставка, щебень с доставкой, кеамзит, кеамзит заказать
-				</description>
-			</offer>
-			<offer id="2210161887" available="true">
-				<url>https://avito.ru/2210161887?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1639</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://08.img.avito.st/640x480/11711280608.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой по Воонежу и области.  Факция 10-20.   ВЫ НАШЛИ ЧТО ИСКАЛИ   так же в подаже щебень азных факций.    свой автопак   аботаем без выходных   аботаем с НДС  отгузка стого по весам    З В О Н И Т Е ДОГОВОИМСЯ  Добавляйте в избанное чтоб не потеять   Вы искали:  Кеамзит, кеамзит 10-20, купить кеамзит, заказать кеамзит, кеамзит с доставкой, кеамзит купить в Воонеже, щебень, щебень купить, щебень для стяжки, щебень для бетона, щебень для денажа, щебень с доставкой
-				</description>
-			</offer>
-			<offer id="2210601556" available="true">
-				<url>https://avito.ru/2210601556?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1599</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://00.img.avito.st/640x480/11690577800.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой от 1 куб по Воонежу и области.   Супелегкий! УДОБНО АБОТАТЬ!   так же в наличии щебень азных факций, для всех видов абот!!!   СВОЙ ТАНСПОТ    Без выходных    НИЗКИЕ ЦЕНЫ    ЗВОНИТЕ ДОГОВОИМСЯ!   Нас искали:  Кеамзит, купить кеамзит, купить кеамзит в Воонеже, заказать кеамзит, кеамзит с доставкой, куб кеамзита, щебень, доставка щебня, щебень с доставкой
-				</description>
-			</offer>
-			<offer id="2210065914" available="true">
-				<url>https://avito.ru/2210065914?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1643</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://98.img.avito.st/640x480/11679935898.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Щебень с доставкой и самовывозом.   Нагузим в Ваш пицеп.   Отгузка от 1 м3  Доставим от 1 до 76 кубов.    СВОЙ ТАНСПОТ   БЕЗ ВЫХОДНЫХ   ДОСТУПНЫЕ ЦЕНЫ    ЗВОНИТЕ ПЯМО СЕЙЧАС.   Нас искали:  Щебень, кеамзит, щебень заказать, щебень ганитный, кеамзит супелегкий, кеамзит заказать, кеамзит 5 кубов, кеамзит 10 кубов, щебень для бетона
+					Щебень с доставкой по Воронежу и области.   Привезём даже 1 тонну!   Лучшая цена в Воронеже   Работаем без выходных    ЗВОНИТЕ ДОГОВОРИМСЯ   Добавляйте объявление в избранное чтоб не потерять.  Нас находят:  Щебень, щебень пять на двадцать, щебень для забора, щебень для бетона, щебень с доставкой.
 				</description>
 			</offer>
 			<offer id="2210374445" available="true">
@@ -206,7 +118,7 @@
 				<picture>https://43.img.avito.st/640x480/11712044043.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень с доставкой по Воонежу и области.  Отгузка по весам от 1 тонны.   ВЫ НАШЛИ ЧТО ИСКАЛИ    свой пак   своя база отгузки   аботаем без выходных    ЗВОНИТЕ ПЯМО СЕЙЧАС ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять.  Вы искали:  Щебень, щебень заказать, щебень купить с доставкой, щебень купить в Воонеже, щебень ганитный, щебень гавийный, кеамзит с доставкой, кеамзит купить в Воонеже, кеамзит заказать
+					Щебень с доставкой по Воронежу и области.  Отгрузка по весам от 1 тонны.   ВЫ НАШЛИ ЧТО ИСКАЛИ    свой парк   своя база отгрузки   работаем без выходных    ЗВОНИТЕ ПРЯМО СЕЙЧАС ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять.  Вы искали:  Щебень, щебень заказать, щебень купить с доставкой, щебень купить в Воронеже, щебень гранитный, щебень гравийный, керамзит с доставкой, керамзит купить в Воронеже, керамзит заказать
 				</description>
 			</offer>
 			<offer id="2210255403" available="true">
@@ -215,86 +127,20 @@
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
 				<picture>https://51.img.avito.st/640x480/11706379151.jpg</picture>
-				<name>Кеамзит</name>
+				<name>Керамзит</name>
 				<description>
-					Кеамзит с доставкой по Воонежу и области.  Мин заказ 1 м3.  Без поседников, своя база и самосвалы.   Так же подаём щебень азных факций.   Звоните договоимся.  Вы искали:   Кеамзит, купить кеамзит с доставкой, кеамзит заказать, кеамзит купить куб, кеамзит цена в Воонеже, кеамзит лёгкий, кеамзит для стяжки, щебень, щебенка, щебень ганитный, щебень гавийный, щебень с доставкой
+					Керамзит с доставкой по Воронежу и области.  Мин заказ 1 м3.  Без посредников, своя база и самосвалы.   Так же продаём щебень разных фракций.   Звоните договоримся.  Вы искали:   Керамзит, купить керамзит с доставкой, керамзит заказать, керамзит купить куб, керамзит цена в Воронеже, керамзит лёгкий, керамзит для стяжки, щебень, щебенка, щебень гранитный, щебень гравийный, щебень с доставкой
 				</description>
 			</offer>
-			<offer id="2210657218" available="true">
-				<url>https://avito.ru/2210657218?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1130</price>
+			<offer id="2209922409" available="true">
+				<url>https://avito.ru/2209922409?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1212</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://47.img.avito.st/640x480/11730958947.jpg</picture>
+				<picture>https://45.img.avito.st/640x480/11695403545.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень с доставкой.   ВЫ НАШЛИ ЧТО ИСКАЛИ   Нас выбиают:   Отгузка только стого по весам   Свой танспот    аботаем без выходных   СВОЯ база отгузки   В наличии кеамзит ф 10/20.   ЗВОНИТЕ ДОГОВОИМСЯ   Нас находят:  Щебень, щебень ганитный, щебень с доставкой, щебень купить, щебень для бетона, щебень для стяжки, щебень заказать, щебень купит в Воонеже, щебень купить в ямном, щебень заказать в Воонеже, кеамзит, купить кеамзит, заказать кеамзит, кеамзит с доставкой
-				</description>
-			</offer>
-			<offer id="2210590632" available="true">
-				<url>https://avito.ru/2210590632?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1612</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://10.img.avito.st/640x480/11691409810.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит пивезу со своей площадки.  Доставка от 1 куба!!!   СВОЙ ТАНСПОТ    СВОЯ БАЗА СЫПУЧИХ    БЕЗ ПОСЕДНИКОВ    ЗВОНИТЕ, и получите консультацию бесплатно!!!   добавляйте в избанное чтоб не потеять   Вы искали:   Кеамзит, купить кеамзит, кеамзит с доставкой, заказать кеамзит, куб кеамзита, камаз кеамзита, щебень, щебень с доставкой
-				</description>
-			</offer>
-			<offer id="2210236960" available="true">
-				<url>https://avito.ru/2210236960?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1698</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://80.img.avito.st/640x480/11717853680.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой по Воонежу и области.   Мин заказ 1 куб!  Так же в наличии щебень. (5-20,20-40,40-70)   ВЫ НАШЛИ ЧТО ИСКАЛИ    свой танспот    без выходных   отгузка по весам   лучшие цены    ЗВОНИТЕ ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять.   Вы искали:  Кеамзит, купить кеамзит в Воонеже, заказать кеамзит в Воонеже, кеамзит с доставкой, куб кеамзита, кеамзит в ямном, кеамзит купить в новой усмани, кеамзит новоподклетное, кеамзит амонь, щебень, щебень с доставкой, щебень почный, щебень в Воонеже
-				</description>
-			</offer>
-			<offer id="2210676748" available="true">
-				<url>https://avito.ru/2210676748?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>723</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://68.img.avito.st/640x480/11725084268.jpg</picture>
-				<name>Щебень</name>
-				<description>
-					Щебень с доставкой или самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ    Свой танспот    своя база отгузки   отгузка стого и точно по весам   без выходных   Так же в наличии кеамзит факция 10-20! Самый ходовой!   ЗВОНИТЕ ПЯМО СЕЙЧАС ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять   Вы искали: щебень, щебень заказать, щебень купить, щебень с доставкой, кеамзит, кеамзит купить, кеамзит заказать, кеамзит с доставкой, куб кеамзита
-				</description>
-			</offer>
-			<offer id="2210735121" available="true">
-				<url>https://avito.ru/2210735121?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1638</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://24.img.avito.st/640x480/11724025224.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой по Воонежу.    ВЫ НАШЛИ ЧТО ИСКАЛИ   Пивезём от 1 куба (м3)    свой автопак самосвалов   своя база отгузки   отгузка стого по весам    ЗВОНИТЕ ПЯМО СЕЙЧАС ДОГОВОИМСЯ   Добавляйте в избанное чтоб не потеять.   Вы искали:  Кеамзит, щебень, купить кеамзит, заказать кеамзит, куб кеамзита, кеамзит с доставкой, кеамзит в Воонеже, щебень сегодня, щебень почный, щебень с доставкой
-				</description>
-			</offer>
-			<offer id="2210779085" available="true">
-				<url>https://avito.ru/2210779085?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1663</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://19.img.avito.st/640x480/11684867019.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит с доставкой от 1 куба ( м3)   Нас выбиают потому что:  - самая низкая цена в гооде   - свой танспот   - своя площадка для отгузки   - аботаем с НДС  - без выходных    ЗВОНИТЕ ДОГОВОИМСЯ   Нас искали:  Кеамзит, купить куб кеамзита, кеамзит с доставкой, камаз кеамзита, кеамзит в латном, кеамзит в семелуках, кеамзит в амоне.
-				</description>
-			</offer>
-			<offer id="2210228051" available="true">
-				<url>https://avito.ru/2210228051?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>1637</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://36.img.avito.st/640x480/11718396236.jpg</picture>
-				<name>Кеамзит</name>
-				<description>
-					Кеамзит факция 10-20.   Доставка от 1 м3 (куб)   ВЫ НАШЛИ ЧТО ИСКАЛИ   В наличии щебень факция 5-20.   СВОЙ АВТОПАК   БЕЗ ВЫХОДНЫХ   БЕЗ ПОСЕДНИКОВ %  ОТГУЖАЕМ СТОГО ПО ВЕСАМ   ЗВОНИТЕ ДОГОВОИМСЯ   Вы искали:  Кеамзит, купить кеамзит, кеамзит с доставкой, заказать кеамзит, кеамзит куб, кеамзит для пола, кеамзит в ямном, кеамзит в амонь, кеамзит новая Усмань, щебень, щебень с доставкой, щебень заказать, щебень купить в Воонеже
+					Щебень с доставкой или самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ   ЛУЧШИЕ ПРЕДЛОЖЕНИЯ НА РЫНКЕ    СВОЙ ТРАНСПОРТ    СВОЯ ПЛОЩАДКА СЫПУЧИХ    БЕЗ ВЫХОДНЫХ   ЗВОНИТЕ ПРЯМО СЕЙЧАС ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять.  Нас искали: щебень, керамзит, щебень с доставкой, заказать щебень, щебень сегодня, щебень в Воронеже
 				</description>
 			</offer>
 			<offer id="2210329468" available="true">
@@ -305,7 +151,95 @@
 				<picture>https://89.img.avito.st/640x480/11685448089.jpg</picture>
 				<name>Щебень</name>
 				<description>
-					Щебень с доставкой от 1 тонны.   Щебень факция 5-20  Щебень факция 20-40  Щебень факция 40-70   свой автопак    аботаем без выходных    аботаем с НДС   ЗВОНИТЕ ДОГОВОИМСЯ    ДОБАВЛЯЙТЕ В ИЗБАННОЕ ЧТОБ НЕ ПОТЕЯТЬ   вы искали:  Щебень, щебень ганитный, щебень гавийный, щебень известняковый, гавий, щебень купить в Воонеже, доставка щебня, кеамзит.
+					Щебень с доставкой от 1 тонны.   Щебень фракция 5-20  Щебень фракция 20-40  Щебень фракция 40-70   свой автопарк    работаем без выходных    работаем с НДС   ЗВОНИТЕ ДОГОВОРИМСЯ    ДОБАВЛЯЙТЕ В ИЗБРАННОЕ ЧТОБ НЕ ПОТЕРЯТЬ   вы искали:  Щебень, щебень гранитный, щебень гравийный, щебень известняковый, гравий, щебень купить в Воронеже, доставка щебня, керамзит.
+				</description>
+			</offer>
+			<offer id="2210228051" available="true">
+				<url>https://avito.ru/2210228051?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1637</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://36.img.avito.st/640x480/11718396236.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит фракция 10-20.   Доставка от 1 м3 (куб)   ВЫ НАШЛИ ЧТО ИСКАЛИ   В наличии щебень фракция 5-20.   СВОЙ АВТОПАРК   БЕЗ ВЫХОДНЫХ   БЕЗ ПОСРЕДНИКОВ %  ОТГРУЖАЕМ СТРОГО ПО ВЕСАМ   ЗВОНИТЕ ДОГОВОРИМСЯ   Вы искали:  Керамзит, купить керамзит, керамзит с доставкой, заказать керамзит, керамзит куб, керамзит для пола, керамзит в ямном, керамзит в рамонь, керамзит новая Усмань, щебень, щебень с доставкой, щебень заказать, щебень купить в Воронеже
+				</description>
+			</offer>
+			<offer id="2210676748" available="true">
+				<url>https://avito.ru/2210676748?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>723</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://68.img.avito.st/640x480/11725084268.jpg</picture>
+				<name>Щебень</name>
+				<description>
+					Щебень с доставкой или самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ    Свой транспорт    своя база отгрузки   отгрузка строго и точно по весам   без выходных   Так же в наличии керамзит фракция 10-20! Самый ходовой!   ЗВОНИТЕ ПРЯМО СЕЙЧАС ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять   Вы искали: щебень, щебень заказать, щебень купить, щебень с доставкой, керамзит, керамзит купить, керамзит заказать, керамзит с доставкой, куб керамзита
+				</description>
+			</offer>
+			<offer id="2210236960" available="true">
+				<url>https://avito.ru/2210236960?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1698</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://80.img.avito.st/640x480/11717853680.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой по Воронежу и области.   Мин заказ 1 куб!  Так же в наличии щебень. (5-20,20-40,40-70)   ВЫ НАШЛИ ЧТО ИСКАЛИ    свой транспорт    без выходных   отгрузка по весам   лучшие цены    ЗВОНИТЕ ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять.   Вы искали:  Керамзит, купить керамзит в Воронеже, заказать керамзит в Воронеже, керамзит с доставкой, куб керамзита, керамзит в ямном, керамзит купить в новой усмани, керамзит новоподклетное, керамзит рамонь, щебень, щебень с доставкой, щебень прочный, щебень в Воронеже
+				</description>
+			</offer>
+			<offer id="2210779085" available="true">
+				<url>https://avito.ru/2210779085?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1663</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://19.img.avito.st/640x480/11684867019.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой от 1 куба ( м3)   Нас выбирают потому что:  - самая низкая цена в городе   - свой транспорт   - своя площадка для отгрузки   - работаем с НДС  - без выходных    ЗВОНИТЕ ДОГОВОРИМСЯ   Нас искали:  Керамзит, купить куб керамзита, керамзит с доставкой, камаз керамзита, керамзит в латном, керамзит в семелуках, керамзит в рамоне.
+				</description>
+			</offer>
+			<offer id="2210735121" available="true">
+				<url>https://avito.ru/2210735121?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1638</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://24.img.avito.st/640x480/11724025224.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой по Воронежу.    ВЫ НАШЛИ ЧТО ИСКАЛИ   Привезём от 1 куба (м3)    свой автопарк самосвалов   своя база отгрузки   отгрузка строго по весам    ЗВОНИТЕ ПРЯМО СЕЙЧАС ДОГОВОРИМСЯ   Добавляйте в избранное чтоб не потерять.   Вы искали:  Керамзит, щебень, купить керамзит, заказать керамзит, куб керамзита, керамзит с доставкой, керамзит в Воронеже, щебень сегодня, щебень прочный, щебень с доставкой
+				</description>
+			</offer>
+			<offer id="2210065914" available="true">
+				<url>https://avito.ru/2210065914?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1643</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://98.img.avito.st/640x480/11679935898.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Щебень с доставкой и самовывозом.   Нагрузим в Ваш прицеп.   Отгрузка от 1 м3  Доставим от 1 до 76 кубов.    СВОЙ ТРАНСПОРТ   БЕЗ ВЫХОДНЫХ   ДОСТУПНЫЕ ЦЕНЫ    ЗВОНИТЕ ПРЯМО СЕЙЧАС.   Нас искали:  Щебень, керамзит, щебень заказать, щебень гранитный, керамзит суперлегкий, керамзит заказать, керамзит 5 кубов, керамзит 10 кубов, щебень для бетона
+				</description>
+			</offer>
+			<offer id="2210601556" available="true">
+				<url>https://avito.ru/2210601556?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1599</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://00.img.avito.st/640x480/11690577800.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой от 1 куб по Воронежу и области.   Суперлегкий! УДОБНО РАБОТАТЬ!   так же в наличии щебень разных фракций, для всех видов работ!!!   СВОЙ ТРАНСПОРТ    Без выходных    НИЗКИЕ ЦЕНЫ    ЗВОНИТЕ ДОГОВОРИМСЯ!   Нас искали:  Керамзит, купить керамзит, купить керамзит в Воронеже, заказать керамзит, керамзит с доставкой, куб керамзита, щебень, доставка щебня, щебень с доставкой
+				</description>
+			</offer>
+			<offer id="2210161887" available="true">
+				<url>https://avito.ru/2210161887?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1639</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://08.img.avito.st/640x480/11711280608.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой по Воронежу и области.  Фракция 10-20.   ВЫ НАШЛИ ЧТО ИСКАЛИ   так же в продаже щебень разных фракций.    свой автопарк   работаем без выходных   работаем с НДС  отгрузка строго по весам    З В О Н И Т Е ДОГОВОРИМСЯ  Добавляйте в избранное чтоб не потерять   Вы искали:  Керамзит, керамзит 10-20, купить керамзит, заказать керамзит, керамзит с доставкой, керамзит купить в Воронеже, щебень, щебень купить, щебень для стяжки, щебень для бетона, щебень для дренажа, щебень с доставкой
 				</description>
 			</offer>
 			<offer id="2210448951" available="true">
@@ -314,20 +248,31 @@
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
 				<picture>https://65.img.avito.st/640x480/11731741065.jpg</picture>
-				<name>Кеамзит</name>
+				<name>Керамзит</name>
 				<description>
-					Кеамзит доставим сегодня.  Отгузка от 1 куба (м3)   ЗВОНИТЕ ДОГОВОИМСЯ   СВОЙ ПАК И БАЗА ОТГУЗКИ.   Лучшая цена в Воонеже!!!  Добавляйте в избанное чтоб не потеять.  Так же щебень азных факций в наличии.   Вы искали:   Кеамзит, купить кеамзит, кеамзит с доставкой, кеамзит заказать, купить кеамзит в мешках, кеамзит в Воонеже, щебень, щебень с доставкой, щебень купить, щебень для бетона, щебень дешевый
+					Керамзит доставим сегодня.  Отгрузка от 1 куба (м3)   ЗВОНИТЕ ДОГОВОРИМСЯ   СВОЙ ПАРК И БАЗА ОТГРУЗКИ.   Лучшая цена в Воронеже!!!  Добавляйте в избранное чтоб не потерять.  Так же щебень разных фракций в наличии.   Вы искали:   Керамзит, купить керамзит, керамзит с доставкой, керамзит заказать, купить керамзит в мешках, керамзит в Воронеже, щебень, щебень с доставкой, щебень купить, щебень для бетона, щебень дешевый
 				</description>
 			</offer>
-			<offer id="2210681376" available="true">
-				<url>https://avito.ru/2210681376?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
-				<price>350</price>
+			<offer id="2210005025" available="true">
+				<url>https://avito.ru/2210005025?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>733</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://56.img.avito.st/640x480/11745792456.jpg</picture>
-				<name>Кеамзит</name>
+				<picture>https://56.img.avito.st/640x480/11748478856.jpg</picture>
+				<name>Щебень</name>
 				<description>
-					Кеамзит с доставкой.  От 1 куба пивезём!  Свой танспот и база отгузки.   Отгузка стого по весам.   звоните договоимся   Так же в наличии щебень азных факций.   Вы искали:   Кеамзит, купить кеамзит, кеамзит в Воонеже, кеамзит с доставкой, кеамзит куб, щебень, щебень с доставкой, щебень заказать, щебень купить, щебень для бетона, щебень для стяжки
+					Щебень с доставкой и самовывоз.    ВЫ НАШЛИ ЧТО ИСКАЛИ    Свой парк   своя база  Работаем без выходных   лучшая цена в Воронеже   Так же в наличии керамзит фр 10/20.   ЗВОНИЕ ДОГОВОРИМСЯ   Вы искали нас:  Щебень, щебень гранитный, щебень купить, щебень для стяжки, щебень для забора, щебень для дренажа, щебень для бетона, щебень гравий, щебень с доставкой, керамзит, купить керамзит, куб керамзита, керамзит с доставкой, керамзит заказать, керамзит купить в Воронеже
+				</description>
+			</offer>
+			<offer id="2210657218" available="true">
+				<url>https://avito.ru/2210657218?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1130</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://47.img.avito.st/640x480/11730958947.jpg</picture>
+				<name>Щебень</name>
+				<description>
+					Щебень с доставкой.   ВЫ НАШЛИ ЧТО ИСКАЛИ   Нас выбирают:   Отгрузка только строго по весам   Свой транспорт    Работаем без выходных   СВОЯ база отгрузки   В наличии керамзит фр 10/20.   ЗВОНИТЕ ДОГОВОРИМСЯ   Нас находят:  Щебень, щебень гранитный, щебень с доставкой, щебень купить, щебень для бетона, щебень для стяжки, щебень заказать, щебень купит в Воронеже, щебень купить в ямном, щебень заказать в Воронеже, керамзит, купить керамзит, заказать керамзит, керамзит с доставкой
 				</description>
 			</offer>
 			<offer id="2210258635" available="true">
@@ -336,9 +281,64 @@
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
 				<picture>https://43.img.avito.st/640x480/11680083143.jpg</picture>
-				<name>Кеамзит</name>
+				<name>Керамзит</name>
 				<description>
-					Кеамзит от 1 куба в Воонеже и Воонежской области.   Опеативно доставим до вашего адеса.    СВОЙ ТАНСПОТ И ПЛОЩАДКА    АБОТАЕМ БЕЗ ВЫХОДНЫХ    звоните договоимся!!!   Нас находят:  Кеамзит, кеамзит купить в Воонеже, заказать кеамзит, куб кеамзита, щебень, песок.
+					Керамзит от 1 куба в Воронеже и Воронежской области.   Оперативно доставим до вашего адреса.    СВОЙ ТРАНСПОРТ И ПЛОЩАДКА    РАБОТАЕМ БЕЗ ВЫХОДНЫХ    звоните договоримся!!!   Нас находят:  Керамзит, керамзит купить в Воронеже, заказать керамзит, куб керамзита, щебень, песок.
+				</description>
+			</offer>
+			<offer id="2210681376" available="true">
+				<url>https://avito.ru/2210681376?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://56.img.avito.st/640x480/11745792456.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой.  От 1 куба привезём!  Свой транспорт и база отгрузки.   Отгрузка строго по весам.   звоните договоримся   Так же в наличии щебень разных фракций.   Вы искали:   Керамзит, купить керамзит, керамзит в Воронеже, керамзит с доставкой, керамзит куб, щебень, щебень с доставкой, щебень заказать, щебень купить, щебень для бетона, щебень для стяжки
+				</description>
+			</offer>
+			<offer id="2210016532" available="true">
+				<url>https://avito.ru/2210016532?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1607</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://42.img.avito.st/640x480/11692867142.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит с доставкой или самовывоз.    ЛУЧШИЕ ЦЕНЫ В ВОРОНЕЖЕ!!!!   свой парк   без выходных    работаем с НДС  Так же в продаже щебень разных фракций.    ЗВОНИТЕ ДОГОВОРИМСЯ    ДОБАВЛЯЙТЕ В ИЗБРАННОЕ ЧТОБ НЕ ПОТЕРЯТЬ   ВЫ ИСКАЛИ:  щебень, щебень доставка, щебень с доставкой, керамзит, керамзит заказать
+				</description>
+			</offer>
+			<offer id="2210390243" available="true">
+				<url>https://avito.ru/2210390243?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1628</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://97.img.avito.st/640x480/11680243297.jpg</picture>
+				<name>Керамзит с доставкой</name>
+				<description>
+					Керамзит фракция 10-20.   Доставляем от 1 м3.    Свой транспорт   своя площадка отгрузочная   работаем с ндс   без выходных   лучшие цены    ЗВОНИТЕ ДОГОВОРИМСЯ   Нас искали:  Керамзит, купить керамзит в Воронеже, заказать керамзит, щебень, щебень заказать, купить щебень
+				</description>
+			</offer>
+			<offer id="2210590632" available="true">
+				<url>https://avito.ru/2210590632?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1612</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://10.img.avito.st/640x480/11691409810.jpg</picture>
+				<name>Керамзит</name>
+				<description>
+					Керамзит привезу со своей площадки.  Доставка от 1 куба!!!   СВОЙ ТРАНСПОРТ    СВОЯ БАЗА СЫПУЧИХ    БЕЗ ПОСРЕДНИКОВ    ЗВОНИТЕ, и получите консультацию бесплатно!!!   добавляйте в избранное чтоб не потерять   Вы искали:   Керамзит, купить керамзит, керамзит с доставкой, заказать керамзит, куб керамзита, камаз керамзита, щебень, щебень с доставкой
+				</description>
+			</offer>
+			<offer id="2210658145" available="true">
+				<url>https://avito.ru/2210658145?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=185271524</url>
+				<price>1211</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://72.img.avito.st/640x480/11685909572.jpg</picture>
+				<name>Щебень с доставкой</name>
+				<description>
+					Щебень с доставкой по Воронежу и области.   Свой парк и своя база сыпучих материалов.   Без выходных.  ЗВОНИТЕ ПРЯМО СЕЙЧАС   вы искали:   Щебень, щебень с доставкой, щебень заказать, щебень купить в Воронеже, щебенка
 				</description>
 			</offer>
 		</offers>
