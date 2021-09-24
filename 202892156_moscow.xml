@@ -11,28 +11,6 @@
 			<category id ="3" parentId="1">General.HealthAndBeauty</category>
 		</categories>
 		<offers>
-			<offer id="2234508389" available="true">
-				<url>https://avito.ru/2234508389?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
-				<price>60</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://50.img.avito.st/640x480/11838293350.jpg</picture>
-				<name>Avon Эйвон парфюмерия духи</name>
-				<description>
-					Эйвон Avon   Косметика и Парфюмерия   Скидки до 40%.   Призы и подарки при первой же покупке.   Оплата при получении.   Звоните, пишите с радостью проконсультирую
-				</description>
-			</offer>
-			<offer id="2234569994" available="true">
-				<url>https://avito.ru/2234569994?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
-				<price>60</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://49.img.avito.st/640x480/11838316949.jpg</picture>
-				<name>Avon Эйвон парфюмерия духи</name>
-				<description>
-					Эйвон Avon   Косметика и Парфюмерия   Скидки до 40%.   Призы и подарки при первой же покупке.   Оплата при получении.   Звоните, пишите с радостью проконсультирую
-				</description>
-			</offer>
 			<offer id="2202036858" available="true">
 				<url>https://avito.ru/2202036858?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
 				<price>60</price>
@@ -41,18 +19,7 @@
 				<picture>https://20.img.avito.st/640x480/11686483120.jpg</picture>
 				<name>Avon Эйвон духи</name>
 				<description>
-					Avon.  Под заказ любая продукция эйвон, при заказе от 1200 руб скидка 30%.   Духи в подарок со 2 заказом!  Оплата при получении.   Доставка 3-5 дней.   Звоните, пишите с радостью проконсультирую.
-				</description>
-			</offer>
-			<offer id="2234668353" available="true">
-				<url>https://avito.ru/2234668353?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
-				<price>60</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://31.img.avito.st/640x480/11838310731.jpg</picture>
-				<name>Avon Эйвон парфюмерия духи</name>
-				<description>
-					Эйвон Avon   Косметика и Парфюмерия   Скидки до 40%.   Призы и подарки при первой же покупке.   Оплата при получении.   Звоните, пишите с радостью проконсультирую
+					Avon.  Под заказ любая подукция эйвон, пи заказе от 1200 уб скидка 30%.   Духи в подаок со 2 заказом!  Оплата пи получении.   Доставка 3-5 дней.   Звоните, пишите с адостью поконсультиую.
 				</description>
 			</offer>
 			<offer id="2233970138" available="true">
@@ -61,9 +28,42 @@
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
 				<picture>https://87.img.avito.st/640x480/11838377587.jpg</picture>
-				<name>Avon Эйвон парфюмерия духи</name>
+				<name>Avon Эйвон пафюмеия духи</name>
 				<description>
-					Эйвон Avon   Косметика и Парфюмерия   Скидки до 40%.   Призы и подарки при первой же покупке.   Оплата при получении.   Звоните, пишите с радостью проконсультирую
+					Эйвон Avon   Косметика и Пафюмеия   Скидки до 40%.   Пизы и подаки пи певой же покупке.   Оплата пи получении.   Звоните, пишите с адостью поконсультиую
+				</description>
+			</offer>
+			<offer id="2234569994" available="true">
+				<url>https://avito.ru/2234569994?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
+				<price>60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://49.img.avito.st/640x480/11838316949.jpg</picture>
+				<name>Avon Эйвон пафюмеия духи</name>
+				<description>
+					Эйвон Avon   Косметика и Пафюмеия   Скидки до 40%.   Пизы и подаки пи певой же покупке.   Оплата пи получении.   Звоните, пишите с адостью поконсультиую
+				</description>
+			</offer>
+			<offer id="2234508389" available="true">
+				<url>https://avito.ru/2234508389?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
+				<price>60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://50.img.avito.st/640x480/11838293350.jpg</picture>
+				<name>Avon Эйвон пафюмеия духи</name>
+				<description>
+					Эйвон Avon   Косметика и Пафюмеия   Скидки до 40%.   Пизы и подаки пи певой же покупке.   Оплата пи получении.   Звоните, пишите с адостью поконсультиую
+				</description>
+			</offer>
+			<offer id="2234668353" available="true">
+				<url>https://avito.ru/2234668353?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=202892156</url>
+				<price>60</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://31.img.avito.st/640x480/11838310731.jpg</picture>
+				<name>Avon Эйвон пафюмеия духи</name>
+				<description>
+					Эйвон Avon   Косметика и Пафюмеия   Скидки до 40%.   Пизы и подаки пи певой же покупке.   Оплата пи получении.   Звоните, пишите с адостью поконсультиую
 				</description>
 			</offer>
 		</offers>
