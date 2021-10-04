@@ -1,4 +1,4 @@
-<yml_catalog date="2021-09-28 19:03">
+<yml_catalog date="2021-10-04 11:16">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,127 +11,6 @@
 			<category id ="3" parentId="1">General.HealthAndBeauty</category>
 		</categories>
 		<offers>
-			<offer id="2229525736" available="true">
-				<url>https://avito.ru/2229525736?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://20.img.avito.st/640x480/11723134820.jpg</picture>
-				<name>Lacoste L.12.12 Pour Elle Elegant</name>
-				<description>
-					LACOSTE L.12.12 Pour Elle Elegant  Туалетная вода, спрей 90 мл
-				</description>
-			</offer>
-			<offer id="2229394121" available="true">
-				<url>https://avito.ru/2229394121?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://93.img.avito.st/640x480/11680407593.jpg</picture>
-				<name>Lalique Lalique</name>
-				<description>
-					LALIQUE Lalique  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229148594" available="true">
-				<url>https://avito.ru/2229148594?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://33.img.avito.st/640x480/11709791733.jpg</picture>
-				<name>Zadig&amp;voltaire Just rock Pour Elle</name>
-				<description>
-					ZADIG&amp;VOLTAIRE Just rock! Pour Elle  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229821296" available="true">
-				<url>https://avito.ru/2229821296?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>5000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://48.img.avito.st/640x480/11680089248.jpg</picture>
-				<name>Dolce&amp;gabbana gold The One</name>
-				<description>
-					DOLCE&amp;GABBANA GOLD The One   Интенсивная Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229579194" available="true">
-				<url>https://avito.ru/2229579194?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://46.img.avito.st/640x480/11680233546.jpg</picture>
-				<name>Salvatore ferragamo Giardini Di Seta</name>
-				<description>
-					SALVATORE FERRAGAMO Giardini Di Seta  Парфюмерная вода, спрей 50 мл
-				</description>
-			</offer>
-			<offer id="2229022391" available="true">
-				<url>https://avito.ru/2229022391?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://75.img.avito.st/640x480/11680416675.jpg</picture>
-				<name>Oscar DE LA renta Bella Essence</name>
-				<description>
-					OSCAR DE LA RENTA Bella Essence  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229642529" available="true">
-				<url>https://avito.ru/2229642529?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://04.img.avito.st/640x480/11729416704.jpg</picture>
-				<name>Issey miyake L&apos;Eau d&apos;Issey Majeure</name>
-				<description>
-					Issey miyake L&apos;Eau d&apos;Issey Majeure  Туалетная вода 100 мл
-				</description>
-			</offer>
-			<offer id="2229048084" available="true">
-				<url>https://avito.ru/2229048084?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://77.img.avito.st/640x480/11680444377.jpg</picture>
-				<name>Moschino I Love Love</name>
-				<description>
-					MOSCHINO I Love Love  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229559955" available="true">
-				<url>https://avito.ru/2229559955?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://86.img.avito.st/640x480/11680356286.jpg</picture>
-				<name>Coach Floral Blush</name>
-				<description>
-					COACH Floral Blush  Парфюмерная вода, спрей 90 мл
-				</description>
-			</offer>
-			<offer id="2229402729" available="true">
-				<url>https://avito.ru/2229402729?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://05.img.avito.st/640x480/11723136405.jpg</picture>
-				<name>Lalique Amethyst Exquise</name>
-				<description>
-					LALIQUE Amethyst Exquise  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229854146" available="true">
-				<url>https://avito.ru/2229854146?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://94.img.avito.st/640x480/11709884594.jpg</picture>
-				<name>Salvatore ferragamo Signorina In Fiore</name>
-				<description>
-					SALVATORE FERRAGAMO Signorina In Fiore  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
 			<offer id="2229880501" available="true">
 				<url>https://avito.ru/2229880501?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
 				<price>2500</price>
@@ -143,631 +22,15 @@
 					Dolce&amp;gabbana The One Eau de Toilette  Туалетная вода 100 мл  Просрочен аромат
 				</description>
 			</offer>
-			<offer id="2229395268" available="true">
-				<url>https://avito.ru/2229395268?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://57.img.avito.st/640x480/11679948157.jpg</picture>
-				<name>Trussardi Donna Pink Marina</name>
-				<description>
-					TRUSSARDI Donna Pink Marina  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229592097" available="true">
-				<url>https://avito.ru/2229592097?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+			<offer id="2229854146" available="true">
+				<url>https://avito.ru/2229854146?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
 				<price>4000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
-				<picture>https://63.img.avito.st/640x480/11680175763.jpg</picture>
-				<name>Narciso rodriguez For Her Eau de Parfum</name>
+				<picture>https://94.img.avito.st/640x480/11709884594.jpg</picture>
+				<name>Salvatore ferragamo Signorina In Fiore</name>
 				<description>
-					NARCISO RODRIGUEZ For Her Eau de Parfum  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229350997" available="true">
-				<url>https://avito.ru/2229350997?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://83.img.avito.st/640x480/11680144583.jpg</picture>
-				<name>Carolina herrera Bad Boy</name>
-				<description>
-					CAROLINA HERRERA Bad Boy  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229592260" available="true">
-				<url>https://avito.ru/2229592260?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://75.img.avito.st/640x480/11723059375.jpg</picture>
-				<name>Guerlain idylle Eau de Parfum</name>
-				<description>
-					GUERLAIN IDYLLE Eau de Parfum  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229544053" available="true">
-				<url>https://avito.ru/2229544053?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>7000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://82.img.avito.st/640x480/11686590682.jpg</picture>
-				<name>Dolce&amp;gabbana Fruit Collection Lemon</name>
-				<description>
-					DOLCE&amp;GABBANA Fruit Collection Lemon  Туалетная вода, спрей 150 мл
-				</description>
-			</offer>
-			<offer id="2229579418" available="true">
-				<url>https://avito.ru/2229579418?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://48.img.avito.st/640x480/11679434048.jpg</picture>
-				<name>Guerlain Aqua Allegoria Herba Fresca</name>
-				<description>
-					GUERLAIN Aqua Allegoria Herba Fresca  Туалетная вода, спрей 125 мл
-				</description>
-			</offer>
-			<offer id="2229011179" available="true">
-				<url>https://avito.ru/2229011179?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://24.img.avito.st/640x480/11680196124.jpg</picture>
-				<name>Burberry Mr. Burberry Indigo</name>
-				<description>
-					BURBERRY Mr. Burberry Indigo  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229520334" available="true">
-				<url>https://avito.ru/2229520334?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://57.img.avito.st/640x480/11723121857.jpg</picture>
-				<name>Lanvin Jeanne</name>
-				<description>
-					LANVIN Jeanne  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229579707" available="true">
-				<url>https://avito.ru/2229579707?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>10000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://15.img.avito.st/640x480/11686578415.jpg</picture>
-				<name>Carner barcelona Cuirs</name>
-				<description>
-					CARNER BARCELONA Cuirs  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229236215" available="true">
-				<url>https://avito.ru/2229236215?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://46.img.avito.st/640x480/11723125346.jpg</picture>
-				<name>Lalique Lion туалетка 125мл</name>
-				<description>
-					Lalique Lion туалетка 125мл
-				</description>
-			</offer>
-			<offer id="2229493445" available="true">
-				<url>https://avito.ru/2229493445?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://94.img.avito.st/640x480/11680451894.jpg</picture>
-				<name>Jimmy choo Man Ice</name>
-				<description>
-					JIMMY CHOO Man Ice  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229789183" available="true">
-				<url>https://avito.ru/2229789183?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://94.img.avito.st/640x480/11729345594.jpg</picture>
-				<name>Calvin klein Sheer Beauty</name>
-				<description>
-					CALVIN KLEIN Sheer Beauty  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229725321" available="true">
-				<url>https://avito.ru/2229725321?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://45.img.avito.st/640x480/11740843845.jpg</picture>
-				<name>Abercrombie &amp; fitch Authentic Women</name>
-				<description>
-					ABERCROMBIE &amp; FITCH Authentic Women  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229275542" available="true">
-				<url>https://avito.ru/2229275542?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>8000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://19.img.avito.st/640x480/11680166119.jpg</picture>
-				<name>Boucheron Patchouli D&apos;Angkor</name>
-				<description>
-					BOUCHERON Patchouli D&apos;Angkor  Парфюмерная вода 125 мл
-				</description>
-			</offer>
-			<offer id="2229326579" available="true">
-				<url>https://avito.ru/2229326579?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://13.img.avito.st/640x480/11723038913.jpg</picture>
-				<name>Dolce&amp;gabbana Light Blue italian zest Pour Homme</name>
-				<description>
-					Туалетная вода Dolce &amp; Gabbana Light Blue Italian Zest Pour Homme  туалетная вода 125 мл  Без коробки
-				</description>
-			</offer>
-			<offer id="2229739138" available="true">
-				<url>https://avito.ru/2229739138?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://38.img.avito.st/640x480/11680524838.jpg</picture>
-				<name>Escada Candy Love</name>
-				<description>
-					ESCADA Candy Love  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229848253" available="true">
-				<url>https://avito.ru/2229848253?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://34.img.avito.st/640x480/11723127334.jpg</picture>
-				<name>Lalique Lion 75мл парфюм</name>
-				<description>
-					Lalique Lion 75мл парфюм
-				</description>
-			</offer>
-			<offer id="2229740840" available="true">
-				<url>https://avito.ru/2229740840?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://87.img.avito.st/640x480/11679927787.jpg</picture>
-				<name>Trussardi Donna</name>
-				<description>
-					TRUSSARDI Donna  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229126691" available="true">
-				<url>https://avito.ru/2229126691?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>5000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://86.img.avito.st/640x480/11680006986.jpg</picture>
-				<name>Tiffany &amp; CO Tiffany Intense</name>
-				<description>
-					TIFFANY &amp; CO Tiffany Intense  Парфюмерная вода, спрей 75 мл
-				</description>
-			</offer>
-			<offer id="2229163697" available="true">
-				<url>https://avito.ru/2229163697?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://66.img.avito.st/640x480/11680120866.jpg</picture>
-				<name>Zadig&amp;voltaire Just rock Pour Lui</name>
-				<description>
-					ZADIG&amp;VOLTAIRE Just rock! Pour Lui  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229753635" available="true">
-				<url>https://avito.ru/2229753635?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://97.img.avito.st/640x480/11735241797.jpg</picture>
-				<name>Givenchy L&apos;Interdit Eau de Toilette</name>
-				<description>
-					GIVENCHY L&apos;Interdit Eau de Toilette  Туалетная вода, спрей 80 мл
-				</description>
-			</offer>
-			<offer id="2229562447" available="true">
-				<url>https://avito.ru/2229562447?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://56.img.avito.st/640x480/11723095256.jpg</picture>
-				<name>Lanvin Eclat de Nuit</name>
-				<description>
-					LANVIN Eclat de Nuit  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229194348" available="true">
-				<url>https://avito.ru/2229194348?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>7000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://00.img.avito.st/640x480/11729359500.jpg</picture>
-				<name>Zarkoperfume Molecule 234 38</name>
-				<description>
-					ZARKOPERFUME Molecule 234 38  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2228972366" available="true">
-				<url>https://avito.ru/2228972366?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>8000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://34.img.avito.st/640x480/11697660834.jpg</picture>
-				<name>TOM ford Black Orchid</name>
-				<description>
-					TOM FORD Black Orchid  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229105159" available="true">
-				<url>https://avito.ru/2229105159?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://82.img.avito.st/640x480/11679997882.jpg</picture>
-				<name>Narciso rodriguez narciso eau de parfum Poudree</name>
-				<description>
-					NARCISO RODRIGUEZ NARCISO eau de parfum Poudree
-				</description>
-			</offer>
-			<offer id="2229027440" available="true">
-				<url>https://avito.ru/2229027440?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://55.img.avito.st/640x480/11723092055.jpg</picture>
-				<name>Trussardi Black Extreme</name>
-				<description>
-					TRUSSARDI Black Extreme  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229633031" available="true">
-				<url>https://avito.ru/2229633031?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>10000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://48.img.avito.st/640x480/11680219248.jpg</picture>
-				<name>Trussardi Musc Noir Perfume Enhancer</name>
-				<description>
-					TRUSSARDI Musc Noir Perfume Enhancer  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229446256" available="true">
-				<url>https://avito.ru/2229446256?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://71.img.avito.st/640x480/11729283671.jpg</picture>
-				<name>Chloe Eau de Parfum</name>
-				<description>
-					CHLOE Eau de Parfum   Парфюмерная вода, спрей 75 мл
-				</description>
-			</offer>
-			<offer id="2229119996" available="true">
-				<url>https://avito.ru/2229119996?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>7000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://80.img.avito.st/640x480/11729365580.jpg</picture>
-				<name>Kilian After Sunset</name>
-				<description>
-					KILIAN After Sunset   Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229510555" available="true">
-				<url>https://avito.ru/2229510555?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>8000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://50.img.avito.st/640x480/11709830550.jpg</picture>
-				<name>Amouroud Safran Rare</name>
-				<description>
-					AMOUROUD Safran Rare  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229341915" available="true">
-				<url>https://avito.ru/2229341915?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://23.img.avito.st/640x480/11729422223.jpg</picture>
-				<name>Lanvin Eclat d&apos;Arpege for men</name>
-				<description>
-					Lanvin Eclat d&apos;Arpege for men  Туалетная вода 100 мл
-				</description>
-			</offer>
-			<offer id="2229333217" available="true">
-				<url>https://avito.ru/2229333217?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>5000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://61.img.avito.st/640x480/11680130161.jpg</picture>
-				<name>Burberry My Burberry</name>
-				<description>
-					BURBERRY My Burberry  Парфюмерная вода, спрей 90 мл
-				</description>
-			</offer>
-			<offer id="2229684479" available="true">
-				<url>https://avito.ru/2229684479?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://34.img.avito.st/640x480/11723025334.jpg</picture>
-				<name>Burberry Mr. Burberry</name>
-				<description>
-					BURBERRY Mr. Burberry  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2228938426" available="true">
-				<url>https://avito.ru/2228938426?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://49.img.avito.st/640x480/11729320949.jpg</picture>
-				<name>Eisenberg Le Peche Homme</name>
-				<description>
-					Eisenberg Le Peche Homme  Парфюмированная вода 100 мл
-				</description>
-			</offer>
-			<offer id="2229598946" available="true">
-				<url>https://avito.ru/2229598946?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://23.img.avito.st/640x480/11680460123.jpg</picture>
-				<name>Paco rabanne Lady Million</name>
-				<description>
-					PACO RABANNE Lady Million  Парфюмерная вода, спрей 80 мл
-				</description>
-			</offer>
-			<offer id="2229875026" available="true">
-				<url>https://avito.ru/2229875026?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://12.img.avito.st/640x480/11729379912.jpg</picture>
-				<name>Givenchy Eau de Givenchy</name>
-				<description>
-					GIVENCHY Eau de Givenchy   Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229360140" available="true">
-				<url>https://avito.ru/2229360140?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://49.img.avito.st/640x480/11709841049.jpg</picture>
-				<name>Yohji yamamoto Yohji Yamamoto Femme</name>
-				<description>
-					YOHJI YAMAMOTO Yohji Yamamoto Femme  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229169386" available="true">
-				<url>https://avito.ru/2229169386?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://50.img.avito.st/640x480/11723130950.jpg</picture>
-				<name>Carolina herrera CH L&apos;eau</name>
-				<description>
-					CAROLINA HERRERA CH L&apos;eau  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229680271" available="true">
-				<url>https://avito.ru/2229680271?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>10000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://14.img.avito.st/640x480/11709820114.jpg</picture>
-				<name>Kajal Homme II</name>
-				<description>
-					KAJAL Homme II  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229544940" available="true">
-				<url>https://avito.ru/2229544940?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://74.img.avito.st/640x480/11680400374.jpg</picture>
-				<name>Lalique Satine</name>
-				<description>
-					LALIQUE Satine  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229732981" available="true">
-				<url>https://avito.ru/2229732981?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://56.img.avito.st/640x480/11723049356.jpg</picture>
-				<name>Balenciaga Balenciaga Paris</name>
-				<description>
-					BALENCIAGA Balenciaga Paris  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229755887" available="true">
-				<url>https://avito.ru/2229755887?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>8000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://47.img.avito.st/640x480/11697663447.jpg</picture>
-				<name>TOM ford Velvet Orchid</name>
-				<description>
-					TOM FORD Velvet Orchid  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229353667" available="true">
-				<url>https://avito.ru/2229353667?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://82.img.avito.st/640x480/11729395582.jpg</picture>
-				<name>Salvatore ferragamo Amo Per Lei</name>
-				<description>
-					SALVATORE FERRAGAMO Amo Per Lei  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229425654" available="true">
-				<url>https://avito.ru/2229425654?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://76.img.avito.st/640x480/11680430776.jpg</picture>
-				<name>Salvatore ferragamo Amo Ferragamo</name>
-				<description>
-					SALVATORE FERRAGAMO Amo Ferragamo  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229189725" available="true">
-				<url>https://avito.ru/2229189725?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://39.img.avito.st/640x480/11729392239.jpg</picture>
-				<name>Versace Dylan Blue Pour Femme</name>
-				<description>
-					VERSACE Dylan Blue Pour Femme  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229733411" available="true">
-				<url>https://avito.ru/2229733411?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://79.img.avito.st/640x480/11723118879.jpg</picture>
-				<name>Roos &amp; roos I Love My Man</name>
-				<description>
-					ROOS &amp; ROOS I Love My Man  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229106800" available="true">
-				<url>https://avito.ru/2229106800?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>12000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://52.img.avito.st/640x480/11686532352.jpg</picture>
-				<name>Kajal Kajal</name>
-				<description>
-					KAJAL Kajal  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229298494" available="true">
-				<url>https://avito.ru/2229298494?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://43.img.avito.st/640x480/11680013943.jpg</picture>
-				<name>Tiffany &amp; CO Tiffany Sheer</name>
-				<description>
-					TIFFANY &amp; CO Tiffany Sheer  Туалетная вода, спрей 75 мл
-				</description>
-			</offer>
-			<offer id="2229329210" available="true">
-				<url>https://avito.ru/2229329210?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>5000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://39.img.avito.st/640x480/11680264339.jpg</picture>
-				<name>Alex simone Encore Un Peu</name>
-				<description>
-					ALEX SIMONE Encore Un Peu  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229043578" available="true">
-				<url>https://avito.ru/2229043578?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://37.img.avito.st/640x480/11680380237.jpg</picture>
-				<name>Versace Eros</name>
-				<description>
-					VERSACE Eros  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229264168" available="true">
-				<url>https://avito.ru/2229264168?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>7000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://12.img.avito.st/640x480/11697668512.jpg</picture>
-				<name>Kilian After Sunset</name>
-				<description>
-					KILIAN After Sunset  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229262596" available="true">
-				<url>https://avito.ru/2229262596?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://38.img.avito.st/640x480/11680151838.jpg</picture>
-				<name>Carolina herrera Chic for men</name>
-				<description>
-					CAROLINA HERRERA Chic for men  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229555314" available="true">
-				<url>https://avito.ru/2229555314?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://08.img.avito.st/640x480/11680473008.jpg</picture>
-				<name>Paco rabanne phantom</name>
-				<description>
-					PACO RABANNE PHANTOM   Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229297842" available="true">
-				<url>https://avito.ru/2229297842?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://12.img.avito.st/640x480/11679987712.jpg</picture>
-				<name>Mugler Alien Eau de Toilette</name>
-				<description>
-					MUGLER Alien Eau de Toilette  Туалетная вода, спрей 60 мл
-				</description>
-			</offer>
-			<offer id="2228901816" available="true">
-				<url>https://avito.ru/2228901816?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>5000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://96.img.avito.st/640x480/11709753396.jpg</picture>
-				<name>Gucci Flora Gorgeous Gardenia</name>
-				<description>
-					GUCCI Flora Gorgeous Gardenia  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229809408" available="true">
-				<url>https://avito.ru/2229809408?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://50.img.avito.st/640x480/11729334650.jpg</picture>
-				<name>L&apos;EAU kenzo pour homme</name>
-				<description>
-					L&apos;EAU KENZO POUR HOMME  Туалетная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229833607" available="true">
-				<url>https://avito.ru/2229833607?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://02.img.avito.st/640x480/11680344102.jpg</picture>
-				<name>Dolce&amp;gabbana Pour Femme</name>
-				<description>
-					DOLCE&amp;GABBANA Pour Femme  Парфюмерная вода, спрей 100 мл
+					SALVATORE FERRAGAMO Signorina In Fiore  Туалетная вода, спрей 100 мл
 				</description>
 			</offer>
 			<offer id="2229169381" available="true">
@@ -803,37 +66,708 @@
 					LALIQUE Fruits Du Mouvement 1977   Парфюмерная вода, спрей 100 мл
 				</description>
 			</offer>
-			<offer id="2229237630" available="true">
-				<url>https://avito.ru/2229237630?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>6000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://23.img.avito.st/640x480/11680209523.jpg</picture>
-				<name>Lancome Tresor</name>
-				<description>
-					LANCOME Tresor  Парфюмерная вода, спрей 100 мл
-				</description>
-			</offer>
-			<offer id="2229166745" available="true">
-				<url>https://avito.ru/2229166745?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
-				<price>3500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>3</categoryId>
-				<picture>https://37.img.avito.st/640x480/11729374437.jpg</picture>
-				<name>Nina ricci Chant D&apos;Extase</name>
-				<description>
-					NINA RICCI Chant D&apos;Extase  Парфюмерная вода, спрей 50 мл
-				</description>
-			</offer>
-			<offer id="2229722997" available="true">
-				<url>https://avito.ru/2229722997?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+			<offer id="2229022391" available="true">
+				<url>https://avito.ru/2229022391?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
 				<price>3000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
-				<picture>https://86.img.avito.st/640x480/11697628386.jpg</picture>
-				<name>Lacoste L&apos;Homme Timeless</name>
+				<picture>https://75.img.avito.st/640x480/11680416675.jpg</picture>
+				<name>Oscar DE LA renta Bella Essence</name>
 				<description>
-					LACOSTE L&apos;Homme Timeless  Туалетная вода, спрей 100 мл
+					OSCAR DE LA RENTA Bella Essence  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229579194" available="true">
+				<url>https://avito.ru/2229579194?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://46.img.avito.st/640x480/11680233546.jpg</picture>
+				<name>Salvatore ferragamo Giardini Di Seta</name>
+				<description>
+					SALVATORE FERRAGAMO Giardini Di Seta  Парфюмерная вода, спрей 50 мл
+				</description>
+			</offer>
+			<offer id="2229510555" available="true">
+				<url>https://avito.ru/2229510555?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>8000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://50.img.avito.st/640x480/11709830550.jpg</picture>
+				<name>Amouroud Safran Rare</name>
+				<description>
+					AMOUROUD Safran Rare  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229119996" available="true">
+				<url>https://avito.ru/2229119996?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://80.img.avito.st/640x480/11729365580.jpg</picture>
+				<name>Kilian After Sunset</name>
+				<description>
+					KILIAN After Sunset   Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229264168" available="true">
+				<url>https://avito.ru/2229264168?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://12.img.avito.st/640x480/11697668512.jpg</picture>
+				<name>Kilian After Sunset</name>
+				<description>
+					KILIAN After Sunset  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229341915" available="true">
+				<url>https://avito.ru/2229341915?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://23.img.avito.st/640x480/11729422223.jpg</picture>
+				<name>Lanvin Eclat d&apos;Arpege for men</name>
+				<description>
+					Lanvin Eclat d&apos;Arpege for men  Туалетная вода 100 мл
+				</description>
+			</offer>
+			<offer id="2228927573" available="true">
+				<url>https://avito.ru/2228927573?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://91.img.avito.st/640x480/11680305991.jpg</picture>
+				<name>Dolce&amp;gabbana L&apos;Imperatrice Eau de Toilette</name>
+				<description>
+					DOLCE&amp;GABBANA L&apos;Imperatrice Eau de Toilette  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229262596" available="true">
+				<url>https://avito.ru/2229262596?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://38.img.avito.st/640x480/11680151838.jpg</picture>
+				<name>Carolina herrera Chic for men</name>
+				<description>
+					CAROLINA HERRERA Chic for men  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229555314" available="true">
+				<url>https://avito.ru/2229555314?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://08.img.avito.st/640x480/11680473008.jpg</picture>
+				<name>Paco rabanne phantom</name>
+				<description>
+					PACO RABANNE PHANTOM   Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2228901816" available="true">
+				<url>https://avito.ru/2228901816?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>5000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://96.img.avito.st/640x480/11709753396.jpg</picture>
+				<name>Gucci Flora Gorgeous Gardenia</name>
+				<description>
+					GUCCI Flora Gorgeous Gardenia  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229297842" available="true">
+				<url>https://avito.ru/2229297842?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://12.img.avito.st/640x480/11679987712.jpg</picture>
+				<name>Mugler Alien Eau de Toilette</name>
+				<description>
+					MUGLER Alien Eau de Toilette  Туалетная вода, спрей 60 мл
+				</description>
+			</offer>
+			<offer id="2229544940" available="true">
+				<url>https://avito.ru/2229544940?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://74.img.avito.st/640x480/11680400374.jpg</picture>
+				<name>Lalique Satine</name>
+				<description>
+					LALIQUE Satine  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229755887" available="true">
+				<url>https://avito.ru/2229755887?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>8000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://47.img.avito.st/640x480/11697663447.jpg</picture>
+				<name>TOM ford Velvet Orchid</name>
+				<description>
+					TOM FORD Velvet Orchid  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229680271" available="true">
+				<url>https://avito.ru/2229680271?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>10000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://14.img.avito.st/640x480/11709820114.jpg</picture>
+				<name>Kajal Homme II</name>
+				<description>
+					KAJAL Homme II  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229732981" available="true">
+				<url>https://avito.ru/2229732981?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://56.img.avito.st/640x480/11723049356.jpg</picture>
+				<name>Balenciaga Balenciaga Paris</name>
+				<description>
+					BALENCIAGA Balenciaga Paris  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229189725" available="true">
+				<url>https://avito.ru/2229189725?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://39.img.avito.st/640x480/11729392239.jpg</picture>
+				<name>Versace Dylan Blue Pour Femme</name>
+				<description>
+					VERSACE Dylan Blue Pour Femme  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229353667" available="true">
+				<url>https://avito.ru/2229353667?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://82.img.avito.st/640x480/11729395582.jpg</picture>
+				<name>Salvatore ferragamo Amo Per Lei</name>
+				<description>
+					SALVATORE FERRAGAMO Amo Per Lei  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229425654" available="true">
+				<url>https://avito.ru/2229425654?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://76.img.avito.st/640x480/11680430776.jpg</picture>
+				<name>Salvatore ferragamo Amo Ferragamo</name>
+				<description>
+					SALVATORE FERRAGAMO Amo Ferragamo  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229350997" available="true">
+				<url>https://avito.ru/2229350997?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://83.img.avito.st/640x480/11680144583.jpg</picture>
+				<name>Carolina herrera Bad Boy</name>
+				<description>
+					CAROLINA HERRERA Bad Boy  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229395268" available="true">
+				<url>https://avito.ru/2229395268?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://57.img.avito.st/640x480/11679948157.jpg</picture>
+				<name>Trussardi Donna Pink Marina</name>
+				<description>
+					TRUSSARDI Donna Pink Marina  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229592097" available="true">
+				<url>https://avito.ru/2229592097?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://63.img.avito.st/640x480/11680175763.jpg</picture>
+				<name>Narciso rodriguez For Her Eau de Parfum</name>
+				<description>
+					NARCISO RODRIGUEZ For Her Eau de Parfum  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229809408" available="true">
+				<url>https://avito.ru/2229809408?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://50.img.avito.st/640x480/11729334650.jpg</picture>
+				<name>L&apos;EAU kenzo pour homme</name>
+				<description>
+					L&apos;EAU KENZO POUR HOMME  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229833607" available="true">
+				<url>https://avito.ru/2229833607?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://02.img.avito.st/640x480/11680344102.jpg</picture>
+				<name>Dolce&amp;gabbana Pour Femme</name>
+				<description>
+					DOLCE&amp;GABBANA Pour Femme  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229298494" available="true">
+				<url>https://avito.ru/2229298494?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://43.img.avito.st/640x480/11680013943.jpg</picture>
+				<name>Tiffany &amp; CO Tiffany Sheer</name>
+				<description>
+					TIFFANY &amp; CO Tiffany Sheer  Туалетная вода, спрей 75 мл
+				</description>
+			</offer>
+			<offer id="2229329210" available="true">
+				<url>https://avito.ru/2229329210?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>5000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://39.img.avito.st/640x480/11680264339.jpg</picture>
+				<name>Alex simone Encore Un Peu</name>
+				<description>
+					ALEX SIMONE Encore Un Peu  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229106800" available="true">
+				<url>https://avito.ru/2229106800?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>12000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://52.img.avito.st/640x480/11686532352.jpg</picture>
+				<name>Kajal Kajal</name>
+				<description>
+					KAJAL Kajal  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229733411" available="true">
+				<url>https://avito.ru/2229733411?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://79.img.avito.st/640x480/11723118879.jpg</picture>
+				<name>Roos &amp; roos I Love My Man</name>
+				<description>
+					ROOS &amp; ROOS I Love My Man  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229740840" available="true">
+				<url>https://avito.ru/2229740840?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://87.img.avito.st/640x480/11679927787.jpg</picture>
+				<name>Trussardi Donna</name>
+				<description>
+					TRUSSARDI Donna  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229848253" available="true">
+				<url>https://avito.ru/2229848253?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://34.img.avito.st/640x480/11723127334.jpg</picture>
+				<name>Lalique Lion 75мл парфюм</name>
+				<description>
+					Lalique Lion 75мл парфюм
+				</description>
+			</offer>
+			<offer id="2229236215" available="true">
+				<url>https://avito.ru/2229236215?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://46.img.avito.st/640x480/11723125346.jpg</picture>
+				<name>Lalique Lion туалетка 125мл</name>
+				<description>
+					Lalique Lion туалетка 125мл
+				</description>
+			</offer>
+			<offer id="2229520334" available="true">
+				<url>https://avito.ru/2229520334?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://57.img.avito.st/640x480/11723121857.jpg</picture>
+				<name>Lanvin Jeanne</name>
+				<description>
+					LANVIN Jeanne  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229579707" available="true">
+				<url>https://avito.ru/2229579707?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>10000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://15.img.avito.st/640x480/11686578415.jpg</picture>
+				<name>Carner barcelona Cuirs</name>
+				<description>
+					CARNER BARCELONA Cuirs  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229043578" available="true">
+				<url>https://avito.ru/2229043578?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://37.img.avito.st/640x480/11680380237.jpg</picture>
+				<name>Versace Eros</name>
+				<description>
+					VERSACE Eros  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229684479" available="true">
+				<url>https://avito.ru/2229684479?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://34.img.avito.st/640x480/11723025334.jpg</picture>
+				<name>Burberry Mr. Burberry</name>
+				<description>
+					BURBERRY Mr. Burberry  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2228938426" available="true">
+				<url>https://avito.ru/2228938426?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://49.img.avito.st/640x480/11729320949.jpg</picture>
+				<name>Eisenberg Le Peche Homme</name>
+				<description>
+					Eisenberg Le Peche Homme  Парфюмированная вода 100 мл
+				</description>
+			</offer>
+			<offer id="2229562447" available="true">
+				<url>https://avito.ru/2229562447?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://56.img.avito.st/640x480/11723095256.jpg</picture>
+				<name>Lanvin Eclat de Nuit</name>
+				<description>
+					LANVIN Eclat de Nuit  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229194348" available="true">
+				<url>https://avito.ru/2229194348?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://00.img.avito.st/640x480/11729359500.jpg</picture>
+				<name>Zarkoperfume Molecule 234 38</name>
+				<description>
+					ZARKOPERFUME Molecule 234 38  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229753635" available="true">
+				<url>https://avito.ru/2229753635?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://97.img.avito.st/640x480/11735241797.jpg</picture>
+				<name>Givenchy L&apos;Interdit Eau de Toilette</name>
+				<description>
+					GIVENCHY L&apos;Interdit Eau de Toilette  Туалетная вода, спрей 80 мл
+				</description>
+			</offer>
+			<offer id="2229739138" available="true">
+				<url>https://avito.ru/2229739138?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://38.img.avito.st/640x480/11680524838.jpg</picture>
+				<name>Escada Candy Love</name>
+				<description>
+					ESCADA Candy Love  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229592260" available="true">
+				<url>https://avito.ru/2229592260?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://75.img.avito.st/640x480/11723059375.jpg</picture>
+				<name>Guerlain idylle Eau de Parfum</name>
+				<description>
+					GUERLAIN IDYLLE Eau de Parfum  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229544053" available="true">
+				<url>https://avito.ru/2229544053?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://82.img.avito.st/640x480/11686590682.jpg</picture>
+				<name>Dolce&amp;gabbana Fruit Collection Lemon</name>
+				<description>
+					DOLCE&amp;GABBANA Fruit Collection Lemon  Туалетная вода, спрей 150 мл
+				</description>
+			</offer>
+			<offer id="2229579418" available="true">
+				<url>https://avito.ru/2229579418?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://48.img.avito.st/640x480/11679434048.jpg</picture>
+				<name>Guerlain Aqua Allegoria Herba Fresca</name>
+				<description>
+					GUERLAIN Aqua Allegoria Herba Fresca  Туалетная вода, спрей 125 мл
+				</description>
+			</offer>
+			<offer id="2229559955" available="true">
+				<url>https://avito.ru/2229559955?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://86.img.avito.st/640x480/11680356286.jpg</picture>
+				<name>Coach Floral Blush</name>
+				<description>
+					COACH Floral Blush  Парфюмерная вода, спрей 90 мл
+				</description>
+			</offer>
+			<offer id="2229402729" available="true">
+				<url>https://avito.ru/2229402729?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://05.img.avito.st/640x480/11723136405.jpg</picture>
+				<name>Lalique Amethyst Exquise</name>
+				<description>
+					LALIQUE Amethyst Exquise  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229148594" available="true">
+				<url>https://avito.ru/2229148594?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://33.img.avito.st/640x480/11709791733.jpg</picture>
+				<name>Zadig&amp;voltaire Just rock Pour Elle</name>
+				<description>
+					ZADIG&amp;VOLTAIRE Just rock! Pour Elle  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229394121" available="true">
+				<url>https://avito.ru/2229394121?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://93.img.avito.st/640x480/11680407593.jpg</picture>
+				<name>Lalique Lalique</name>
+				<description>
+					LALIQUE Lalique  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229821296" available="true">
+				<url>https://avito.ru/2229821296?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>5000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://48.img.avito.st/640x480/11680089248.jpg</picture>
+				<name>Dolce&amp;gabbana gold The One</name>
+				<description>
+					DOLCE&amp;GABBANA GOLD The One   Интенсивная Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229525736" available="true">
+				<url>https://avito.ru/2229525736?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://20.img.avito.st/640x480/11723134820.jpg</picture>
+				<name>Lacoste L.12.12 Pour Elle Elegant</name>
+				<description>
+					LACOSTE L.12.12 Pour Elle Elegant  Туалетная вода, спрей 90 мл
+				</description>
+			</offer>
+			<offer id="2229333217" available="true">
+				<url>https://avito.ru/2229333217?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>5000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://61.img.avito.st/640x480/11680130161.jpg</picture>
+				<name>Burberry My Burberry</name>
+				<description>
+					BURBERRY My Burberry  Парфюмерная вода, спрей 90 мл
+				</description>
+			</offer>
+			<offer id="2229105159" available="true">
+				<url>https://avito.ru/2229105159?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://82.img.avito.st/640x480/11679997882.jpg</picture>
+				<name>Narciso rodriguez narciso eau de parfum Poudree</name>
+				<description>
+					NARCISO RODRIGUEZ NARCISO eau de parfum Poudree
+				</description>
+			</offer>
+			<offer id="2229633031" available="true">
+				<url>https://avito.ru/2229633031?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>10000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://48.img.avito.st/640x480/11680219248.jpg</picture>
+				<name>Trussardi Musc Noir Perfume Enhancer</name>
+				<description>
+					TRUSSARDI Musc Noir Perfume Enhancer  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2228972366" available="true">
+				<url>https://avito.ru/2228972366?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>8000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://34.img.avito.st/640x480/11697660834.jpg</picture>
+				<name>TOM ford Black Orchid</name>
+				<description>
+					TOM FORD Black Orchid  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229027440" available="true">
+				<url>https://avito.ru/2229027440?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://55.img.avito.st/640x480/11723092055.jpg</picture>
+				<name>Trussardi Black Extreme</name>
+				<description>
+					TRUSSARDI Black Extreme  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229446256" available="true">
+				<url>https://avito.ru/2229446256?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://71.img.avito.st/640x480/11729283671.jpg</picture>
+				<name>Chloe Eau de Parfum</name>
+				<description>
+					CHLOE Eau de Parfum   Парфюмерная вода, спрей 75 мл
+				</description>
+			</offer>
+			<offer id="2229360140" available="true">
+				<url>https://avito.ru/2229360140?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://49.img.avito.st/640x480/11709841049.jpg</picture>
+				<name>Yohji yamamoto Yohji Yamamoto Femme</name>
+				<description>
+					YOHJI YAMAMOTO Yohji Yamamoto Femme  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229169386" available="true">
+				<url>https://avito.ru/2229169386?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://50.img.avito.st/640x480/11723130950.jpg</picture>
+				<name>Carolina herrera CH L&apos;eau</name>
+				<description>
+					CAROLINA HERRERA CH L&apos;eau  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229789183" available="true">
+				<url>https://avito.ru/2229789183?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://94.img.avito.st/640x480/11729345594.jpg</picture>
+				<name>Calvin klein Sheer Beauty</name>
+				<description>
+					CALVIN KLEIN Sheer Beauty  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229326579" available="true">
+				<url>https://avito.ru/2229326579?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://13.img.avito.st/640x480/11723038913.jpg</picture>
+				<name>Dolce&amp;gabbana Light Blue italian zest Pour Homme</name>
+				<description>
+					Туалетная вода Dolce &amp; Gabbana Light Blue Italian Zest Pour Homme  туалетная вода 125 мл  Без коробки
+				</description>
+			</offer>
+			<offer id="2229275542" available="true">
+				<url>https://avito.ru/2229275542?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>8000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://19.img.avito.st/640x480/11680166119.jpg</picture>
+				<name>Boucheron Patchouli D&apos;Angkor</name>
+				<description>
+					BOUCHERON Patchouli D&apos;Angkor  Парфюмерная вода 125 мл
+				</description>
+			</offer>
+			<offer id="2229493445" available="true">
+				<url>https://avito.ru/2229493445?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://94.img.avito.st/640x480/11680451894.jpg</picture>
+				<name>Jimmy choo Man Ice</name>
+				<description>
+					JIMMY CHOO Man Ice  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229725321" available="true">
+				<url>https://avito.ru/2229725321?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://45.img.avito.st/640x480/11740843845.jpg</picture>
+				<name>Abercrombie &amp; fitch Authentic Women</name>
+				<description>
+					ABERCROMBIE &amp; FITCH Authentic Women  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229011179" available="true">
+				<url>https://avito.ru/2229011179?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://24.img.avito.st/640x480/11680196124.jpg</picture>
+				<name>Burberry Mr. Burberry Indigo</name>
+				<description>
+					BURBERRY Mr. Burberry Indigo  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229875026" available="true">
+				<url>https://avito.ru/2229875026?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://12.img.avito.st/640x480/11729379912.jpg</picture>
+				<name>Givenchy Eau de Givenchy</name>
+				<description>
+					GIVENCHY Eau de Givenchy   Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229598946" available="true">
+				<url>https://avito.ru/2229598946?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://23.img.avito.st/640x480/11680460123.jpg</picture>
+				<name>Paco rabanne Lady Million</name>
+				<description>
+					PACO RABANNE Lady Million  Парфюмерная вода, спрей 80 мл
 				</description>
 			</offer>
 			<offer id="2229792460" available="true">
@@ -847,6 +781,39 @@
 					GIORGIO ARMANI Acqua di Gio Profondo  Парфюмерная вода, спрей 75 мл
 				</description>
 			</offer>
+			<offer id="2229166745" available="true">
+				<url>https://avito.ru/2229166745?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>3500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://37.img.avito.st/640x480/11729374437.jpg</picture>
+				<name>Nina ricci Chant D&apos;Extase</name>
+				<description>
+					NINA RICCI Chant D&apos;Extase  Парфюмерная вода, спрей 50 мл
+				</description>
+			</offer>
+			<offer id="2229237630" available="true">
+				<url>https://avito.ru/2229237630?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>6000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://23.img.avito.st/640x480/11680209523.jpg</picture>
+				<name>Lancome Tresor</name>
+				<description>
+					LANCOME Tresor  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229722997" available="true">
+				<url>https://avito.ru/2229722997?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://86.img.avito.st/640x480/11697628386.jpg</picture>
+				<name>Lacoste L&apos;Homme Timeless</name>
+				<description>
+					LACOSTE L&apos;Homme Timeless  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
 			<offer id="2228992422" available="true">
 				<url>https://avito.ru/2228992422?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
 				<price>3000</price>
@@ -858,15 +825,26 @@
 					CHLOE Love Story  Парфюмерная вода, спрей 75 мл
 				</description>
 			</offer>
-			<offer id="2228927573" available="true">
-				<url>https://avito.ru/2228927573?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+			<offer id="2229163697" available="true">
+				<url>https://avito.ru/2229163697?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
 				<price>3000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>3</categoryId>
-				<picture>https://91.img.avito.st/640x480/11680305991.jpg</picture>
-				<name>Dolce&amp;gabbana L&apos;Imperatrice Eau de Toilette</name>
+				<picture>https://66.img.avito.st/640x480/11680120866.jpg</picture>
+				<name>Zadig&amp;voltaire Just rock Pour Lui</name>
 				<description>
-					DOLCE&amp;GABBANA L&apos;Imperatrice Eau de Toilette  Туалетная вода, спрей 100 мл
+					ZADIG&amp;VOLTAIRE Just rock! Pour Lui  Туалетная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229126691" available="true">
+				<url>https://avito.ru/2229126691?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>5000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://86.img.avito.st/640x480/11680006986.jpg</picture>
+				<name>Tiffany &amp; CO Tiffany Intense</name>
+				<description>
+					TIFFANY &amp; CO Tiffany Intense  Парфюмерная вода, спрей 75 мл
 				</description>
 			</offer>
 			<offer id="2229859571" available="true">
@@ -889,6 +867,28 @@
 				<name>Burberry Mr. Burberry Eau de Parfum</name>
 				<description>
 					BURBERRY Mr. Burberry Eau de Parfum  Парфюмерная вода, спрей 100 мл
+				</description>
+			</offer>
+			<offer id="2229642529" available="true">
+				<url>https://avito.ru/2229642529?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://04.img.avito.st/640x480/11729416704.jpg</picture>
+				<name>Issey miyake L&apos;Eau d&apos;Issey Majeure</name>
+				<description>
+					Issey miyake L&apos;Eau d&apos;Issey Majeure  Туалетная вода 100 мл
+				</description>
+			</offer>
+			<offer id="2229048084" available="true">
+				<url>https://avito.ru/2229048084?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=59163671</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>3</categoryId>
+				<picture>https://77.img.avito.st/640x480/11680444377.jpg</picture>
+				<name>Moschino I Love Love</name>
+				<description>
+					MOSCHINO I Love Love  Туалетная вода, спрей 100 мл
 				</description>
 			</offer>
 		</offers>
