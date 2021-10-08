@@ -1,4 +1,4 @@
-<yml_catalog date="2021-10-06 12:41">
+<yml_catalog date="2021-10-08 12:02">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,105 +11,6 @@
 			<category id ="2" parentId="1">General.GoodsForBusiness</category>
 		</categories>
 		<offers>
-			<offer id="2210707464" available="true">
-				<url>https://avito.ru/2210707464?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>35000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://37.img.avito.st/640x480/11694525737.jpg</picture>
-				<name>Шкаф холодильный Премьер швуп1ту-1,4 К(238)</name>
-				<description>
-					Шкаф холодильный Премьер ШВУП1ТУ-1,4 К   Код товара(238)   Температурный режим от 1 до 10 C   Охлаждение динамическое   Холодильный агрегат встроенный   Среднетемпературный   Исполнение двери прозрачная   Напряжение220 В   Ширина1645 мм   Глубина635 мм   Высота1940 мм   Вес 210 кг   Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210389908" available="true">
-				<url>https://avito.ru/2210389908?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>40000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://38.img.avito.st/640x480/11836984338.jpg</picture>
-				<name>Холодильная витрина пвхс Миссури - 1,9(230)</name>
-				<description>
-					Холодильная витрина пвхс Миссури - 1,9  Код товара(230)  Холодильная витрина Технохолод ПВХС Миссури - 1,9  Код товара  264  Производитель:Технохолод  Длина, мм:1900  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:+1+10С  Хладообеспечение:встроенный холод
-				</description>
-			</offer>
-			<offer id="2210500440" available="true">
-				<url>https://avito.ru/2210500440?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>30000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://34.img.avito.st/640x480/11694993334.jpg</picture>
-				<name>Шкаф холодильный Премьер швуп1ту-0,55 С2 (240)</name>
-				<description>
-					Шкаф холодильный Премьер ШВУП1ТУ-0,55 С2  Код товара(240)  Производитель: ПРЕМЬЕР  Длина: 675 мм  Ширина: 610 мм  Высота: 1940 мм  Рабочие температуры: 5..+10 C  Страна: Россия  Тип двери: Стеклянная распашная  Полезный объем: 550 л  Напряжение: 220 В  Мощность: 0,428 кВт  Тип охлаждения: динамическое (вентилируемое)
-				</description>
-			</offer>
-			<offer id="2209891331" available="true">
-				<url>https://avito.ru/2209891331?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>25000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://80.img.avito.st/640x480/11695403480.jpg</picture>
-				<name>Шкаф холодильный Премьер шсуп1ту-0,5 С(255)</name>
-				<description>
-					Шкаф холодильный Премьер шсуп1ту-0,5 С  Код товара(255)  Температурный режим от -6 до 6 C  Объем500 л  Охлаждение динамическое  Холодильный агрегат встроенный  Исполнение двери прозрачная  Напряжение220 В  Ширина675 мм  Глубина685 мм  Высота1940 мм  Вес 80 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210575156" available="true">
-				<url>https://avito.ru/2210575156?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>250000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://87.img.avito.st/640x480/11816379587.jpg</picture>
-				<name>Пароконвектомат Retigo B1011B</name>
-				<description>
-					Пароконвектомат Retigo B1011B   Подключение380 В  Количество уровней11  Способ образования парабойлер  Расстояние между уровнями65 мм  Тип гастроемкостиGN 1/1  Размер гастроемкости (наруж./внутр.)530x325 / 500x300 мм  Панель управления электронная  Температурный режим от 30 до 300 С  Мощность18.6 кВт  Ширина933 мм  Глубина821 мм  Высота1046 мм  Вес (без упаковки)144 кг  Страна производства Чехия
-				</description>
-			</offer>
-			<offer id="2209930336" available="true">
-				<url>https://avito.ru/2209930336?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>35000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://16.img.avito.st/640x480/11701111016.jpg</picture>
-				<name>Витрина холодильная пвхс Миссури - 1,5 (263)</name>
-				<description>
-					Холодильная витрина Технохолод ПВХС Миссури - 1,5  Код товара  263  Длина, мм:1500  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:0+8С  Хладообеспечение: встроенный холод
-				</description>
-			</offer>
-			<offer id="2210810525" available="true">
-				<url>https://avito.ru/2210810525?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>45000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://23.img.avito.st/640x480/11702094423.jpg</picture>
-				<name>Витрина холодильная пвхснд Миссури - 2,5(277)</name>
-				<description>
-					Витрина холодильная ПВХСНд Миссури - 2,5  Код товара(277)  Производитель:Технохолод  Длина, мм:2500  Ширина, мм:1210  Высота, мм:1155  Температурный режим:0..+8С  Хладообеспечение:встроенный холод
-				</description>
-			</offer>
-			<offer id="2210568500" available="true">
-				<url>https://avito.ru/2210568500?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>15000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://96.img.avito.st/640x480/11695437096.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш шх-370С (249)</name>
-				<description>
-					Шкаф холодильный Марихолодмаш шх-370С   Код товара(249)  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210859150" available="true">
-				<url>https://avito.ru/2210859150?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>40000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://85.img.avito.st/640x480/11701511685.jpg</picture>
-				<name>Холодильная витрина пвхс Миссури - 1,9(264)</name>
-				<description>
-					Холодильная витрина Технохолод ПВХС Миссури - 1,9  Код товара  264  Производитель:Технохолод  Длина, мм:1900  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:0+8С  Хладообеспечение:встроенный холод
-				</description>
-			</offer>
 			<offer id="2210356241" available="true">
 				<url>https://avito.ru/2210356241?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
 				<price>25000</price>
@@ -143,48 +44,37 @@
 					Стол офисный   ДхГхВ  120*70*75см.  В хорошем состоянии.
 				</description>
 			</offer>
-			<offer id="2210785013" available="true">
-				<url>https://avito.ru/2210785013?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>30000</price>
+			<offer id="2210418958" available="true">
+				<url>https://avito.ru/2210418958?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>6000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://69.img.avito.st/640x480/11694966669.jpg</picture>
-				<name>Холодильный шкаф шнуп1ту-0,5 С(231)</name>
+				<picture>https://38.img.avito.st/640x480/11701411538.jpg</picture>
+				<name>Мойка 80*80*85см</name>
 				<description>
-					Холодильный шкаф ШНУП1ТУ-0,5 С  Код товара 231  Производитель: Премьер  Длина, мм:675  Ширина, мм:610  Высота, мм:1940  Тип:морозильный  Мощность:678 Вт  Напряжение:220 В  Объем:0.87 куб.м.  Температурный диапазон:-18 C  Тип дверей:стеклянные распашные  Вес:100 кг  Хладагент:R404A  Холодопроизводительность:1688 Вт  Потребление электроэнергии:15 кВч/сут
+					Мойка   ДхГхВ  80*80*85см  размер котла70*70*45
 				</description>
 			</offer>
-			<offer id="2210127927" available="true">
-				<url>https://avito.ru/2210127927?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>4000</price>
+			<offer id="2210820505" available="true">
+				<url>https://avito.ru/2210820505?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>25000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://93.img.avito.st/640x480/11676664693.jpg</picture>
-				<name>Картотека для документов</name>
+				<picture>https://40.img.avito.st/640x480/11694493840.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш Эльтон 1,12С(220)</name>
 				<description>
-					Картотека для документов.  Шкаф для документов.  металлические ящики .  ДхГхВ  47*63*134
+					Шкаф холодильный Марихолодмаш Эльтон 1,12С  Код товара(220)  Температурный режим от 0 до 7 C  Объем1120 л  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.33 кВт/ч  Ширина1245 мм  Глубина690 мм  Высота1970 мм  Вес 150 кг  Страна производства Россия
 				</description>
 			</offer>
-			<offer id="2210131083" available="true">
-				<url>https://avito.ru/2210131083?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>2000</price>
+			<offer id="2210019539" available="true">
+				<url>https://avito.ru/2210019539?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>65000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://66.img.avito.st/640x480/11658830266.jpg</picture>
-				<name>Нож для сыра двумя ручками</name>
+				<picture>https://88.img.avito.st/640x480/11696155288.jpg</picture>
+				<name>Горка холодильная Brandford Zodiac 125(268)</name>
 				<description>
-					Нож для сыра 9615 с двумя ручками, 30 см, черная рукоятка  Нержавеющая сталь (Хромомолибденовая сталь c добавками хрома и молибдена. Хром придает стали прочность, а молибден повышает износостойкость, гарантирует отсутствие хрупкости.)  Заточка / Особенности Лезвия:лезвие с прямой заточкой  размер:длина с ручка 59см.высота лезвия 4см.  Нож для сыра 36см Icel PRACTICA 241.9501.36  размер: длина с ручками 63см.высота лезвия 6  Разные ножи в ассортименте.
-				</description>
-			</offer>
-			<offer id="2210601567" available="true">
-				<url>https://avito.ru/2210601567?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>30000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://83.img.avito.st/640x480/11695022183.jpg</picture>
-				<name>Шкаф холодильный Премьер швуп1ту-0,55 С2(244)</name>
-				<description>
-					Шкаф холодильный Премьер швуп1ту-0,55 С2  Код товара(244)  Производитель: ПРЕМЬЕР  Длина: 675 мм  Ширина: 610 мм  Высота: 1940 мм  Рабочие температуры: 5..+10 C  Страна: Россия  Тип двери: Стеклянная распашная  Полезный объем: 550 л  Напряжение: 220 В  Мощность: 0,428 кВт  Тип охлаждения: динамическое (вентилируемое)
+					Горка холодильная Brandford Zodiac 125  Код товара(268)  Температурный режим от 2 до 7 C  Охлаждаемая площадь3.22 м  Объем790 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина1332 мм  Глубина855 мм  Высота2010 мм  Вес 235 кг  Страна производства Россия
 				</description>
 			</offer>
 			<offer id="2210270544" available="true">
@@ -242,127 +132,6 @@
 					Нож для резки блоков 5065, лезвие 36 см, стандартная черная ручка, Giesser (Германия)   Подходит для мытья в посудомоечной машине Да  Материал лезвия Нержавеющая сталь  ПроизводительGiesser Messer  Тип Нож для нарезки  Заточка лезвия Двусторонняя  Материал рукоятки Пластик  Страна производитель Германия  Длина лезвия36 см  Цена 1 500р.  Нож поварской L 31см с широким лезвием GIESSER 8455 31  Нож поварской L 31см с широким лезвием, нерж.сталь. Ручка - черный термостойкий полимер  Цена :1 000р.
 				</description>
 			</offer>
-			<offer id="2210034669" available="true">
-				<url>https://avito.ru/2210034669?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>7000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://31.img.avito.st/640x480/11815679931.jpg</picture>
-				<name>Шкаф для раздевалки 85*50*186</name>
-				<description>
-					Шкаф для раздевалки  ДхГхВ  85*50*186  Шкаф для переодевания.  в наличии 1шт.
-				</description>
-			</offer>
-			<offer id="2210775923" available="true">
-				<url>https://avito.ru/2210775923?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>35000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://59.img.avito.st/640x480/11702128959.jpg</picture>
-				<name>Витрина холодильная пвхсн(д) Миссури - 1,5(273)</name>
-				<description>
-					Витрина холодильная ПВХСН(д) Миссури - 1,5  Код товара(273)  Производитель:Технохолод  Длина, мм:1500  Ширина, мм:1210  Высота, мм:1155  Температурный режим:0..+8С  Хладообеспечение:встроенный холод
-				</description>
-			</offer>
-			<offer id="2210553920" available="true">
-				<url>https://avito.ru/2210553920?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>85000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://86.img.avito.st/640x480/11696216886.jpg</picture>
-				<name>Горка холодильная Brandford Zodiac 190(266)</name>
-				<description>
-					Горка холодильная Brandford Zodiac 190  Код товара(266)  Температурный режим от 2 до 7 C  Охлаждаемая площадь4.84 м  Объем1180 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина1957 мм  Глубина855 мм  Высота2010 мм  Вес 310 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210126537" available="true">
-				<url>https://avito.ru/2210126537?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>15000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://00.img.avito.st/640x480/11695424400.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш шх-370С(250)</name>
-				<description>
-					Шкаф холодильный Марихолодмаш шх-370С  Код товара(250)  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210443832" available="true">
-				<url>https://avito.ru/2210443832?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>25000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://08.img.avito.st/640x480/11695262608.jpg</picture>
-				<name>Шкаф холодильный Премьер шсуп1ту-0,5 С(254)</name>
-				<description>
-					Шкаф холодильный Премьер шсуп1ту-0,5 С  Код товара(254)  Температурный режим от -6 до 6 C  Объем500 л  Охлаждение динамическое  Холодильный агрегат встроенный  Исполнение двери прозрачная  Напряжение220 В  Ширина675 мм  Глубина685 мм  Высота1940 мм  Вес 80 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2209912556" available="true">
-				<url>https://avito.ru/2209912556?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>125000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://54.img.avito.st/640x480/11696274054.jpg</picture>
-				<name>Горка холодильная Brandford Zodiac 250(271)</name>
-				<description>
-					Горка холодильная Brandford Zodiac 250  Код товара(271)  Температурный режим от 2 до 7 C  Охлаждаемая площадь6.45 м  Объем1570 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина2580 мм  Глубина855 мм  Высота2010 мм  Вес 400 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210779622" available="true">
-				<url>https://avito.ru/2210779622?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>55000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://94.img.avito.st/640x480/11694459194.jpg</picture>
-				<name>Витрина кондитерская мхмveneto VSo-0,95(223)</name>
-				<description>
-					Витрина кондитерская МХМVeneto VSo-0,95  Код товара(223)  Температурный режим от 1 до 10 С  Напряжение220 В  Потребляемая мощность0.477 кВт/ч  Ширина950 мм  Глубина780 мм  Высота1265 мм  Вес 145 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210105392" available="true">
-				<url>https://avito.ru/2210105392?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>30000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://05.img.avito.st/640x480/11694618605.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш шх-0,80С купе(225)</name>
-				<description>
-					Шкаф холодильный Марихолодмаш ШХ-0,80С купе  Код товара(225)  Температурный режим от 0 до 7 C  Объем850 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.23 кВт/ч  Ширина1195 мм  Глубина595 мм  Высота1970 мм  Вес 130 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210418958" available="true">
-				<url>https://avito.ru/2210418958?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>6000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://38.img.avito.st/640x480/11701411538.jpg</picture>
-				<name>Мойка 80*80*85см</name>
-				<description>
-					Мойка   ДхГхВ  80*80*85см  размер котла70*70*45
-				</description>
-			</offer>
-			<offer id="2210073080" available="true">
-				<url>https://avito.ru/2210073080?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>45000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://00.img.avito.st/640x480/11695584900.jpg</picture>
-				<name>Горка холодильная Brandford vento M plug-IN (267)</name>
-				<description>
-					Горка холодильная Brandford VENTO M PLUG-IN   Код товара(267)  Температурный режим от 1 до 7 C  Охлаждаемая площадь2.4 м  Объем860 л  Холодильный агрегат встроенный  Напряжение220 В  Потребляемая мощность1.43 кВт/ч  Ширина от 1178 до 1260 мм  Глубина710 мм  Высота1946 мм  Вес 220 кг  Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210884736" available="true">
-				<url>https://avito.ru/2210884736?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>4000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://91.img.avito.st/640x480/11815658591.jpg</picture>
-				<name>Шкаф для раздевалки 50*50*183</name>
-				<description>
-					Шкаф для раздевалки  Шкаф для переодевания.   Для хоз. инвентаря   ДхГхВ  50*50*183  в наличии 2шт.
-				</description>
-			</offer>
 			<offer id="2210689674" available="true">
 				<url>https://avito.ru/2210689674?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
 				<price>125000</price>
@@ -407,26 +176,268 @@
 					Холодильная витрина Технохолод ПВХС(Д) Миссури - 1,9  Код товара 262  Производитель:Технохолод  Длина, мм:1900  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:0+8С  Хладообеспечение: встроенный холод
 				</description>
 			</offer>
-			<offer id="2210820505" available="true">
-				<url>https://avito.ru/2210820505?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>25000</price>
+			<offer id="2210436558" available="true">
+				<url>https://avito.ru/2210436558?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>20000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://40.img.avito.st/640x480/11694493840.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш Эльтон 1,12С(220)</name>
+				<picture>https://62.img.avito.st/640x480/11695192762.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш шх-370С (247)</name>
 				<description>
-					Шкаф холодильный Марихолодмаш Эльтон 1,12С  Код товара(220)  Температурный режим от 0 до 7 C  Объем1120 л  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.33 кВт/ч  Ширина1245 мм  Глубина690 мм  Высота1970 мм  Вес 150 кг  Страна производства Россия
+					Шкаф холодильный Марихолодмаш ШХ-370С    Код товара(247)   Температурный режим от 1 до 7 C   Объем370 л   Охлаждение динамическое   Исполнение двери прозрачная   Напряжение220 В   Потребляемая мощность0.146 кВт/ч   Ширина585 мм   Глубина575 мм   Высота1800 мм   Вес 100 кг   Страна производства Россия
 				</description>
 			</offer>
-			<offer id="2209987926" available="true">
-				<url>https://avito.ru/2209987926?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+			<offer id="2210779622" available="true">
+				<url>https://avito.ru/2210779622?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>55000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://94.img.avito.st/640x480/11694459194.jpg</picture>
+				<name>Витрина кондитерская мхмveneto VSo-0,95(223)</name>
+				<description>
+					Витрина кондитерская МХМVeneto VSo-0,95  Код товара(223)  Температурный режим от 1 до 10 С  Напряжение220 В  Потребляемая мощность0.477 кВт/ч  Ширина950 мм  Глубина780 мм  Высота1265 мм  Вес 145 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210553920" available="true">
+				<url>https://avito.ru/2210553920?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>85000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://86.img.avito.st/640x480/11696216886.jpg</picture>
+				<name>Горка холодильная Brandford Zodiac 190(266)</name>
+				<description>
+					Горка холодильная Brandford Zodiac 190  Код товара(266)  Температурный режим от 2 до 7 C  Охлаждаемая площадь4.84 м  Объем1180 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина1957 мм  Глубина855 мм  Высота2010 мм  Вес 310 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2209912556" available="true">
+				<url>https://avito.ru/2209912556?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
 				<price>125000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://65.img.avito.st/640x480/11696281165.jpg</picture>
-				<name>Горка холодильная Brandford Zodiac 250(274)</name>
+				<picture>https://54.img.avito.st/640x480/11696274054.jpg</picture>
+				<name>Горка холодильная Brandford Zodiac 250(271)</name>
 				<description>
-					Горка холодильная Brandford Zodiac 250  Код товара(274)  Температурный режим от 2 до 7 C  Охлаждаемая площадь6.45 м  Объем1570 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина2580 мм  Глубина855 мм  Высота2010 мм  Вес 400 кг  Страна производства Россия
+					Горка холодильная Brandford Zodiac 250  Код товара(271)  Температурный режим от 2 до 7 C  Охлаждаемая площадь6.45 м  Объем1570 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина2580 мм  Глубина855 мм  Высота2010 мм  Вес 400 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210443832" available="true">
+				<url>https://avito.ru/2210443832?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://08.img.avito.st/640x480/11695262608.jpg</picture>
+				<name>Шкаф холодильный Премьер шсуп1ту-0,5 С(254)</name>
+				<description>
+					Шкаф холодильный Премьер шсуп1ту-0,5 С  Код товара(254)  Температурный режим от -6 до 6 C  Объем500 л  Охлаждение динамическое  Холодильный агрегат встроенный  Исполнение двери прозрачная  Напряжение220 В  Ширина675 мм  Глубина685 мм  Высота1940 мм  Вес 80 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210500440" available="true">
+				<url>https://avito.ru/2210500440?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://34.img.avito.st/640x480/11694993334.jpg</picture>
+				<name>Шкаф холодильный Премьер швуп1ту-0,55 С2 (240)</name>
+				<description>
+					Шкаф холодильный Премьер ШВУП1ТУ-0,55 С2  Код товара(240)  Производитель: ПРЕМЬЕР  Длина: 675 мм  Ширина: 610 мм  Высота: 1940 мм  Рабочие температуры: 5..+10 C  Страна: Россия  Тип двери: Стеклянная распашная  Полезный объем: 550 л  Напряжение: 220 В  Мощность: 0,428 кВт  Тип охлаждения: динамическое (вентилируемое)
+				</description>
+			</offer>
+			<offer id="2209891331" available="true">
+				<url>https://avito.ru/2209891331?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>25000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://80.img.avito.st/640x480/11695403480.jpg</picture>
+				<name>Шкаф холодильный Премьер шсуп1ту-0,5 С(255)</name>
+				<description>
+					Шкаф холодильный Премьер шсуп1ту-0,5 С  Код товара(255)  Температурный режим от -6 до 6 C  Объем500 л  Охлаждение динамическое  Холодильный агрегат встроенный  Исполнение двери прозрачная  Напряжение220 В  Ширина675 мм  Глубина685 мм  Высота1940 мм  Вес 80 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210575156" available="true">
+				<url>https://avito.ru/2210575156?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>250000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://87.img.avito.st/640x480/11816379587.jpg</picture>
+				<name>Пароконвектомат Retigo B1011B</name>
+				<description>
+					Пароконвектомат Retigo B1011B   Подключение380 В  Количество уровней11  Способ образования парабойлер  Расстояние между уровнями65 мм  Тип гастроемкостиGN 1/1  Размер гастроемкости (наруж./внутр.)530x325 / 500x300 мм  Панель управления электронная  Температурный режим от 30 до 300 С  Мощность18.6 кВт  Ширина933 мм  Глубина821 мм  Высота1046 мм  Вес (без упаковки)144 кг  Страна производства Чехия
+				</description>
+			</offer>
+			<offer id="2209930336" available="true">
+				<url>https://avito.ru/2209930336?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>35000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://16.img.avito.st/640x480/11701111016.jpg</picture>
+				<name>Витрина холодильная пвхс Миссури - 1,5 (263)</name>
+				<description>
+					Холодильная витрина Технохолод ПВХС Миссури - 1,5  Код товара  263  Длина, мм:1500  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:0+8С  Хладообеспечение: встроенный холод
+				</description>
+			</offer>
+			<offer id="2210810525" available="true">
+				<url>https://avito.ru/2210810525?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>45000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://23.img.avito.st/640x480/11702094423.jpg</picture>
+				<name>Витрина холодильная пвхснд Миссури - 2,5(277)</name>
+				<description>
+					Витрина холодильная ПВХСНд Миссури - 2,5  Код товара(277)  Производитель:Технохолод  Длина, мм:2500  Ширина, мм:1210  Высота, мм:1155  Температурный режим:0..+8С  Хладообеспечение:встроенный холод
+				</description>
+			</offer>
+			<offer id="2210105392" available="true">
+				<url>https://avito.ru/2210105392?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://05.img.avito.st/640x480/11694618605.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш шх-0,80С купе(225)</name>
+				<description>
+					Шкаф холодильный Марихолодмаш ШХ-0,80С купе  Код товара(225)  Температурный режим от 0 до 7 C  Объем850 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.23 кВт/ч  Ширина1195 мм  Глубина595 мм  Высота1970 мм  Вес 130 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210775923" available="true">
+				<url>https://avito.ru/2210775923?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>35000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://59.img.avito.st/640x480/11702128959.jpg</picture>
+				<name>Витрина холодильная пвхсн(д) Миссури - 1,5(273)</name>
+				<description>
+					Витрина холодильная ПВХСН(д) Миссури - 1,5  Код товара(273)  Производитель:Технохолод  Длина, мм:1500  Ширина, мм:1210  Высота, мм:1155  Температурный режим:0..+8С  Хладообеспечение:встроенный холод
+				</description>
+			</offer>
+			<offer id="2210601567" available="true">
+				<url>https://avito.ru/2210601567?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://83.img.avito.st/640x480/11695022183.jpg</picture>
+				<name>Шкаф холодильный Премьер швуп1ту-0,55 С2(244)</name>
+				<description>
+					Шкаф холодильный Премьер швуп1ту-0,55 С2  Код товара(244)  Производитель: ПРЕМЬЕР  Длина: 675 мм  Ширина: 610 мм  Высота: 1940 мм  Рабочие температуры: 5..+10 C  Страна: Россия  Тип двери: Стеклянная распашная  Полезный объем: 550 л  Напряжение: 220 В  Мощность: 0,428 кВт  Тип охлаждения: динамическое (вентилируемое)
+				</description>
+			</offer>
+			<offer id="2210073080" available="true">
+				<url>https://avito.ru/2210073080?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>45000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://00.img.avito.st/640x480/11695584900.jpg</picture>
+				<name>Горка холодильная Brandford vento M plug-IN (267)</name>
+				<description>
+					Горка холодильная Brandford VENTO M PLUG-IN   Код товара(267)  Температурный режим от 1 до 7 C  Охлаждаемая площадь2.4 м  Объем860 л  Холодильный агрегат встроенный  Напряжение220 В  Потребляемая мощность1.43 кВт/ч  Ширина от 1178 до 1260 мм  Глубина710 мм  Высота1946 мм  Вес 220 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210884736" available="true">
+				<url>https://avito.ru/2210884736?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://91.img.avito.st/640x480/11815658591.jpg</picture>
+				<name>Шкаф для раздевалки 50*50*183</name>
+				<description>
+					Шкаф для раздевалки  Шкаф для переодевания.   Для хоз. инвентаря   ДхГхВ  50*50*183  в наличии 2шт.
+				</description>
+			</offer>
+			<offer id="2210034669" available="true">
+				<url>https://avito.ru/2210034669?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://31.img.avito.st/640x480/11815679931.jpg</picture>
+				<name>Шкаф для раздевалки 85*50*186</name>
+				<description>
+					Шкаф для раздевалки  ДхГхВ  85*50*186  Шкаф для переодевания.  в наличии 1шт.
+				</description>
+			</offer>
+			<offer id="2210126537" available="true">
+				<url>https://avito.ru/2210126537?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>15000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://00.img.avito.st/640x480/11695424400.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш шх-370С(250)</name>
+				<description>
+					Шкаф холодильный Марихолодмаш шх-370С  Код товара(250)  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210131083" available="true">
+				<url>https://avito.ru/2210131083?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>2000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://66.img.avito.st/640x480/11658830266.jpg</picture>
+				<name>Нож для сыра двумя ручками</name>
+				<description>
+					Нож для сыра 9615 с двумя ручками, 30 см, черная рукоятка  Нержавеющая сталь (Хромомолибденовая сталь c добавками хрома и молибдена. Хром придает стали прочность, а молибден повышает износостойкость, гарантирует отсутствие хрупкости.)  Заточка / Особенности Лезвия:лезвие с прямой заточкой  размер:длина с ручка 59см.высота лезвия 4см.  Нож для сыра 36см Icel PRACTICA 241.9501.36  размер: длина с ручками 63см.высота лезвия 6  Разные ножи в ассортименте.
+				</description>
+			</offer>
+			<offer id="2210785013" available="true">
+				<url>https://avito.ru/2210785013?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://69.img.avito.st/640x480/11694966669.jpg</picture>
+				<name>Холодильный шкаф шнуп1ту-0,5 С(231)</name>
+				<description>
+					Холодильный шкаф ШНУП1ТУ-0,5 С  Код товара 231  Производитель: Премьер  Длина, мм:675  Ширина, мм:610  Высота, мм:1940  Тип:морозильный  Мощность:678 Вт  Напряжение:220 В  Объем:0.87 куб.м.  Температурный диапазон:-18 C  Тип дверей:стеклянные распашные  Вес:100 кг  Хладагент:R404A  Холодопроизводительность:1688 Вт  Потребление электроэнергии:15 кВч/сут
+				</description>
+			</offer>
+			<offer id="2210127927" available="true">
+				<url>https://avito.ru/2210127927?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>4000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://93.img.avito.st/640x480/11676664693.jpg</picture>
+				<name>Картотека для документов</name>
+				<description>
+					Картотека для документов.  Шкаф для документов.  металлические ящики .  ДхГхВ  47*63*134
+				</description>
+			</offer>
+			<offer id="2210872619" available="true">
+				<url>https://avito.ru/2210872619?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>55000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://34.img.avito.st/640x480/11694562234.jpg</picture>
+				<name>Шкаф холодильный Премьер швуп1ту-1,5 К4(237)</name>
+				<description>
+					Шкаф холодильный Премьер ШВУП1ТУ-1,5 К4  Код товара(237)  Производитель: ПРЕМЬЕР   Длина: 1645 мм   Ширина: 730 мм   Высота: 1940 мм   Рабочие температуры: 1.. +10 C   Страна: Россия   Тип двери: Купе   Полезный объем: 1500 л   Напряжение: 220 В   Мощность: 0,79 кВт   Тип охлаждения: динамическое (вентилируемое) 
+				</description>
+			</offer>
+			<offer id="2210555407" available="true">
+				<url>https://avito.ru/2210555407?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>20000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://66.img.avito.st/640x480/11695510766.jpg</picture>
+				<name>Шкаф холодильный polair DM105-S (246)</name>
+				<description>
+					Шкаф холодильный POLAIR DM105-S    Код товара(246)   Температурный режим от 1 до 10 C   Объем500 л   Охлаждение динамическое   Исполнение двери прозрачная   Напряжение220 В   Потребляемая мощность0.35 кВт/ч   Ширина697 мм   Глубина710 мм   Высота2028 мм   Вес 105 кг   Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210318969" available="true">
+				<url>https://avito.ru/2210318969?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>500000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://03.img.avito.st/640x480/11797029903.jpg</picture>
+				<name>Печь ротационная Bongard Serie 4</name>
+				<description>
+					Печь ротационная Bongard Serie 4   энергоноситель: электричество  напряжение:380 В  частота тока:50/60 Гц  мощность:59 кВт  длина:1440 мм  глубина:2240 мм  высота:2565 мм  вместимость вкатных тележек: 1  размер гастроемкости: 600х800  уровней: 19  количество камер:1  наличие конвекции: есть  наличие пароувлажнения: есть  Предназначенные для использования в кондитеских и хлебобулочных цехах, ротационные печи четвертого поколения гарантируют настоящее преимущество.  Ротационные печи Bongard с вращающейся тележкой предназначены как для кондитерского так и для хлебобулочного предприятия.  Оснащены технологией &quot;soft pulse&quot; для нежной и эффективной вентиляции.  Новый теплообменник для улучшенной рентабельности.  Фасад из нержавеющей шлифованной стали;  Камера выпечки:  из нержавеющей стали, регулируемые щели вентиляции, галогенное освещение.  Парогенератор: чугунные желобки, инъектор.
+				</description>
+			</offer>
+			<offer id="2210022189" available="true">
+				<url>https://avito.ru/2210022189?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>15000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://56.img.avito.st/640x480/11695535856.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш шх-370С(257)</name>
+				<description>
+					Шкаф холодильный Марихолодмаш шх-370С  Код товара 257  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
 				</description>
 			</offer>
 			<offer id="2209916719" available="true">
@@ -451,15 +462,37 @@
 					Стол офисный   ДхГхВ  140*70*75см   в хорошем состоянии.
 				</description>
 			</offer>
-			<offer id="2210787085" available="true">
-				<url>https://avito.ru/2210787085?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>50000</price>
+			<offer id="2209987926" available="true">
+				<url>https://avito.ru/2209987926?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>125000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://14.img.avito.st/640x480/11693659814.jpg</picture>
-				<name>Шкаф холодильный Premier швуп1ту-1,5 К2 (243)</name>
+				<picture>https://65.img.avito.st/640x480/11696281165.jpg</picture>
+				<name>Горка холодильная Brandford Zodiac 250(274)</name>
 				<description>
-					Шкаф холодильный Premier ШВУП1ТУ-1,5 К2 стеклянная дверь купе  Код товара  243  можно использовать холодильник для цветов  Технические характеристики:  Объем: 1500 л  Размеры полки: 570х470 мм  Температурный режим: от +5 до +10оС  Габаритные размеры: 1645х730х1940 мм  Масса: 240 кг  Нагрузка на полку:  40 кг  Тип охлаждения: динамический  Оттайка: автоматическая  Регулирование температуры:  микропроцессор  Хладагент: R 404 А  Номинальное напряжение:  220 В  Частота тока: 50 Гц  Номинальная мощность: 982 Вт
+					Горка холодильная Brandford Zodiac 250  Код товара(274)  Температурный режим от 2 до 7 C  Охлаждаемая площадь6.45 м  Объем1570 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина2580 мм  Глубина855 мм  Высота2010 мм  Вес 400 кг  Страна производства Россия
+				</description>
+			</offer>
+			<offer id="2210389908" available="true">
+				<url>https://avito.ru/2210389908?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>40000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://38.img.avito.st/640x480/11836984338.jpg</picture>
+				<name>Холодильная витрина пвхс Миссури - 1,9(230)</name>
+				<description>
+					Холодильная витрина пвхс Миссури - 1,9  Код товара(230)  Холодильная витрина Технохолод ПВХС Миссури - 1,9  Код товара  264  Производитель:Технохолод  Длина, мм:1900  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:+1+10С  Хладообеспечение:встроенный холод
+				</description>
+			</offer>
+			<offer id="2210707464" available="true">
+				<url>https://avito.ru/2210707464?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>35000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>2</categoryId>
+				<picture>https://37.img.avito.st/640x480/11694525737.jpg</picture>
+				<name>Шкаф холодильный Премьер швуп1ту-1,4 К(238)</name>
+				<description>
+					Шкаф холодильный Премьер ШВУП1ТУ-1,4 К   Код товара(238)   Температурный режим от 1 до 10 C   Охлаждение динамическое   Холодильный агрегат встроенный   Среднетемпературный   Исполнение двери прозрачная   Напряжение220 В   Ширина1645 мм   Глубина635 мм   Высота1940 мм   Вес 210 кг   Страна производства Россия
 				</description>
 			</offer>
 			<offer id="2210589033" available="true">
@@ -473,70 +506,37 @@
 					Витрина холодильная Миссури А 1,9 ПВХСн   Код товара(280)  Тип охлаждения: статическое  Температурный режим, С: 0..+8  Тип стекла: прямое  Габаритные размеры, д/ш/в, мм: 1900/1205/1280  Напряжение, В: 220  Производитель: Технохолод (Украина)
 				</description>
 			</offer>
-			<offer id="2210019539" available="true">
-				<url>https://avito.ru/2210019539?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>65000</price>
+			<offer id="2210787085" available="true">
+				<url>https://avito.ru/2210787085?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>50000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://88.img.avito.st/640x480/11696155288.jpg</picture>
-				<name>Горка холодильная Brandford Zodiac 125(268)</name>
+				<picture>https://14.img.avito.st/640x480/11693659814.jpg</picture>
+				<name>Шкаф холодильный Premier швуп1ту-1,5 К2 (243)</name>
 				<description>
-					Горка холодильная Brandford Zodiac 125  Код товара(268)  Температурный режим от 2 до 7 C  Охлаждаемая площадь3.22 м  Объем790 л  Холодильный агрегат встроенный  Напряжение220 В  Ширина1332 мм  Глубина855 мм  Высота2010 мм  Вес 235 кг  Страна производства Россия
+					Шкаф холодильный Premier ШВУП1ТУ-1,5 К2 стеклянная дверь купе  Код товара  243  можно использовать холодильник для цветов  Технические характеристики:  Объем: 1500 л  Размеры полки: 570х470 мм  Температурный режим: от +5 до +10оС  Габаритные размеры: 1645х730х1940 мм  Масса: 240 кг  Нагрузка на полку:  40 кг  Тип охлаждения: динамический  Оттайка: автоматическая  Регулирование температуры:  микропроцессор  Хладагент: R 404 А  Номинальное напряжение:  220 В  Частота тока: 50 Гц  Номинальная мощность: 982 Вт
 				</description>
 			</offer>
-			<offer id="2210022189" available="true">
-				<url>https://avito.ru/2210022189?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+			<offer id="2210568500" available="true">
+				<url>https://avito.ru/2210568500?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
 				<price>15000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://56.img.avito.st/640x480/11695535856.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш шх-370С(257)</name>
+				<picture>https://96.img.avito.st/640x480/11695437096.jpg</picture>
+				<name>Шкаф холодильный Марихолодмаш шх-370С (249)</name>
 				<description>
-					Шкаф холодильный Марихолодмаш шх-370С  Код товара 257  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
+					Шкаф холодильный Марихолодмаш шх-370С   Код товара(249)  Температурный режим от 1 до 7 C  Объем370 л  Охлаждение динамическое  Исполнение двери прозрачная  Напряжение220 В  Потребляемая мощность0.146 кВт/ч  Ширина585 мм  Глубина575 мм  Высота1800 мм  Вес 100 кг  Страна производства Россия
 				</description>
 			</offer>
-			<offer id="2210872619" available="true">
-				<url>https://avito.ru/2210872619?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>55000</price>
+			<offer id="2210859150" available="true">
+				<url>https://avito.ru/2210859150?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
+				<price>40000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>2</categoryId>
-				<picture>https://34.img.avito.st/640x480/11694562234.jpg</picture>
-				<name>Шкаф холодильный Премьер швуп1ту-1,5 К4(237)</name>
+				<picture>https://85.img.avito.st/640x480/11701511685.jpg</picture>
+				<name>Холодильная витрина пвхс Миссури - 1,9(264)</name>
 				<description>
-					Шкаф холодильный Премьер ШВУП1ТУ-1,5 К4  Код товара(237)  Производитель: ПРЕМЬЕР   Длина: 1645 мм   Ширина: 730 мм   Высота: 1940 мм   Рабочие температуры: 1.. +10 C   Страна: Россия   Тип двери: Купе   Полезный объем: 1500 л   Напряжение: 220 В   Мощность: 0,79 кВт   Тип охлаждения: динамическое (вентилируемое) 
-				</description>
-			</offer>
-			<offer id="2210436558" available="true">
-				<url>https://avito.ru/2210436558?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>20000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://62.img.avito.st/640x480/11695192762.jpg</picture>
-				<name>Шкаф холодильный Марихолодмаш шх-370С (247)</name>
-				<description>
-					Шкаф холодильный Марихолодмаш ШХ-370С    Код товара(247)   Температурный режим от 1 до 7 C   Объем370 л   Охлаждение динамическое   Исполнение двери прозрачная   Напряжение220 В   Потребляемая мощность0.146 кВт/ч   Ширина585 мм   Глубина575 мм   Высота1800 мм   Вес 100 кг   Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210555407" available="true">
-				<url>https://avito.ru/2210555407?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>20000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://66.img.avito.st/640x480/11695510766.jpg</picture>
-				<name>Шкаф холодильный polair DM105-S (246)</name>
-				<description>
-					Шкаф холодильный POLAIR DM105-S    Код товара(246)   Температурный режим от 1 до 10 C   Объем500 л   Охлаждение динамическое   Исполнение двери прозрачная   Напряжение220 В   Потребляемая мощность0.35 кВт/ч   Ширина697 мм   Глубина710 мм   Высота2028 мм   Вес 105 кг   Страна производства Россия
-				</description>
-			</offer>
-			<offer id="2210318969" available="true">
-				<url>https://avito.ru/2210318969?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=80561348</url>
-				<price>500000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>2</categoryId>
-				<picture>https://03.img.avito.st/640x480/11797029903.jpg</picture>
-				<name>Печь ротационная Bongard Serie 4</name>
-				<description>
-					Печь ротационная Bongard Serie 4   энергоноситель: электричество  напряжение:380 В  частота тока:50/60 Гц  мощность:59 кВт  длина:1440 мм  глубина:2240 мм  высота:2565 мм  вместимость вкатных тележек: 1  размер гастроемкости: 600х800  уровней: 19  количество камер:1  наличие конвекции: есть  наличие пароувлажнения: есть  Предназначенные для использования в кондитеских и хлебобулочных цехах, ротационные печи четвертого поколения гарантируют настоящее преимущество.  Ротационные печи Bongard с вращающейся тележкой предназначены как для кондитерского так и для хлебобулочного предприятия.  Оснащены технологией &quot;soft pulse&quot; для нежной и эффективной вентиляции.  Новый теплообменник для улучшенной рентабельности.  Фасад из нержавеющей шлифованной стали;  Камера выпечки:  из нержавеющей стали, регулируемые щели вентиляции, галогенное освещение.  Парогенератор: чугунные желобки, инъектор.
+					Холодильная витрина Технохолод ПВХС Миссури - 1,9  Код товара  264  Производитель:Технохолод  Длина, мм:1900  Ширина, мм:1210  Высота, мм:1155  Тип:гастрономическая  Температурный режим:0+8С  Хладообеспечение:встроенный холод
 				</description>
 			</offer>
 		</offers>
