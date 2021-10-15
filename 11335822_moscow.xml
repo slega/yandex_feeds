@@ -1,4 +1,4 @@
-<yml_catalog date="2021-10-14 13:20">
+<yml_catalog date="2021-10-15 12:36">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,114 +11,15 @@
 			<category id ="5" parentId="1">General.ConstructionRenovation</category>
 		</categories>
 		<offers>
-			<offer id="2220311300" available="true">
-				<url>https://avito.ru/2220311300?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>2100</price>
+			<offer id="2220219107" available="true">
+				<url>https://avito.ru/2220219107?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>2000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://83.img.avito.st/640x480/11688708283.jpg</picture>
-				<name>Кронштейны зус</name>
+				<picture>https://44.img.avito.st/640x480/11658623644.jpg</picture>
+				<name>Blucher Отвод 87,5</name>
 				<description>
-					Кронштейны зус (профильная труба 60х60, 50х50)   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
-				</description>
-			</offer>
-			<offer id="2220182124" available="true">
-				<url>https://avito.ru/2220182124?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>60000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://59.img.avito.st/640x480/11706255759.jpg</picture>
-				<name>Вагончик для проживания бытовки</name>
-				<description>
-					Отдаю 3 бытовки по. 60т   Состояние нормальное ,   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.
-				</description>
-			</offer>
-			<offer id="2220205924" available="true">
-				<url>https://avito.ru/2220205924?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://05.img.avito.st/640x480/11654599305.jpg</picture>
-				<name>Клиновой анкер М20</name>
-				<description>
-					Клиновой анкер используется для установки в бетон   Диаметр установки 20мм  Длина анкера 120мм  Диаметр резьбы М20  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220020922" available="true">
-				<url>https://avito.ru/2220020922?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://55.img.avito.st/640x480/11654383555.jpg</picture>
-				<name>Гайки 10мм</name>
-				<description>
-					Новые гайки диаметром 10мм  SCF  H  Hx  S  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220143784" available="true">
-				<url>https://avito.ru/2220143784?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://88.img.avito.st/640x480/11650187888.jpg</picture>
-				<name>Штатив алюминиевый на винтах или клипсах vega S6</name>
-				<description>
-					Штатив VEGA S6-2 1710мм резьба 5/8&apos;&apos; 3.8кг раздвижной алюминиевый плоская площадка  Легкий алюминиевый раздвижной штатив с плоской площадкой для установки нивелиров.
-				</description>
-			</offer>
-			<offer id="2220580233" available="true">
-				<url>https://avito.ru/2220580233?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>700</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://13.img.avito.st/640x480/11658734613.jpg</picture>
-				<name>Монтажный профиль</name>
-				<description>
-					Монтажный профиль MQ-21  Размер 450мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220034109" available="true">
-				<url>https://avito.ru/2220034109?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://95.img.avito.st/640x480/11658064495.jpg</picture>
-				<name>Балка двутавровая бу 20к2</name>
-				<description>
-					Балки двутавр 20к2  Есть в наличии : 7шт по 12м  2шт по 6метов   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.
-				</description>
-			</offer>
-			<offer id="2220114755" available="true">
-				<url>https://avito.ru/2220114755?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://83.img.avito.st/640x480/11659204183.jpg</picture>
-				<name>Опорная труба dn 100 duker</name>
-				<description>
-					Опорные трубы немецкого производителя SML-компонентов используются для монтажа вертикальных стояков канализации. Это прямые участки чугунных труб с внутренним и внешним защитным 2-слойным покрытием, таким же, какое имеют отводы, тройники, переходники Duker.   Высота 200мм  Диаметр 100мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220734759" available="true">
-				<url>https://avito.ru/2220734759?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://67.img.avito.st/640x480/11650136467.jpg</picture>
-				<name>Пила по бетону</name>
-				<description>
-					Пила по бетону, 700мм длина полотна.  Имеется 34 резца, напайки изготовлены из высококачественного твердосплава ВК8.   Работает по Пенобетону и Твердосплаву
-				</description>
-			</offer>
-			<offer id="2220395168" available="true">
-				<url>https://avito.ru/2220395168?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://23.img.avito.st/640x480/11649910723.jpg</picture>
-				<name>Захват крановый 3к1</name>
-				<description>
-					Захват крановый 3к1   Захват Предназначен для строповки панели из щитовой опалубки   Захват стыкуется с щитами стеновой опалубки следующих производителей дельта, дельта 2, омега , гамма , peri
+					820.090.110 Отвод для канализационной раструбной трубы из нержавеющей стали BLUCHER диаметр 110 мм угол 87,5 градусов  Будучи нужных диаметров, они позволяют изогнуть трубопроводы в системах SML-канализации под разными углами и в разных плоскостях. При этом 88 отвод является наиболее популярным, так как это самый распространённый угол.
 				</description>
 			</offer>
 			<offer id="2220390784" available="true">
@@ -143,92 +44,15 @@
 					Высокоэффективный распорный анкер для бетона с трещинами и для использования в сейсмических условиях (углеродистая сталь)  Длинна анкера 220 мм  Размер анкера M16  Отверстие в основании с зазором 18мм  Требуемый момент затяжки 110 Нм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
-			<offer id="2220219107" available="true">
-				<url>https://avito.ru/2220219107?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>2000</price>
+			<offer id="2220311300" available="true">
+				<url>https://avito.ru/2220311300?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>2100</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://44.img.avito.st/640x480/11658623644.jpg</picture>
-				<name>Blucher Отвод 87,5</name>
+				<picture>https://83.img.avito.st/640x480/11688708283.jpg</picture>
+				<name>Кронштейны зус</name>
 				<description>
-					820.090.110 Отвод для канализационной раструбной трубы из нержавеющей стали BLUCHER диаметр 110 мм угол 87,5 градусов  Будучи нужных диаметров, они позволяют изогнуть трубопроводы в системах SML-канализации под разными углами и в разных плоскостях. При этом 88 отвод является наиболее популярным, так как это самый распространённый угол.
-				</description>
-			</offer>
-			<offer id="2219915868" available="true">
-				<url>https://avito.ru/2219915868?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>1950</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://67.img.avito.st/640x480/11688763967.jpg</picture>
-				<name>Сендвич панели новые 7метров минвата</name>
-				<description>
-					Сендвич панели из минеральной ваты (120мм)   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
-				</description>
-			</offer>
-			<offer id="2220155822" available="true">
-				<url>https://avito.ru/2220155822?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://32.img.avito.st/640x480/11654957332.jpg</picture>
-				<name>Саморезы</name>
-				<description>
-					Саморезы разных размеров   Размеры  0,3х30  0,3х50  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220384464" available="true">
-				<url>https://avito.ru/2220384464?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://20.img.avito.st/640x480/11649886020.jpg</picture>
-				<name>Правило алюминиевое</name>
-				<description>
-					Правило алюминиевое трапеция 3м, полностью новые, одно реоро жёсткости. В наличии 14 штук  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220787904" available="true">
-				<url>https://avito.ru/2220787904?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>1200</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://78.img.avito.st/640x480/11676066278.jpg</picture>
-				<name>Прймер битумный</name>
-				<description>
-					Предназначен для подготовки (огрунтовки) оснований перед укладкой наплавляемых, самоклеящихся кровельных и гидроизоляционных материалов, для гидроизоляции во внутренних помещениях. При температуре ниже +5С выдерживать в теплом помещении не менее 24 часов. Время высыхания одного слоя 24 часа. Состав Смесь нефтяных битумов, минеральных наполнителей.  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.  Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220336012" available="true">
-				<url>https://avito.ru/2220336012?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://30.img.avito.st/640x480/11654567730.jpg</picture>
-				<name>Гвозди 45мм</name>
-				<description>
-					Гвозди универсальные для крепления в бетон   Длина 45мм  Ширина 3мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220132641" available="true">
-				<url>https://avito.ru/2220132641?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>1950</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://61.img.avito.st/640x480/11686623361.jpg</picture>
-				<name>Сендвич панели новые минвата 120 мм</name>
-				<description>
-					Самая низкая цена на авито !!   Сендвич панели новые   Цена указана за объём ,только в том случае, если забираете весь объём на данный момент 1100 квадратных метров   Минеральная вата (мин вата )   Плотность минеральной ваты 130кг на кубический метр , толщина метла 0,5мм    Используется для возведение зданий, мин вата во многом превосходит пенополистирол, пожаростойкий , 120мм минваты заменяет 1 метр кирпича   Можем помочь с доставкой, также есть бригада которая поможет произвести монтаж и демонтаж !   С удовольствием расскажу подробней по телефону  Теги , стройка, утеплитель, быстровозводимое здание , ангар , бытовка, панель, сендвич, минвата, автосервис, склад , коммерческая недвижимость !   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
-				</description>
-			</offer>
-			<offer id="2219996195" available="true">
-				<url>https://avito.ru/2219996195?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://34.img.avito.st/640x480/11686650434.jpg</picture>
-				<name>Сендвич панели новые 120 мм</name>
-				<description>
-					Состояние новое, продаю остатки после строительства, толщина 120мм , Ширина 1 метр , длинна разная !   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
+					Кронштейны зус (профильная труба 60х60, 50х50)   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
 				</description>
 			</offer>
 			<offer id="2220187192" available="true">
@@ -242,6 +66,72 @@
 					Сендвич панели из минваты   Количество 1000 квадратов, цена актуально за объём !   Минеральная вата , панели   Длинна 5990 мм   Ширина 1000 мм  Толщина 120 мм   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
 				</description>
 			</offer>
+			<offer id="2220020922" available="true">
+				<url>https://avito.ru/2220020922?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://55.img.avito.st/640x480/11654383555.jpg</picture>
+				<name>Гайки 10мм</name>
+				<description>
+					Новые гайки диаметром 10мм  SCF  H  Hx  S  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220205924" available="true">
+				<url>https://avito.ru/2220205924?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://05.img.avito.st/640x480/11654599305.jpg</picture>
+				<name>Клиновой анкер М20</name>
+				<description>
+					Клиновой анкер используется для установки в бетон   Диаметр установки 20мм  Длина анкера 120мм  Диаметр резьбы М20  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220734759" available="true">
+				<url>https://avito.ru/2220734759?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://67.img.avito.st/640x480/11650136467.jpg</picture>
+				<name>Пила по бетону</name>
+				<description>
+					Пила по бетону, 700мм длина полотна.  Имеется 34 резца, напайки изготовлены из высококачественного твердосплава ВК8.   Работает по Пенобетону и Твердосплаву
+				</description>
+			</offer>
+			<offer id="2220395168" available="true">
+				<url>https://avito.ru/2220395168?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://23.img.avito.st/640x480/11649910723.jpg</picture>
+				<name>Захват крановый 3к1</name>
+				<description>
+					Захват крановый 3к1   Захват Предназначен для строповки панели из щитовой опалубки   Захват стыкуется с щитами стеновой опалубки следующих производителей дельта, дельта 2, омега , гамма , peri
+				</description>
+			</offer>
+			<offer id="2220034109" available="true">
+				<url>https://avito.ru/2220034109?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://95.img.avito.st/640x480/11658064495.jpg</picture>
+				<name>Балка двутавровая бу 20к2</name>
+				<description>
+					Балки двутавр 20к2  Есть в наличии : 7шт по 12м  2шт по 6метов   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.
+				</description>
+			</offer>
+			<offer id="2220114755" available="true">
+				<url>https://avito.ru/2220114755?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://83.img.avito.st/640x480/11659204183.jpg</picture>
+				<name>Опорная труба dn 100 duker</name>
+				<description>
+					Опорные трубы немецкого производителя SML-компонентов используются для монтажа вертикальных стояков канализации. Это прямые участки чугунных труб с внутренним и внешним защитным 2-слойным покрытием, таким же, какое имеют отводы, тройники, переходники Duker.   Высота 200мм  Диаметр 100мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
 			<offer id="2220329089" available="true">
 				<url>https://avito.ru/2220329089?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
 				<price>0</price>
@@ -251,17 +141,6 @@
 				<name>Сендвич панели минвата (120)</name>
 				<description>
 					Сендвич панель минвата   Длинна 7метров   Ширина 1 метр   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.
-				</description>
-			</offer>
-			<offer id="2220659188" available="true">
-				<url>https://avito.ru/2220659188?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>6000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://63.img.avito.st/640x480/11654202663.jpg</picture>
-				<name>Зрительная труба</name>
-				<description>
-					Зрительная труба, Vega L24 auto-level  Автоматический нивелир с компенсатором VEGA L24 для строительных работ. Компенсатор с магнитным демпфером. Закрытый горизонтальный лимб. Повышенная влагозащита корпуса (IPX4).  Современная конструкция компенсатора с магнитным демпфером,  Повышенная влагозащита,  Закрытый горизонтальный лимб,  Стандартный комплект.  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
 			<offer id="2220034778" available="true">
@@ -286,15 +165,26 @@
 					Болт DIN 933   Размеры 10х70, M8х3,5  Оцинкованный с полной резьбой   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
-			<offer id="2220571664" available="true">
-				<url>https://avito.ru/2220571664?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>7000</price>
+			<offer id="2220580233" available="true">
+				<url>https://avito.ru/2220580233?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>700</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://16.img.avito.st/640x480/11658531516.jpg</picture>
-				<name>Соединитель пресс-фланец</name>
+				<picture>https://13.img.avito.st/640x480/11658734613.jpg</picture>
+				<name>Монтажный профиль</name>
 				<description>
-					Соединитель-пресс-фланец NiroSan из нержавеющей стали   Ду 80/88.9   Тип VA-PF  Давление, бар 16  Материал нержавеющая сталь  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+					Монтажный профиль MQ-21  Размер 450мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220384464" available="true">
+				<url>https://avito.ru/2220384464?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://20.img.avito.st/640x480/11649886020.jpg</picture>
+				<name>Правило алюминиевое</name>
+				<description>
+					Правило алюминиевое трапеция 3м, полностью новые, одно реоро жёсткости. В наличии 14 штук  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
 			<offer id="2220491460" available="true">
@@ -308,26 +198,15 @@
 					Гвозди разных размеров  2,5х50  4,0х100  3,0х70  2,5х50
 				</description>
 			</offer>
-			<offer id="2219919700" available="true">
-				<url>https://avito.ru/2219919700?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>200</price>
+			<offer id="2220768372" available="true">
+				<url>https://avito.ru/2220768372?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>2200</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://12.img.avito.st/640x480/11658433212.jpg</picture>
-				<name>Розетка стационарная наружная</name>
+				<picture>https://72.img.avito.st/640x480/11688778672.jpg</picture>
+				<name>Новые сендвич панели (в наличии)</name>
 				<description>
-					R(OUT)-32-3P-PE-N-IP44 ЭРА Розетка стационарная наружная 125 3Р+РЕ+N 32А 380В IP44  В наличии 21 шт  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
-				</description>
-			</offer>
-			<offer id="2220150747" available="true">
-				<url>https://avito.ru/2220150747?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>0</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>5</categoryId>
-				<picture>https://42.img.avito.st/640x480/11654409342.jpg</picture>
-				<name>Изолента двусторонняя</name>
-				<description>
-					Изолента двусторонняя на хлопчато-бумажной основе  Ширина 19мм  Длина 21м  Вес 300гр  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+					Новые сендвич панели в наличии на складе минвата (120 мм)  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
 				</description>
 			</offer>
 			<offer id="2220335727" available="true">
@@ -341,26 +220,37 @@
 					Клиновой анкер для крепления тяжелых конструкций в плотных строительных материалах  Размер анкера 12х100  В наличии много упаковок   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
-			<offer id="2220768372" available="true">
-				<url>https://avito.ru/2220768372?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>2200</price>
+			<offer id="2220182124" available="true">
+				<url>https://avito.ru/2220182124?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>60000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://72.img.avito.st/640x480/11688778672.jpg</picture>
-				<name>Новые сендвич панели (в наличии)</name>
+				<picture>https://59.img.avito.st/640x480/11706255759.jpg</picture>
+				<name>Вагончик для проживания бытовки</name>
 				<description>
-					Новые сендвич панели в наличии на складе минвата (120 мм)  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
+					Отдаю 3 бытовки по. 60т   Состояние нормальное ,   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.
 				</description>
 			</offer>
-			<offer id="2220124309" available="true">
-				<url>https://avito.ru/2220124309?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
-				<price>450000</price>
+			<offer id="2219915868" available="true">
+				<url>https://avito.ru/2219915868?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>1950</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>5</categoryId>
-				<picture>https://22.img.avito.st/640x480/11768891622.jpg</picture>
-				<name>Дизельный компрессор бу</name>
+				<picture>https://67.img.avito.st/640x480/11688763967.jpg</picture>
+				<name>Сендвич панели новые 7метров минвата</name>
 				<description>
-					Дизельный компрессор CPS 185 , Состояние рабочее , компрессор готов к работе , обслужен полностью   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле
+					Сендвич панели из минеральной ваты (120мм)   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
+				</description>
+			</offer>
+			<offer id="2220155822" available="true">
+				<url>https://avito.ru/2220155822?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://32.img.avito.st/640x480/11654957332.jpg</picture>
+				<name>Саморезы</name>
+				<description>
+					Саморезы разных размеров   Размеры  0,3х30  0,3х50  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
 			<offer id="2220267658" available="true">
@@ -385,6 +275,39 @@
 					Светильники потолочные, новые, высота при складировании не более 1м, имеются в наличии две штуки  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
 				</description>
 			</offer>
+			<offer id="2220124309" available="true">
+				<url>https://avito.ru/2220124309?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>450000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://22.img.avito.st/640x480/11768891622.jpg</picture>
+				<name>Дизельный компрессор бу</name>
+				<description>
+					Дизельный компрессор CPS 185 , Состояние рабочее , компрессор готов к работе , обслужен полностью   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220143784" available="true">
+				<url>https://avito.ru/2220143784?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://88.img.avito.st/640x480/11650187888.jpg</picture>
+				<name>Штатив алюминиевый на винтах или клипсах vega S6</name>
+				<description>
+					Штатив VEGA S6-2 1710мм резьба 5/8&apos;&apos; 3.8кг раздвижной алюминиевый плоская площадка  Легкий алюминиевый раздвижной штатив с плоской площадкой для установки нивелиров.
+				</description>
+			</offer>
+			<offer id="2220659188" available="true">
+				<url>https://avito.ru/2220659188?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>6000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://63.img.avito.st/640x480/11654202663.jpg</picture>
+				<name>Зрительная труба</name>
+				<description>
+					Зрительная труба, Vega L24 auto-level  Автоматический нивелир с компенсатором VEGA L24 для строительных работ. Компенсатор с магнитным демпфером. Закрытый горизонтальный лимб. Повышенная влагозащита корпуса (IPX4).  Современная конструкция компенсатора с магнитным демпфером,  Повышенная влагозащита,  Закрытый горизонтальный лимб,  Стандартный комплект.  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
 			<offer id="2220726993" available="true">
 				<url>https://avito.ru/2220726993?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
 				<price>2199</price>
@@ -405,6 +328,83 @@
 				<name>Оцинкованный двойной роликовый соединитель</name>
 				<description>
 					Оцинкованный двойной роликовый соединитель премиум-класса для тяжелых условий эксплуатации в системах отопления и охлаждения  Резьбовое соединение - M: M12, M16  Высота - H: 45 мм  Максимальная нагрузка - F: 8 кН  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220132641" available="true">
+				<url>https://avito.ru/2220132641?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>1950</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://61.img.avito.st/640x480/11686623361.jpg</picture>
+				<name>Сендвич панели новые минвата 120 мм</name>
+				<description>
+					Самая низкая цена на авито !!   Сендвич панели новые   Цена указана за объём ,только в том случае, если забираете весь объём на данный момент 1100 квадратных метров   Минеральная вата (мин вата )   Плотность минеральной ваты 130кг на кубический метр , толщина метла 0,5мм    Используется для возведение зданий, мин вата во многом превосходит пенополистирол, пожаростойкий , 120мм минваты заменяет 1 метр кирпича   Можем помочь с доставкой, также есть бригада которая поможет произвести монтаж и демонтаж !   С удовольствием расскажу подробней по телефону  Теги , стройка, утеплитель, быстровозводимое здание , ангар , бытовка, панель, сендвич, минвата, автосервис, склад , коммерческая недвижимость !   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
+				</description>
+			</offer>
+			<offer id="2220150747" available="true">
+				<url>https://avito.ru/2220150747?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://42.img.avito.st/640x480/11654409342.jpg</picture>
+				<name>Изолента двусторонняя</name>
+				<description>
+					Изолента двусторонняя на хлопчато-бумажной основе  Ширина 19мм  Длина 21м  Вес 300гр  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2219919700" available="true">
+				<url>https://avito.ru/2219919700?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://12.img.avito.st/640x480/11658433212.jpg</picture>
+				<name>Розетка стационарная наружная</name>
+				<description>
+					R(OUT)-32-3P-PE-N-IP44 ЭРА Розетка стационарная наружная 125 3Р+РЕ+N 32А 380В IP44  В наличии 21 шт  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220571664" available="true">
+				<url>https://avito.ru/2220571664?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>7000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://16.img.avito.st/640x480/11658531516.jpg</picture>
+				<name>Соединитель пресс-фланец</name>
+				<description>
+					Соединитель-пресс-фланец NiroSan из нержавеющей стали   Ду 80/88.9   Тип VA-PF  Давление, бар 16  Материал нержавеющая сталь  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220787904" available="true">
+				<url>https://avito.ru/2220787904?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>1200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://78.img.avito.st/640x480/11676066278.jpg</picture>
+				<name>Прймер битумный</name>
+				<description>
+					Предназначен для подготовки (огрунтовки) оснований перед укладкой наплавляемых, самоклеящихся кровельных и гидроизоляционных материалов, для гидроизоляции во внутренних помещениях. При температуре ниже +5С выдерживать в теплом помещении не менее 24 часов. Время высыхания одного слоя 24 часа. Состав Смесь нефтяных битумов, минеральных наполнителей.  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.  Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2220336012" available="true">
+				<url>https://avito.ru/2220336012?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://30.img.avito.st/640x480/11654567730.jpg</picture>
+				<name>Гвозди 45мм</name>
+				<description>
+					Гвозди универсальные для крепления в бетон   Длина 45мм  Ширина 3мм  Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.     Больше интересного в профиле
+				</description>
+			</offer>
+			<offer id="2219996195" available="true">
+				<url>https://avito.ru/2219996195?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=11335822</url>
+				<price>0</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>5</categoryId>
+				<picture>https://34.img.avito.st/640x480/11686650434.jpg</picture>
+				<name>Сендвич панели новые 120 мм</name>
+				<description>
+					Состояние новое, продаю остатки после строительства, толщина 120мм , Ширина 1 метр , длинна разная !   Выкуп строительных оборудований и материалов , оперативная и адекватная оценка.   Больше интересного в профиле !
 				</description>
 			</offer>
 		</offers>

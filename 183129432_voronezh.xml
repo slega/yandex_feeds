@@ -1,4 +1,4 @@
-<yml_catalog date="2021-10-14 13:20">
+<yml_catalog date="2021-10-15 12:36">
 	<shop>
 		<name>Avito feed</name>
 		<company>Avito</company>
@@ -11,26 +11,92 @@
 			<category id ="4" parentId="1">General.HomeAndGarden</category>
 		</categories>
 		<offers>
-			<offer id="2230040433" available="true">
-				<url>https://avito.ru/2230040433?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
+			<offer id="2230457472" available="true">
+				<url>https://avito.ru/2230457472?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://75.img.avito.st/640x480/11781831975.jpg</picture>
-				<name>Чашки вербилки</name>
+				<picture>https://30.img.avito.st/640x480/11840726830.jpg</picture>
+				<name>Стаканы СССР</name>
 				<description>
-					Цена за 6 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Объём 200 лм., высота 10,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230143567" available="true">
-				<url>https://avito.ru/2230143567?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
+			<offer id="2230352191" available="true">
+				<url>https://avito.ru/2230352191?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>200</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://04.img.avito.st/640x480/11815450704.jpg</picture>
-				<name>Хрустальная ваза для цветов СССР</name>
+				<picture>https://56.img.avito.st/640x480/11699562256.jpg</picture>
+				<name>Сливочник гфз</name>
 				<description>
-					Высота 20,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+					Смотрите много объявлений в моем профиле   При покупке от 1000 руб. по Воронежу привезу бесплатно.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230716035" available="true">
+				<url>https://avito.ru/2230716035?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://04.img.avito.st/640x480/11700026504.jpg</picture>
+				<name>Сливочник</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно.  Бронирую и доставляю после предоплаты двести рублей.
+				</description>
+			</offer>
+			<offer id="2230476107" available="true">
+				<url>https://avito.ru/2230476107?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://13.img.avito.st/640x480/11781664613.jpg</picture>
+				<name>Штоф хрустальный</name>
+				<description>
+					Объём 700 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230182065" available="true">
+				<url>https://avito.ru/2230182065?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://84.img.avito.st/640x480/11784419584.jpg</picture>
+				<name>Чайник 1,3л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230131707" available="true">
+				<url>https://avito.ru/2230131707?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://77.img.avito.st/640x480/11794485477.jpg</picture>
+				<name>Конфетница ладья</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230882163" available="true">
+				<url>https://avito.ru/2230882163?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://13.img.avito.st/640x480/11781706013.jpg</picture>
+				<name>Кувшин дымчатое стекло СССР</name>
+				<description>
+					Объём 1,5 л.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230632512" available="true">
+				<url>https://avito.ru/2230632512?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://08.img.avito.st/640x480/11794305908.jpg</picture>
+				<name>Супница Богемия Чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле
 				</description>
 			</offer>
 			<offer id="2230758989" available="true">
@@ -44,6 +110,17 @@
 					Диаметр 24 см, высота 17 см.  Смотрите много объявлений в н  При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
+			<offer id="2230143567" available="true">
+				<url>https://avito.ru/2230143567?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://04.img.avito.st/640x480/11815450704.jpg</picture>
+				<name>Хрустальная ваза для цветов СССР</name>
+				<description>
+					Высота 20,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
 			<offer id="2230063047" available="true">
 				<url>https://avito.ru/2230063047?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
 				<price>800</price>
@@ -53,6 +130,138 @@
 				<name>Ваза для фруктов, конфетница из зеленого стекла</name>
 				<description>
 					Диаметр 17,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230233415" available="true">
+				<url>https://avito.ru/2230233415?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>250</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11700855100.jpg</picture>
+				<name>Графин штоф СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229985989" available="true">
+				<url>https://avito.ru/2229985989?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://64.img.avito.st/640x480/11782622664.jpg</picture>
+				<name>Ножи столовые мельхиор</name>
+				<description>
+					В наличии 10 шт.   Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230419009" available="true">
+				<url>https://avito.ru/2230419009?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://42.img.avito.st/640x480/11829097142.jpg</picture>
+				<name>Кувшин 1,2 л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230801517" available="true">
+				<url>https://avito.ru/2230801517?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://88.img.avito.st/640x480/11783676288.jpg</picture>
+				<name>Кувшин 800 мл</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230751307" available="true">
+				<url>https://avito.ru/2230751307?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://79.img.avito.st/640x480/11783916579.jpg</picture>
+				<name>Штоф Богемия</name>
+				<description>
+					Цена за штоф и 4 рюмки
+				</description>
+			</offer>
+			<offer id="2230540099" available="true">
+				<url>https://avito.ru/2230540099?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://49.img.avito.st/640x480/11700714349.jpg</picture>
+				<name>Стеклянная ваза СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230117585" available="true">
+				<url>https://avito.ru/2230117585?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>400</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://10.img.avito.st/640x480/11700680010.jpg</picture>
+				<name>Конфетница стекло мельхиор СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230743344" available="true">
+				<url>https://avito.ru/2230743344?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://90.img.avito.st/640x480/11699830790.jpg</picture>
+				<name>Синее стекло бокалы</name>
+				<description>
+					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230137532" available="true">
+				<url>https://avito.ru/2230137532?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>150</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://18.img.avito.st/640x480/11700095818.jpg</picture>
+				<name>Сахарница</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230366787" available="true">
+				<url>https://avito.ru/2230366787?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>700</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://98.img.avito.st/640x480/11781896398.jpg</picture>
+				<name>Хрустальная ладья с мельхиоровой ручкой</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230556386" available="true">
+				<url>https://avito.ru/2230556386?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://11.img.avito.st/640x480/11781985511.jpg</picture>
+				<name>Хрустальная ваза для цветов СССР</name>
+				<description>
+					Высота 14 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229916511" available="true">
+				<url>https://avito.ru/2229916511?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://99.img.avito.st/640x480/11793665299.jpg</picture>
+				<name>Сливочник Дулево</name>
+				<description>
+					Смотрите много объявлений в моем профиле
 				</description>
 			</offer>
 			<offer id="2230773266" available="true">
@@ -66,26 +275,15 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230759286" available="true">
-				<url>https://avito.ru/2230759286?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>350</price>
+			<offer id="2230023392" available="true">
+				<url>https://avito.ru/2230023392?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1000</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://55.img.avito.st/640x480/11794284355.jpg</picture>
-				<name>Тортовница СССР</name>
+				<picture>https://70.img.avito.st/640x480/11829004670.jpg</picture>
+				<name>Ваза конфетница на ножке СССР</name>
 				<description>
-					Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230871173" available="true">
-				<url>https://avito.ru/2230871173?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://35.img.avito.st/640x480/11783789035.jpg</picture>
-				<name>Чайный сервиз</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Высота 25,5 см. Диаметр 29 см.  Смотрите много объявлений в моем профиле  При покупке от пятисот рублей по Воронежу привезу бесплатно  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230026824" available="true">
@@ -110,37 +308,15 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230233415" available="true">
-				<url>https://avito.ru/2230233415?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>250</price>
+			<offer id="2230744695" available="true">
+				<url>https://avito.ru/2230744695?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://00.img.avito.st/640x480/11700855100.jpg</picture>
-				<name>Графин штоф СССР</name>
+				<picture>https://65.img.avito.st/640x480/11781497365.jpg</picture>
+				<name>Чайная пара костяной фарфор в японском стиле</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230116072" available="true">
-				<url>https://avito.ru/2230116072?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>850</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://02.img.avito.st/640x480/11794259102.jpg</picture>
-				<name>Ложки кофейные СССР</name>
-				<description>
-					12,5 см
-				</description>
-			</offer>
-			<offer id="2230539642" available="true">
-				<url>https://avito.ru/2230539642?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>150</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://08.img.avito.st/640x480/11808378808.jpg</picture>
-				<name>Коктельные стаканы СССР</name>
-				<description>
-					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+					Чашка 280 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230029813" available="true">
@@ -176,521 +352,15 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230744695" available="true">
-				<url>https://avito.ru/2230744695?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://65.img.avito.st/640x480/11781497365.jpg</picture>
-				<name>Чайная пара костяной фарфор в японском стиле</name>
-				<description>
-					Чашка 280 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230117585" available="true">
-				<url>https://avito.ru/2230117585?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>400</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://10.img.avito.st/640x480/11700680010.jpg</picture>
-				<name>Конфетница стекло мельхиор СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230540099" available="true">
-				<url>https://avito.ru/2230540099?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://49.img.avito.st/640x480/11700714349.jpg</picture>
-				<name>Стеклянная ваза СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230751307" available="true">
-				<url>https://avito.ru/2230751307?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://79.img.avito.st/640x480/11783916579.jpg</picture>
-				<name>Штоф Богемия</name>
-				<description>
-					Цена за штоф и 4 рюмки
-				</description>
-			</offer>
-			<offer id="2230743344" available="true">
-				<url>https://avito.ru/2230743344?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>350</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://90.img.avito.st/640x480/11699830790.jpg</picture>
-				<name>Синее стекло бокалы</name>
-				<description>
-					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230632512" available="true">
-				<url>https://avito.ru/2230632512?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://08.img.avito.st/640x480/11794305908.jpg</picture>
-				<name>Супница Богемия Чехословакия</name>
-				<description>
-					Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230882163" available="true">
-				<url>https://avito.ru/2230882163?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>600</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://13.img.avito.st/640x480/11781706013.jpg</picture>
-				<name>Кувшин дымчатое стекло СССР</name>
-				<description>
-					Объём 1,5 л.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230476107" available="true">
-				<url>https://avito.ru/2230476107?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://13.img.avito.st/640x480/11781664613.jpg</picture>
-				<name>Штоф хрустальный</name>
-				<description>
-					Объём 700 мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230182065" available="true">
-				<url>https://avito.ru/2230182065?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://84.img.avito.st/640x480/11784419584.jpg</picture>
-				<name>Чайник 1,3л</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230716035" available="true">
-				<url>https://avito.ru/2230716035?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>200</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://04.img.avito.st/640x480/11700026504.jpg</picture>
-				<name>Сливочник</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно.  Бронирую и доставляю после предоплаты двести рублей.
-				</description>
-			</offer>
-			<offer id="2230352191" available="true">
-				<url>https://avito.ru/2230352191?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>200</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://56.img.avito.st/640x480/11699562256.jpg</picture>
-				<name>Сливочник гфз</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от 1000 руб. по Воронежу привезу бесплатно.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230131707" available="true">
-				<url>https://avito.ru/2230131707?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://77.img.avito.st/640x480/11794485477.jpg</picture>
-				<name>Конфетница ладья</name>
-				<description>
-					Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230457472" available="true">
-				<url>https://avito.ru/2230457472?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://30.img.avito.st/640x480/11840726830.jpg</picture>
-				<name>Стаканы СССР</name>
-				<description>
-					Объём 200 лм., высота 10,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230486671" available="true">
-				<url>https://avito.ru/2230486671?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>900</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://65.img.avito.st/640x480/11781391265.jpg</picture>
-				<name>Хрустальные рюмки с мельхиором СССР</name>
-				<description>
-					ВАСО а 7,3 см, диаметр 4,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230347554" available="true">
-				<url>https://avito.ru/2230347554?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>6000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://81.img.avito.st/640x480/11794006181.jpg</picture>
-				<name>Ваза хрустальная с серебром</name>
-				<description>
-					Высота 29 см.Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230568971" available="true">
-				<url>https://avito.ru/2230568971?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://52.img.avito.st/640x480/11781783752.jpg</picture>
-				<name>Чайник граненый СССР 3,5 л</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229924897" available="true">
-				<url>https://avito.ru/2229924897?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://00.img.avito.st/640x480/11793678700.jpg</picture>
-				<name>Чайная пара дулево</name>
-				<description>
-					Цена за 1 пару. Есть отдельно 2 чашки
-				</description>
-			</offer>
-			<offer id="2230241071" available="true">
-				<url>https://avito.ru/2230241071?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>450</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://95.img.avito.st/640x480/11700374795.jpg</picture>
-				<name>Огромная ваза на ножке СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно.  Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229961171" available="true">
-				<url>https://avito.ru/2229961171?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://04.img.avito.st/640x480/11784399404.jpg</picture>
-				<name>Хрустальные рюмки СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230663661" available="true">
-				<url>https://avito.ru/2230663661?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://91.img.avito.st/640x480/11793742291.jpg</picture>
-				<name>Пивной бокал</name>
-				<description>
-					Высота 27 см.
-				</description>
-			</offer>
-			<offer id="2230325563" available="true">
-				<url>https://avito.ru/2230325563?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://00.img.avito.st/640x480/11794497000.jpg</picture>
-				<name>Сахарница Богемия Чехословакия</name>
-				<description>
-					Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230212560" available="true">
-				<url>https://avito.ru/2230212560?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>600</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://32.img.avito.st/640x480/11701197032.jpg</picture>
-				<name>Блюдо с позолотой ручная работа Кисловодск</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно . Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229916511" available="true">
-				<url>https://avito.ru/2229916511?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://99.img.avito.st/640x480/11793665299.jpg</picture>
-				<name>Сливочник Дулево</name>
-				<description>
-					Смотрите много объявлений в моем профиле
-				</description>
-			</offer>
-			<offer id="2230366787" available="true">
-				<url>https://avito.ru/2230366787?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>700</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://98.img.avito.st/640x480/11781896398.jpg</picture>
-				<name>Хрустальная ладья с мельхиоровой ручкой</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230137532" available="true">
-				<url>https://avito.ru/2230137532?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+			<offer id="2230539642" available="true">
+				<url>https://avito.ru/2230539642?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
 				<price>150</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://18.img.avito.st/640x480/11700095818.jpg</picture>
-				<name>Сахарница</name>
+				<picture>https://08.img.avito.st/640x480/11808378808.jpg</picture>
+				<name>Коктельные стаканы СССР</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230556386" available="true">
-				<url>https://avito.ru/2230556386?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://11.img.avito.st/640x480/11781985511.jpg</picture>
-				<name>Хрустальная ваза для цветов СССР</name>
-				<description>
-					Высота 14 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230580898" available="true">
-				<url>https://avito.ru/2230580898?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://04.img.avito.st/640x480/11815205704.jpg</picture>
-				<name>Хрустальная конфетница</name>
-				<description>
-					Диаметр 20 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230229060" available="true">
-				<url>https://avito.ru/2230229060?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://15.img.avito.st/640x480/11840515715.jpg</picture>
-				<name>Хрустальная конфетница на ножке СССР</name>
-				<description>
-					Высота 23,5 см. Диаметр 28 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230240194" available="true">
-				<url>https://avito.ru/2230240194?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://58.img.avito.st/640x480/11781532758.jpg</picture>
-				<name>Сахарница</name>
-				<description>
-					Высота 10 см, объём 100мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230787726" available="true">
-				<url>https://avito.ru/2230787726?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://13.img.avito.st/640x480/11815228713.jpg</picture>
-				<name>Ваза для цветов хрустальная</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230048457" available="true">
-				<url>https://avito.ru/2230048457?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>350</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://21.img.avito.st/640x480/11841888021.jpg</picture>
-				<name>Кувшин керамический</name>
-				<description>
-					28,5 см высота   Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230821458" available="true">
-				<url>https://avito.ru/2230821458?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://79.img.avito.st/640x480/11782063679.jpg</picture>
-				<name>Чайный набор СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229901857" available="true">
-				<url>https://avito.ru/2229901857?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://48.img.avito.st/640x480/11815141548.jpg</picture>
-				<name>Ваза хрустальная для цветов</name>
-				<description>
-					Высота 25 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229907703" available="true">
-				<url>https://avito.ru/2229907703?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>600</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://14.img.avito.st/640x480/11829077414.jpg</picture>
-				<name>Хрустальные рюмки СССР</name>
-				<description>
-					Высота 7,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230698717" available="true">
-				<url>https://avito.ru/2230698717?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://38.img.avito.st/640x480/11784335138.jpg</picture>
-				<name>Стаканы Богемия</name>
-				<description>
-					Высота 8 см, диаметр 8 см. Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230305319" available="true">
-				<url>https://avito.ru/2230305319?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://05.img.avito.st/640x480/11701239805.jpg</picture>
-				<name>Ваза на ножке стекло СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230633248" available="true">
-				<url>https://avito.ru/2230633248?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>150</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://36.img.avito.st/640x480/11699516936.jpg</picture>
-				<name>Подсвечники хрустальные</name>
-				<description>
-					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от 500 руб по Воронежу привезу бесплатно. (Развожу 2 раза в неделю)  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230342070" available="true">
-				<url>https://avito.ru/2230342070?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>250</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://39.img.avito.st/640x480/11700879939.jpg</picture>
-				<name>Штоф СССР</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230202437" available="true">
-				<url>https://avito.ru/2230202437?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://39.img.avito.st/640x480/11794074739.jpg</picture>
-				<name>Сервиз гдр kahla</name>
-				<description>
-					Нет 1й чашки и скол на блюдце.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230419009" available="true">
-				<url>https://avito.ru/2230419009?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>350</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://42.img.avito.st/640x480/11829097142.jpg</picture>
-				<name>Кувшин 1,2 л</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230801517" available="true">
-				<url>https://avito.ru/2230801517?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>600</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://88.img.avito.st/640x480/11783676288.jpg</picture>
-				<name>Кувшин 800 мл</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2229985989" available="true">
-				<url>https://avito.ru/2229985989?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>300</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://64.img.avito.st/640x480/11782622664.jpg</picture>
-				<name>Ножи столовые мельхиор</name>
-				<description>
-					В наличии 10 шт.   Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230066857" available="true">
-				<url>https://avito.ru/2230066857?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>500</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://36.img.avito.st/640x480/11815163036.jpg</picture>
-				<name>Конфетница</name>
-				<description>
-					Диаметр 19 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230427909" available="true">
-				<url>https://avito.ru/2230427909?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>250</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://90.img.avito.st/640x480/11793651890.jpg</picture>
-				<name>Хрустальная ваза</name>
-				<description>
-					Высота 8,5 см, диаметр 10 см
-				</description>
-			</offer>
-			<offer id="2230480151" available="true">
-				<url>https://avito.ru/2230480151?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>350</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://71.img.avito.st/640x480/11840603471.jpg</picture>
-				<name>Салатник СССР синее стекло</name>
-				<description>
-					Диаметр 23 см, высота 9,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230028762" available="true">
-				<url>https://avito.ru/2230028762?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>2800</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://30.img.avito.st/640x480/11840673530.jpg</picture>
-				<name>Кувшин хрустальный СССР 1,5 л</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230187299" available="true">
-				<url>https://avito.ru/2230187299?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>600</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://98.img.avito.st/640x480/11700562898.jpg</picture>
-				<name>Хрустальная ваза чехословакия</name>
-				<description>
-					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230135497" available="true">
@@ -715,59 +385,103 @@
 					Высота 18,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230593812" available="true">
-				<url>https://avito.ru/2230593812?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>200</price>
+			<offer id="2230187299" available="true">
+				<url>https://avito.ru/2230187299?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>600</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://41.img.avito.st/640x480/11706283041.jpg</picture>
-				<name>Ваза на ножке стекло СССР</name>
+				<picture>https://98.img.avito.st/640x480/11700562898.jpg</picture>
+				<name>Хрустальная ваза чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230202437" available="true">
+				<url>https://avito.ru/2230202437?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://39.img.avito.st/640x480/11794074739.jpg</picture>
+				<name>Сервиз гдр kahla</name>
+				<description>
+					Нет 1й чашки и скол на блюдце.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230342070" available="true">
+				<url>https://avito.ru/2230342070?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>250</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://39.img.avito.st/640x480/11700879939.jpg</picture>
+				<name>Штоф СССР</name>
 				<description>
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2229927396" available="true">
-				<url>https://avito.ru/2229927396?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1800</price>
+			<offer id="2230633248" available="true">
+				<url>https://avito.ru/2230633248?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>150</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://90.img.avito.st/640x480/11781343290.jpg</picture>
-				<name>Ваза с крышкой</name>
+				<picture>https://36.img.avito.st/640x480/11699516936.jpg</picture>
+				<name>Подсвечники хрустальные</name>
 				<description>
-					Высота 15 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Цена за 1 шт.  Смотрите много объявлений в моем профиле   При покупке от 500 руб по Воронежу привезу бесплатно. (Развожу 2 раза в неделю)  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230323360" available="true">
-				<url>https://avito.ru/2230323360?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>800</price>
+			<offer id="2230241071" available="true">
+				<url>https://avito.ru/2230241071?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>450</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://01.img.avito.st/640x480/11840484501.jpg</picture>
+				<picture>https://95.img.avito.st/640x480/11700374795.jpg</picture>
+				<name>Огромная ваза на ножке СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно.  Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229961171" available="true">
+				<url>https://avito.ru/2229961171?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://04.img.avito.st/640x480/11784399404.jpg</picture>
 				<name>Хрустальные рюмки СССР</name>
 				<description>
-					Высота 9,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230023392" available="true">
-				<url>https://avito.ru/2230023392?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://70.img.avito.st/640x480/11829004670.jpg</picture>
-				<name>Ваза конфетница на ножке СССР</name>
-				<description>
-					Высота 25,5 см. Диаметр 29 см.  Смотрите много объявлений в моем профиле  При покупке от пятисот рублей по Воронежу привезу бесплатно  Бронирую и доставляю после предоплаты двести рублей
-				</description>
-			</offer>
-			<offer id="2230779080" available="true">
-				<url>https://avito.ru/2230779080?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>1000</price>
-				<currencyId>RUB</currencyId>
-				<categoryId>4</categoryId>
-				<picture>https://14.img.avito.st/640x480/11783738514.jpg</picture>
-				<name>Тарелки Чехословакия D23см</name>
-				<description>
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230040433" available="true">
+				<url>https://avito.ru/2230040433?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://75.img.avito.st/640x480/11781831975.jpg</picture>
+				<name>Чашки вербилки</name>
+				<description>
+					Цена за 6 шт.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229907703" available="true">
+				<url>https://avito.ru/2229907703?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://14.img.avito.st/640x480/11829077414.jpg</picture>
+				<name>Хрустальные рюмки СССР</name>
+				<description>
+					Высота 7,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230116072" available="true">
+				<url>https://avito.ru/2230116072?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>850</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://02.img.avito.st/640x480/11794259102.jpg</picture>
+				<name>Ложки кофейные СССР</name>
+				<description>
+					12,5 см
 				</description>
 			</offer>
 			<offer id="2230242056" available="true">
@@ -781,15 +495,147 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230590366" available="true">
-				<url>https://avito.ru/2230590366?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+			<offer id="2230779080" available="true">
+				<url>https://avito.ru/2230779080?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://14.img.avito.st/640x480/11783738514.jpg</picture>
+				<name>Тарелки Чехословакия D23см</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230247988" available="true">
+				<url>https://avito.ru/2230247988?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>400</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://42.img.avito.st/640x480/11808324642.jpg</picture>
+				<name>Чайник 1л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230871173" available="true">
+				<url>https://avito.ru/2230871173?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://35.img.avito.st/640x480/11783789035.jpg</picture>
+				<name>Чайный сервиз</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230759286" available="true">
+				<url>https://avito.ru/2230759286?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://55.img.avito.st/640x480/11794284355.jpg</picture>
+				<name>Тортовница СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230698717" available="true">
+				<url>https://avito.ru/2230698717?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://38.img.avito.st/640x480/11784335138.jpg</picture>
+				<name>Стаканы Богемия</name>
+				<description>
+					Высота 8 см, диаметр 8 см. Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230305319" available="true">
+				<url>https://avito.ru/2230305319?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://05.img.avito.st/640x480/11701239805.jpg</picture>
+				<name>Ваза на ножке стекло СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230323360" available="true">
+				<url>https://avito.ru/2230323360?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://01.img.avito.st/640x480/11840484501.jpg</picture>
+				<name>Хрустальные рюмки СССР</name>
+				<description>
+					Высота 9,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229901857" available="true">
+				<url>https://avito.ru/2229901857?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://48.img.avito.st/640x480/11815141548.jpg</picture>
+				<name>Ваза хрустальная для цветов</name>
+				<description>
+					Высота 25 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230212560" available="true">
+				<url>https://avito.ru/2230212560?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
 				<price>600</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://10.img.avito.st/640x480/11781966310.jpg</picture>
-				<name>Заварочный чайник кольчугино</name>
+				<picture>https://32.img.avito.st/640x480/11701197032.jpg</picture>
+				<name>Блюдо с позолотой ручная работа Кисловодск</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно . Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230663661" available="true">
+				<url>https://avito.ru/2230663661?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://91.img.avito.st/640x480/11793742291.jpg</picture>
+				<name>Пивной бокал</name>
+				<description>
+					Высота 27 см.
+				</description>
+			</offer>
+			<offer id="2230325563" available="true">
+				<url>https://avito.ru/2230325563?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11794497000.jpg</picture>
+				<name>Сахарница Богемия Чехословакия</name>
+				<description>
+					Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230229060" available="true">
+				<url>https://avito.ru/2230229060?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://15.img.avito.st/640x480/11840515715.jpg</picture>
+				<name>Хрустальная конфетница на ножке СССР</name>
+				<description>
+					Высота 23,5 см. Диаметр 28 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230580898" available="true">
+				<url>https://avito.ru/2230580898?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://04.img.avito.st/640x480/11815205704.jpg</picture>
+				<name>Хрустальная конфетница</name>
+				<description>
+					Диаметр 20 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230677949" available="true">
@@ -801,6 +647,105 @@
 				<name>Набор для Фондю</name>
 				<description>
 					Все новое и запечатанное.  Смотрите много объявлений в моем профиле   При покупке от тысячи рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230590366" available="true">
+				<url>https://avito.ru/2230590366?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>600</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://10.img.avito.st/640x480/11781966310.jpg</picture>
+				<name>Заварочный чайник кольчугино</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2229924897" available="true">
+				<url>https://avito.ru/2229924897?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://00.img.avito.st/640x480/11793678700.jpg</picture>
+				<name>Чайная пара дулево</name>
+				<description>
+					Цена за 1 пару. Есть отдельно 2 чашки
+				</description>
+			</offer>
+			<offer id="2230347554" available="true">
+				<url>https://avito.ru/2230347554?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>6000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://81.img.avito.st/640x480/11794006181.jpg</picture>
+				<name>Ваза хрустальная с серебром</name>
+				<description>
+					Высота 29 см.Смотрите много объявлений в моем профиле
+				</description>
+			</offer>
+			<offer id="2230486671" available="true">
+				<url>https://avito.ru/2230486671?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>900</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://65.img.avito.st/640x480/11781391265.jpg</picture>
+				<name>Хрустальные рюмки с мельхиором СССР</name>
+				<description>
+					ВАСО а 7,3 см, диаметр 4,5 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230568971" available="true">
+				<url>https://avito.ru/2230568971?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://52.img.avito.st/640x480/11781783752.jpg</picture>
+				<name>Чайник граненый СССР 3,5 л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230427909" available="true">
+				<url>https://avito.ru/2230427909?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>250</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://90.img.avito.st/640x480/11793651890.jpg</picture>
+				<name>Хрустальная ваза</name>
+				<description>
+					Высота 8,5 см, диаметр 10 см
+				</description>
+			</offer>
+			<offer id="2230066857" available="true">
+				<url>https://avito.ru/2230066857?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>500</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://36.img.avito.st/640x480/11815163036.jpg</picture>
+				<name>Конфетница</name>
+				<description>
+					Диаметр 19 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230480151" available="true">
+				<url>https://avito.ru/2230480151?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://71.img.avito.st/640x480/11840603471.jpg</picture>
+				<name>Салатник СССР синее стекло</name>
+				<description>
+					Диаметр 23 см, высота 9,5 см.  Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230028762" available="true">
+				<url>https://avito.ru/2230028762?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>2800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://30.img.avito.st/640x480/11840673530.jpg</picture>
+				<name>Кувшин хрустальный СССР 1,5 л</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 			<offer id="2230042507" available="true">
@@ -825,15 +770,70 @@
 					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю.  Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
-			<offer id="2230247988" available="true">
-				<url>https://avito.ru/2230247988?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
-				<price>400</price>
+			<offer id="2229927396" available="true">
+				<url>https://avito.ru/2229927396?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1800</price>
 				<currencyId>RUB</currencyId>
 				<categoryId>4</categoryId>
-				<picture>https://42.img.avito.st/640x480/11808324642.jpg</picture>
-				<name>Чайник 1л</name>
+				<picture>https://90.img.avito.st/640x480/11781343290.jpg</picture>
+				<name>Ваза с крышкой</name>
 				<description>
-					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+					Высота 15 см, диаметр 12 см.  Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно. Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230593812" available="true">
+				<url>https://avito.ru/2230593812?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>200</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://41.img.avito.st/640x480/11706283041.jpg</picture>
+				<name>Ваза на ножке стекло СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230048457" available="true">
+				<url>https://avito.ru/2230048457?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>350</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://21.img.avito.st/640x480/11841888021.jpg</picture>
+				<name>Кувшин керамический</name>
+				<description>
+					28,5 см высота   Смотрите много объявлений в моем профиле   При покупке от тысячи руб по Воронежу привезу бесплатно   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230787726" available="true">
+				<url>https://avito.ru/2230787726?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>800</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://13.img.avito.st/640x480/11815228713.jpg</picture>
+				<name>Ваза для цветов хрустальная</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230821458" available="true">
+				<url>https://avito.ru/2230821458?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>1000</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://79.img.avito.st/640x480/11782063679.jpg</picture>
+				<name>Чайный набор СССР</name>
+				<description>
+					Смотрите много объявлений в моем профиле   При покупке от пятисот рублей по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
+				</description>
+			</offer>
+			<offer id="2230240194" available="true">
+				<url>https://avito.ru/2230240194?utm_medium=cpa&avito_campaign_id=55356230&utm_source=yandex&utm_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&utm_content=banner&idfa=ios_ifa&gps_adid=google_aid&adjust_t=bkgc5n_oxuwg2&adjust_campaign=web_yandex_buyers_b2b_general_all_network_14092021_any_none_b2b_all-content&adjust_adgroup=55356230&seller_id=183129432</url>
+				<price>300</price>
+				<currencyId>RUB</currencyId>
+				<categoryId>4</categoryId>
+				<picture>https://58.img.avito.st/640x480/11781532758.jpg</picture>
+				<name>Сахарница</name>
+				<description>
+					Высота 10 см, объём 100мл.  Смотрите много объявлений в моем профиле   При покупке от пятисот руб по Воронежу привезу бесплатно   Развожу два раза в неделю   Бронирую и доставляю после предоплаты двести рублей
 				</description>
 			</offer>
 		</offers>
